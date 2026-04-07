@@ -1,0 +1,17 @@
+name	MDS1	MDS2	file	dataset	marker	method	matrix_comp	codon_scheme	n_best
+faa_60_abs60_75_ASTRAL_IV.tre	-0.0153224558997725	-0.0145508640169663	/home/data/t200301/xjt/tree_chosen/back_bone/faa_60_abs60_75_ASTRAL_IV.tre	FAA	USCO	ASTRAL	>=75% taxa	NA	1
+FAA_60_ABS60_75.treefile	0.0370485286068202	-0.000848488859492011	/home/data/t200301/xjt/tree_chosen/back_bone/FAA_60_ABS60_75.treefile	FAA	USCO	ML	>=75% taxa	NA	1
+faa_60_abs60_90_ASTRAL_IV.tre	-0.0152652671424008	-0.0145368439422601	/home/data/t200301/xjt/tree_chosen/back_bone/faa_60_abs60_90_ASTRAL_IV.tre	FAA	USCO	ASTRAL	>=90% taxa	NA	1
+FAA_60_ABS60_90.treefile	0.0370789944863502	-0.000931650500807435	/home/data/t200301/xjt/tree_chosen/back_bone/FAA_60_ABS60_90.treefile	FAA	USCO	ML	>=90% taxa	NA	1
+fna_60_ABS60_75_12_ASTRAL_IV.tre	-0.0152858662673156	-0.0144542967644253	/home/data/t200301/xjt/tree_chosen/back_bone/fna_60_ABS60_75_12_ASTRAL_IV.tre	FNA	USCO	ASTRAL	>=75% taxa	12 (no 3rd codon pos)	1
+fna_60_abs60_75_12.treefile	0.0370484568272876	-0.000806154458089542	/home/data/t200301/xjt/tree_chosen/back_bone/fna_60_abs60_75_12.treefile	FNA	USCO	ML	>=75% taxa	12 (no 3rd codon pos)	1
+fna_60_ABS60_75_ASTRAL_IV.tre	-0.0152315484990141	-0.0144798487706114	/home/data/t200301/xjt/tree_chosen/back_bone/fna_60_ABS60_75_ASTRAL_IV.tre	FNA	USCO	ASTRAL	>=75% taxa	123	1
+FNA_60_ABS60_75.treefile	0.0370484568272876	-0.00080615445808955	/home/data/t200301/xjt/tree_chosen/back_bone/FNA_60_ABS60_75.treefile	FNA	USCO	ML	>=75% taxa	123	1
+fna_60_ABS60_90_12_ASTRAL_IV.tre	-0.0152695420409383	-0.0145088919821867	/home/data/t200301/xjt/tree_chosen/back_bone/fna_60_ABS60_90_12_ASTRAL_IV.tre	FNA	USCO	ASTRAL	>=90% taxa	12 (no 3rd codon pos)	1
+FNA_60_abs60_90_12.treefile	0.0370484568272876	-0.00080615445808955	/home/data/t200301/xjt/tree_chosen/back_bone/FNA_60_abs60_90_12.treefile	FNA	USCO	ML	>=90% taxa	12 (no 3rd codon pos)	1
+fna_60_ABS60_90_ASTRAL_IV.tre	-0.0152695420409384	-0.0145088919821868	/home/data/t200301/xjt/tree_chosen/back_bone/fna_60_ABS60_90_ASTRAL_IV.tre	FNA	USCO	ASTRAL	>=90% taxa	123	1
+FNA60_abs60_90.treefile	0.0370484568272876	-0.00080615445808955	/home/data/t200301/xjt/tree_chosen/back_bone/FNA60_abs60_90.treefile	FNA	USCO	ML	>=90% taxa	123	1
+uce_60_tax99_abs60_occ100.treefile	-0.00099165502535304	0.0377140774806378	/home/data/t200301/xjt/tree_chosen/back_bone/uce_60_tax99_abs60_occ100.treefile	UCE	UCE	ML	100% taxa	NA	1
+uce_60_tax99_abs60_occ90.treefile	-0.00099165502535304	0.0377140774806378	/home/data/t200301/xjt/tree_chosen/back_bone/uce_60_tax99_abs60_occ90.treefile	UCE	UCE	ML	>=90% taxa	NA	1
+uce60_abs60_100_ASTRAL_IV.tre	-0.0643387065580751	0.00833258842619701	/home/data/t200301/xjt/tree_chosen/back_bone/uce60_abs60_100_ASTRAL_IV.tre	UCE	UCE	ASTRAL	100% taxa	NA	1
+uce60_abs60_90_ASTRAL_IV.tre	-0.0643551119031596	0.00828365126382157	/home/data/t200301/xjt/tree_chosen/back_bone/uce60_abs60_90_ASTRAL_IV.tre	UCE	UCE	ASTRAL	>=90% taxa	NA	1

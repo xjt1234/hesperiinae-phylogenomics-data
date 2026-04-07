@@ -1,0 +1,12 @@
+model_tag=BAYAREALIKEJ
+model_dir=/home/data/t200301/xjt/BIOGEO_NEW2/Toussaint2025/roadA332_CN_dist/CN72_zoogeo7_Zhang1999_names/BGB_6models_3plus3_20260122_093250/BAYAREALIKEJ_FIXED_20260310_195713
+resfile=/home/data/t200301/xjt/BIOGEO_NEW2/Toussaint2025/roadA332_CN_dist/CN72_zoogeo7_Zhang1999_names/BGB_6models_3plus3_20260122_093250/BAYAREALIKEJ_FIXED_20260310_195713/res_BAYAREALIKEJ_FULL.rds
+treefile=/home/data/t200301/xjt/BIOGEO_NEW2/Toussaint2025/roadA332_CN_dist/CN72_zoogeo7_Zhang1999_names/BGB_6models_3plus3_20260122_093250/BAYAREALIKEJ_FIXED_20260310_195713/Hesperiinae_11areas_withRanges.newk
+geogfn=/home/data/t200301/xjt/BIOGEO_NEW2/Toussaint2025/roadA332_CN_dist/CN72_zoogeo7_Zhang1999_names/BGB_6models_3plus3_20260122_093250/BAYAREALIKEJ_FIXED_20260310_195713/geog_11areas_max4.LagrangePHYLIP
+n_bsm=100
+maxtries=40000
+seed_base=20260401
+include_null_range=TRUE
+nA=11
+areanames=A,B,C,D,E,F,G,H,I,J,K
+actual_names=AF,AUS,CAM,ENA,EPA,IND,MDG,ORI,SAM,WNA,WPA

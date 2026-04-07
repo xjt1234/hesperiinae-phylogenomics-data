@@ -1,0 +1,24 @@
+type	init	min	max	est	note	desc
+free	0.00123096360956297	1e-07	4.9999999	0.00123096360956297	works	anagenesis: rate of 'dispersal' (range expansion)
+free	0.02816528603066	1e-12	4.999999999999	0.02816528603066	works	anagenesis: rate of 'extinction' (range contraction)
+fixed	0	1e-12	4.999999999999	0	works	anagenesis: rate of range-switching (i.e. for a standard char.)
+fixed	1	1e-12	0.999999999999	1	non-stratified only	anagenesis: exponent on branch lengths
+fixed	0	-2.5	2.5	0	works	exponent on distance (modifies d, j, a)
+fixed	0	-10	10	0	works	exponent on environmental distance (modifies d, j, a)
+fixed	1	-10	10	1	works	exponent on manual dispersal multipliers (modifies d, j, a)
+fixed	0	-10	10	0	works	anagenesis: exponent on extinction risk with area (modifies e)
+free	0.000650961063935143	1e-05	0.99999	0.000650961063935143	works	cladogenesis: relative per-event weight of jump dispersal
+1-j	2.99999	1e-05	3	0.999349038936065	works	cladogenesis: y+s+v
+ysv*1/1	1.99999	1e-05	2	0.999349038936065	works	cladogenesis: y+s
+1-j	1	1e-05	1	0.999349038936065	works	cladogenesis: relative per-event weight of sympatry (range-copying)
+fixed	0	1e-05	1	0	works	cladogenesis: relative per-event weight of subset speciation
+fixed	0	1e-05	1	0	works	cladogenesis: relative per-event weight of vicariant speciation
+fixed	1e-04	1e-04	0.9999	1e-04	works	cladogenesis: controls range size of smaller daughter
+mx01	1e-04	1e-04	0.9999	1e-04	works	cladogenesis: controls range size of smaller daughter
+fixed	0.9999	1e-04	0.9999	0.9999	works	cladogenesis: controls range size of smaller daughter
+mx01	1e-04	1e-04	0.9999	1e-04	works	cladogenesis: controls range size of smaller daughter
+mx01	1e-04	1e-04	0.9999	1e-04	works	cladogenesis: controls range size of smaller daughter
+fixed	0.5	1e-04	0.9999	0.5	no	root: controls range size probabilities of root
+fixed	0.1	0.005	0.995	0.1	yes	mean frequency of truly sampling OTU of interest
+fixed	1	0.005	0.995	1	yes	detection probability per true sample of OTU of interest
+fixed	0	0.005	0.995	0	yes	false detection of OTU probability per true taphonomic control sample
