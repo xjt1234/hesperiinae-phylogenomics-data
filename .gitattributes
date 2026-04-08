@@ -1,0 +1,8 @@
+Sequence/USCO/FAA_60_60_90.fa filter=lfs diff=lfs merge=lfs -text
+Sequence/USCO/FNA_60_60_90_12.fa filter=lfs diff=lfs merge=lfs -text
+Sequence/USCO/FNA_60_60_75.fa filter=lfs diff=lfs merge=lfs -text
+Sequence/USCO/FAA_60_60_75.fa filter=lfs diff=lfs merge=lfs -text
+Sequence/USCO/FNA_60_60_75_12.fa filter=lfs diff=lfs merge=lfs -text
+Sequence/USCO/FNA_60_60_90.fa filter=lfs diff=lfs merge=lfs -text
+Sequence/UCE/uce_60_60_90.fa filter=lfs diff=lfs merge=lfs -text
+Uce_probe/Hesperiinae-v1-master-probe-list-DUPE-SCREENED.fasta filter=lfs diff=lfs merge=lfs -text
