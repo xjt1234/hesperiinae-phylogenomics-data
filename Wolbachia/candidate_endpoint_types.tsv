@@ -1,0 +1,25 @@
+candidate_id	existing_plot_order	endpoint_type	side_a_original_label	side_b_original_label	side_a_full_node_id	side_b_full_node_id	side_a_main25_tips	side_b_main25_tips	side_a_proposed_short_label	side_b_proposed_short_label	pruned_branch_overlap_status	original_stem_overlap_status
+candidate_7832e25d36b6214e1a23bcb1753020c8b837ac777f7b5f79686706daa3dbaaa2	1	terminal-terminal	Aeromachus catocyanea	Ochlodes bouddha	N0039	N0680	1	1	Aeromachus catocyanea	Ochlodes bouddha	feasible	feasible
+candidate_778fac891a2df2fed265d299123e5b0b4482fe29f12c0d8830e30b4738e3bb22	2	terminal-internal	Aeromachus nana	Clade N0287 (n=8)	N0032	N0287	1	8	Aeromachus nana	Clade C6	infeasible	infeasible
+candidate_a02514bb360b33a0dfae3261e3346a2b17e057531524464d87f32496827509f6	3	terminal-terminal	Aeromachus nana	Thoressa kuata	N0032	N0082	1	1	Aeromachus nana	Thoressa kuata	feasible	feasible
+candidate_a6ade7785bf1b65c289ba5a083412c1f41c1fa6b0e2c0fac0a51bb394fa0f693	4	terminal-terminal	Ampittia dioscorides fabricius	Ancistroides nigrita	N0054	N0369	1	1	Ampittia dioscorides fabricius	Ancistroides nigrita	feasible	feasible
+candidate_631c951acb3121aa383793bda032c44954da7fc7a521888cd90029944f23d5b2	5	terminal-terminal	Ampittia dioscorides fabricius	Sovia subflava	N0054	N0023	1	1	Ampittia dioscorides fabricius	Sovia subflava	feasible	feasible
+candidate_10ad82748f0f1d37f3f2e9191d4e630e09a098018eb6380c0a4aeb1dbc117fcc	6	terminal-terminal	Ancistroides nigrita	Cupitha purreea	N0369	N0188	1	1	Ancistroides nigrita	Cupitha purreea	feasible	feasible
+candidate_64a9e988f0b63dcbbd54ef646426e9358a3201e9d12e88073f87182f8fb0c400	7	terminal-internal	Ancistroides nigrita	Clade N0020 (n=12)	N0369	N0020	1	12	Ancistroides nigrita	Clade C1	infeasible	infeasible
+candidate_0d431cfb5f472c38dfabb9d3345aaadcc610d6572d18af30fb6d6be74a6fb075	8	terminal-terminal	Ancistroides nigrita	Matapa druna	N0369	N0348	1	1	Ancistroides nigrita	Matapa druna	feasible	feasible
+candidate_8e4d67b2e5e289e7365043d37d4085e27f758bade8920ce3ffe26b8cf332cbbf	9	internal-internal	Clade N0383 (n=5)	Clade N0069 (n=3)	N0383	N0069	5	3	Clade C8	Clade C4	infeasible	infeasible
+candidate_1d9754314a314329bb6f8acb2722d55cf53eb6c4a9f023e332d3c15d5788f3e2	10	internal-internal	Clade N0365 (n=6)	Clade N0060 (n=7)	N0365	N0060	6	7	Clade C7	Clade C2	infeasible	infeasible
+candidate_60a0af09eb2776de1853e5d2af419349a86b48022d5c86e8d6578fbcef843523	11	internal-internal	Clade N0365 (n=6)	Clade N0061 (n=2)	N0365	N0061	6	2	Clade C7	Halpe clade (C3)	infeasible	infeasible
+candidate_1bd5d4f014af0483542bf7cb6203bc6376681b4f925b659a182cd0bc16cd3822	12	internal-internal	Clade N0073 (n=2)	Clade N0407 (n=4)	N0073	N0407	2	4	Pithauria clade (C5)	Clade C9	infeasible	infeasible
+candidate_999c3d228f910206e5255444d6cfe01b5a3dc97884c28c454a685a25bfc535ad	13	terminal-internal	Clade N0069 (n=3)	Idmon fujianana	N0069	N0395	3	1	Clade C4	Idmon fujianana	feasible	infeasible
+candidate_3b6e16bd9419e74c9921d6cc8d75931b7b2683de68e707b2b12859b37d4dd6a6	14	terminal-internal	Clade N0069 (n=3)	Matapa druna	N0069	N0348	3	1	Clade C4	Matapa druna	feasible	infeasible
+candidate_41bc23d2a3e0b867f453753d072a167b515189cd7a34a64d2ad5ecb7c53bc1c2	15	internal-internal	Clade N0407 (n=4)	Clade N0061 (n=2)	N0407	N0061	4	2	Clade C9	Halpe clade (C3)	infeasible	infeasible
+candidate_8df89d2fba97c4c9f0407f1e6e49369901aa3f6edb9a586906e62ef11aed0ec1	16	terminal-internal	Clade N0407 (n=4)	Pithauria linus	N0407	N0074	4	1	Clade C9	Pithauria linus	infeasible	infeasible
+candidate_34c1d90f7bc045f394b8e094032aa996fe3d026692a7fa6a87d92dc1b0262d40	17	terminal-terminal	Halpe porus	Isoteinon lamprospilus	N0063	N0133	1	1	Halpe porus	Isoteinon lamprospilus	feasible	feasible
+candidate_8a39c1774e8f7febe1de496c1e46f25934fce4d77bf19d579454cae5f72e8ba3	18	terminal-terminal	Halpe porus	Oriens gola	N0063	N0242	1	1	Halpe porus	Oriens gola	feasible	feasible
+candidate_79cf5321e995c1f49506e2c70547d8fa16519b00af80af9b3529d68e997d8313	19	terminal-terminal	Halpe porus	Polytremis eltola	N0063	N0423	1	1	Halpe porus	Polytremis eltola	feasible	feasible
+candidate_34f0343d845fe1b68dc5b62f5414653d29794f21e28ea0a545137bceee76269b	20	terminal-terminal	Idmon fujianana	Matapa druna	N0395	N0348	1	1	Idmon fujianana	Matapa druna	feasible	feasible
+candidate_95f85fac3272df1838c72b3f5968a4a9a0aaeeb3ee11a384ff62fd48cae21a55	21	terminal-terminal	Idmon fujianana	Telicota bambusae	N0395	N0285	1	1	Idmon fujianana	Telicota bambusae	feasible	feasible
+candidate_e5061391623a766788a9c987183de9d3839656657e8ba6b4e06c7a493d6f4a3a	22	terminal-terminal	Isoteinon lamprospilus	Potanthus trachala	N0133	N0265	1	1	Isoteinon lamprospilus	Potanthus trachala	feasible	feasible
+candidate_596f02867bd679301c2f3e391ba7086b44f4b48826f383a492cd183d104fe918	23	terminal-terminal	Ochlodes bouddha	Pedesta masuriensis	N0680	N0089	1	1	Ochlodes bouddha	Pedesta masuriensis	feasible	feasible
+candidate_71556c3632b23eae88c1033acfab25b63ed76e1ea6e7d330e8abef49b0688b3a	24	terminal-terminal	Potanthus trachala	Sovia lucasii lucasii	N0265	N0024	1	1	Potanthus trachala	Sovia lucasii lucasii	feasible	feasible

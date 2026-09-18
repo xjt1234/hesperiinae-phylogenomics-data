@@ -1,0 +1,2 @@
+selection_rule	n_maps	mean	sd	q025	q975	mcse	pooled_share_of_d	interval_definition
+descending mean; nonzero_fraction >= 0.1; ties by source then destination internal code; first five	300	0.56764581810242409	0.020249204724494155	0.52886230898471875	0.60793724061305188	0.0011690883798562541	0.56762545899632799	empirical 2.5th and 97.5th percentiles across conditional maps; not a confidence interval for the mean

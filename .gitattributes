@@ -7,3 +7,6 @@ Sequence/USCO/FNA_60_60_90.fa filter=lfs diff=lfs merge=lfs -text
 Sequence/UCE/uce_60_60_90.fa filter=lfs diff=lfs merge=lfs -text
 Uce_probe/Hesperiinae-v1-master-probe-list-DUPE-SCREENED.fasta filter=lfs diff=lfs merge=lfs -text
 Wolbachia/240_WolDB.zip filter=lfs diff=lfs merge=lfs -text
+BSM/BSM_tables.zip filter=lfs diff=lfs merge=lfs -text
+Sequence/AHE/Hesperiinae_NT_supermatrix.fasta filter=lfs diff=lfs merge=lfs -text
+Sequence/UCE/uce_60_60_100.fa filter=lfs diff=lfs merge=lfs -text

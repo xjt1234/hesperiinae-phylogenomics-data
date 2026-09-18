@@ -1,0 +1,4 @@
+event	n_maps	mean	sd	q025	q975	mcse	interval_definition
+d	300	435.73333333333335	5.6428445430781373	425	447	0.3257897815941373	empirical 2.5th and 97.5th percentiles across conditional maps; not a confidence interval for the mean
+e	300	22.166666666666668	4.0571447637885285	15	30	0.23423936215145874	empirical 2.5th and 97.5th percentiles across conditional maps; not a confidence interval for the mean
+j	300	0	0	0	0	0	empirical 2.5th and 97.5th percentiles across conditional maps; not a confidence interval for the mean

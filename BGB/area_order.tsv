@@ -1,0 +1,12 @@
+legacy_bit_index	legacy_internal_code	analysis_bit_index	analysis_internal_code	abbrev	full_name
+7	G	1	A	AF	Afrotropics (Africa excluding Madagascar)
+11	K	2	B	AUS	Australasia
+5	E	3	C	CAM	Central America and most Caribbean islands
+4	D	4	D	ENA	Eastern Nearctic
+2	B	5	E	EPA	Eastern Palearctic
+9	I	6	F	IND	Indian Peninsula
+8	H	7	G	MDG	Madagascar and surrounding islands
+10	J	8	H	ORI	Oriental / Indomalayan region
+6	F	9	I	SAM	South America
+3	C	10	J	WNA	Western Nearctic
+1	A	11	K	WPA	Western Palearctic

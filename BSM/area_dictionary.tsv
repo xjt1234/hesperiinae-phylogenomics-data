@@ -1,0 +1,12 @@
+legacy_bit_index	legacy_internal_code	analysis_bit_index	analysis_internal_code	abbrev	full_name	macroregion
+7	G	1	A	AF	Afrotropics (Africa excluding Madagascar)	Old_World
+11	K	2	B	AUS	Australasia	Old_World
+5	E	3	C	CAM	Central America and most Caribbean islands	New_World
+4	D	4	D	ENA	Eastern Nearctic	New_World
+2	B	5	E	EPA	Eastern Palearctic	Old_World
+9	I	6	F	IND	Indian Peninsula	Old_World
+8	H	7	G	MDG	Madagascar and surrounding islands	Old_World
+10	J	8	H	ORI	Oriental / Indomalayan region	Old_World
+6	F	9	I	SAM	South America	New_World
+3	C	10	J	WNA	Western Nearctic	New_World
+1	A	11	K	WPA	Western Palearctic	Old_World

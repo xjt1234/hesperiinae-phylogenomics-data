@@ -1,0 +1,2 @@
+n_maps	status	overall_stable	conservation_pass	native_totals_crosscheck_pass	attempted	successful	failed	seed_schedule_pass	maxtries_pass	attempt_ledger_pass	native_area_e_counter_used	interval_definition	generated
+300	STABLE	TRUE	TRUE	TRUE	300	300	0	TRUE	TRUE	TRUE	FALSE	q025/q975 are empirical map-to-map quantiles, not confidence intervals for the mean	2026-09-14T16:44:14+0800

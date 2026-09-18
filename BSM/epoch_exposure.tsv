@@ -1,0 +1,6 @@
+epoch	young_ma	old_ma	lineage_myr_exposure	epoch_index	duration_myr	exposure_fraction	denominator_note
+0-3.3	0	3.2999999999999998	1347.7543370000001	1	3.2999999999999998	0.22940289891749674	total fixed-tree lineage-Myr, not occupied-area or dispersal-opportunity exposure
+3.3-13.9	3.2999999999999998	13.9	3095.5846040000001	2	10.600000000000001	0.52690320669468649	total fixed-tree lineage-Myr, not occupied-area or dispersal-opportunity exposure
+13.9-23.03	13.9	23.030000000000001	1030.7748300000001	3	9.1300000000000008	0.17544943291337367	total fixed-tree lineage-Myr, not occupied-area or dispersal-opportunity exposure
+23.03-33.9	23.030000000000001	33.899999999999999	376.39827400000001	4	10.869999999999997	0.064067206339208566	total fixed-tree lineage-Myr, not occupied-area or dispersal-opportunity exposure
+33.9-45	33.899999999999999	45	24.5415980000001	5	11.100000000000001	0.0041772551352345332	total fixed-tree lineage-Myr, not occupied-area or dispersal-opportunity exposure

@@ -1,0 +1,10 @@
+old_name	new_name	old_bits	new_bits_before_column_permutation	bit_preservation
+Anthoptus_sp	Anthoptus_sp.	00011100000	00011100000	PASS
+Cyclosma_sp	Cyclosma_sp.	00001100000	00001100000	PASS
+Enosis_sp	Enosis_sp.	00001100000	00001100000	PASS
+Eutocus_sp	Eutocus_sp.	00001100000	00001100000	PASS
+Parnara_batta	Polytremis_nascens	01000000110	01000000110	PASS
+Racta_sp	Racta_sp.	00000100000	00000100000	PASS
+Remella_remus	Pteroteinon_caenira	00001100000	00001100000	PASS
+Telicota_sp	Telicota_sp.	01000000111	01000000111	PASS
+Wahydra_sp	Wahydra_sp.	00000100000	00000100000	PASS
