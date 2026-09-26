@@ -1,0 +1,15 @@
+node_id	category	anchors	descendant_count	monophyly	A_age	B_age	B-A	cross_33.9	status
+TC01_crown_Aeromachini	tribe_crown	Creteus_cyrina_kawahara2023 | Aeromachus_catocyanea_mydata	38	TRUE_in_A_and_B	36.1745260789474	35.4796951578947	-0.694830921052628	NO	included
+TC02_crown_Ceratrichiini	tribe_crown	Ceratrichia_nothus_makomensis_kawahara2023 | Ankola_fan_kawahara2023	8	TRUE_in_A_and_B	26.035688625	25.587339	-0.448349624999995	NO	included
+TC03_crown_Astictopterini	tribe_crown	Artitropa_comus_kawahara2023 | Acada_biseriata_kawahara2023	64	TRUE_in_A_and_B	34.461442171875	35.810599484375	1.34915731250001	NO	included
+TC04_crown_Taractrocerini	tribe_crown	Tiacellia_tiacellia_kawahara2023 | Arrhenes_dschilus_kawahara2023	25	TRUE_in_A_and_B	31.28294184	32.03084208	0.74790024	NO	included
+TC05_crown_Erionotini	tribe_crown	Hyarotis_adrastus_mydata | Acerbas_sarala_chinensis_mydata	39	TRUE_in_A_and_B	30.9879273076923	33.9541353333333	2.96620802564103	YES	included
+TC06_crown_Notocryptini	tribe_crown	Ancistroides_gemmifer_kawahara2023 | Ancistroides_longicornis_kawahara2023	9	TRUE_in_A_and_B	21.867398	21.1683005555556	-0.699097444444433	NO	included
+TC07_crown_Ismini	tribe_crown	Iambrix_salsala_kawahara2023 | Idmon_distanti_kawahara2023	6	TRUE_in_A_and_B	26.6635733333333	26.66348	-9.33333333428266e-05	NO	included
+TC08_crown_Psolosini	tribe_crown	Psolos_fuligo_fuligo_kawahara2023 | Koruthaialos_butleri_kawahara2023	5	TRUE_in_A_and_B	18.301616	18.4986306	0.19701460000001	NO	included
+TC09_crown_Baorini	tribe_crown	Parnara_apostata_apostata_kawahara2023 | Baoris_farri_farri_kawahara2023	29	TRUE_in_A_and_B	22.1941767241379	21.7116251724138	-0.482551551724132	NO	included
+TC10_crown_Pericharini	tribe_crown	Orphe_gerasa_kawahara2023 | Lycas_argentea_kawahara2023	11	TRUE_in_A_and_B	29.9106501818182	30.652872	0.742221818181825	NO	included
+TC11_crown_Megathymini	tribe_crown	Carystoides_escalantei_kawahara2023 | Agathymus_aryxna_kawahara2023	11	TRUE_in_A_and_B	18.0438169090909	19.3972564545455	1.35343954545457	NO	included
+TC12_crown_Hesperiini	tribe_crown	Aides_duma_argyrina_kawahara2023 | Adlerodea_petrovna_kawahara2023	241	TRUE_in_A_and_B	28.2340824190871	26.961073033195	-1.27300938589211	NO	included
+INFO_crown_Gretnini	tribe_crown_excluded_singleton	Gretna_cylinda_kawahara2023	1	not_applicable_singleton	NA	NA	NA	not_applicable	INFO: crown age undefined because only one sampled tip
+INFO_crown_Eetionini	tribe_crown_excluded_singleton	Eetion_elia_kawahara2023	1	not_applicable_singleton	NA	NA	NA	not_applicable	INFO: crown age undefined because only one sampled tip

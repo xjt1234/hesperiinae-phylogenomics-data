@@ -1,0 +1,442 @@
+{
+  "schema": 1,
+  "status": "complete",
+  "data_kind": "real",
+  "created_before_fitting": "2026-09-08T09:06:28.830157+08:00",
+  "analysis_label": "R2.6 main25 exact-source AHE primary and predeclared host/Wol sensitivity",
+  "nperm": 9999,
+  "seed": 20260908,
+  "correction": "cailliez",
+  "symmetric": false,
+  "association_status": "author_confirmed_same_reads",
+  "association_statement": "User explicitly confirmed Wolbachia was extracted from the same sequencing files used for AHE; applied to frozen main25 with exact old-to-formal AHE alignment row continuity. This is author-provided source metadata, not independent machine specimen validation. USCO is separately labelled as historical exact-association sensitivity.",
+  "association_evidence": {
+    "path": "/home/data/t200301/xjt/Hesperiinae_wolbachia/Wolbachia_R2_6_QC_rerun_20260907_112808/01_PROVENANCE/host_source_author_confirmation_20260908.json",
+    "sha256": "d2bb0a2bd2c9fea217e2e43f4894fcd93f07cf061a877bc168a00c0ba984bf77"
+  },
+  "analysis_checkpoints": [
+    {
+      "path": "/home/data/t200301/xjt/Hesperiinae_wolbachia/Wolbachia_R2_6_QC_rerun_20260907_112808/checkpoints/cophylogeny_inputs_main25_20260908.covered_evidence.complete.json",
+      "sha256": "a2ed3aa077e577b46468b0cb2e32cb2c666a26f5212aa9e0721dfbbed0a6acc5"
+    },
+    {
+      "path": "/home/data/t200301/xjt/Hesperiinae_wolbachia/Wolbachia_R2_6_QC_rerun_20260907_112808/checkpoints/cophylogeny_wol_common25_inputs.complete.json",
+      "sha256": "6b9822b1e120c8ca41cb0e3aa66815624856e91e0508d1e7d4d85508002d03c3"
+    }
+  ],
+  "primary_scenario": "AHE_A495_dated__main_mfp",
+  "scenario_order_fixed_before_statistics": true,
+  "interpretation_rules": [
+    "PACo and ParaFit use the same bijective host-label permutations as primary null.",
+    "PACo r0 is a declared sensitivity and may repeat Wol tips, not preserve both margins.",
+    "All inclusive-tail Monte Carlo p=(1+extreme)/(9999+1); package-style r0 p retained separately for legacy comparison.",
+    "No between-unit/model raw-SS effect-size comparisons.",
+    "USCO host comparison combines backbone and branch-length changes, not a pure topology-only experiment.",
+    "Expanded31 bacterial inferences are projected to main25 associations; no additional host identity is assumed.",
+    "Non-significance is lack of detected global congruence, not proof of transfer or absence of codivergence.",
+    "No per-link hypothesis testing or jackknife confidence claimed.",
+    "Bootstrap topology sensitivity and reconciliation/age scenarios remain separate required follow-up."
+  ],
+  "scenarios": [
+    {
+      "id": "AHE_A495_dated__main_mfp",
+      "scenario_index": 0,
+      "role": "primary",
+      "n_links": 25,
+      "host_tree_basis": "2026-09-04 formal AHE A495 dated tree, root and all300 distances retained",
+      "wol_tree_basis": "main_mfp; current repaired CDS inference; original source inference n=25; all300 projected distances retained",
+      "association_basis": "author confirms same original sequencing files for AHE and Wol; exact AHE row continuity independently verified; not independent machine specimen proof",
+      "host_distance_unit": "Ma",
+      "wol_distance_unit": "nucleotide substitutions/site",
+      "inputs": {
+        "host_tree": {
+          "path": "/home/data/t200301/xjt/Hesperiinae_wolbachia/Wolbachia_R2_6_QC_rerun_20260907_112808/03_MATRICES_AND_TREES/cophylogeny_inputs_main25_20260908/AHE_A495_main25.root_preserved.nwk",
+          "sha256": "19e5326acb01064ca7587df770f97f96bc4bac7907f676d41162135862b6cd58"
+        },
+        "wol_tree": {
+          "path": "/home/data/t200301/xjt/Hesperiinae_wolbachia/Wolbachia_R2_6_QC_rerun_20260907_112808/03_MATRICES_AND_TREES/cophylogeny_wol_common25_20260908/main_mfp/wol_main25.newick",
+          "sha256": "006a08458bba48f1cdf63dd8864eaf21af0a12105047ca3c8726425672fc0ded"
+        },
+        "links": {
+          "path": "/home/data/t200301/xjt/Hesperiinae_wolbachia/Wolbachia_R2_6_QC_rerun_20260907_112808/03_MATRICES_AND_TREES/cophylogeny_inputs_main25_20260908/AHE_main25_associations.tsv",
+          "sha256": "a63aee9712f15f3a5f17827cd2cc6ea056b48419fa7259a40bf7e38ec1ef168b"
+        }
+      }
+    },
+    {
+      "id": "AHE_A495_dated__sample_expanded_mfp_project25",
+      "scenario_index": 1,
+      "role": "sensitivity",
+      "n_links": 25,
+      "host_tree_basis": "2026-09-04 formal AHE A495 dated tree, root and all300 distances retained",
+      "wol_tree_basis": "sample_expanded_mfp_project25; current repaired CDS inference; original source inference n=31; all300 projected distances retained",
+      "association_basis": "author confirms same original sequencing files for AHE and Wol; exact AHE row continuity independently verified; not independent machine specimen proof",
+      "host_distance_unit": "Ma",
+      "wol_distance_unit": "nucleotide substitutions/site",
+      "inputs": {
+        "host_tree": {
+          "path": "/home/data/t200301/xjt/Hesperiinae_wolbachia/Wolbachia_R2_6_QC_rerun_20260907_112808/03_MATRICES_AND_TREES/cophylogeny_inputs_main25_20260908/AHE_A495_main25.root_preserved.nwk",
+          "sha256": "19e5326acb01064ca7587df770f97f96bc4bac7907f676d41162135862b6cd58"
+        },
+        "wol_tree": {
+          "path": "/home/data/t200301/xjt/Hesperiinae_wolbachia/Wolbachia_R2_6_QC_rerun_20260907_112808/03_MATRICES_AND_TREES/cophylogeny_wol_common25_20260908/sample_expanded_mfp_project25/wol_main25.newick",
+          "sha256": "24a5a8f26c36038044341128b9399d84c41f574823899a4a9eaafb4074d30f00"
+        },
+        "links": {
+          "path": "/home/data/t200301/xjt/Hesperiinae_wolbachia/Wolbachia_R2_6_QC_rerun_20260907_112808/03_MATRICES_AND_TREES/cophylogeny_inputs_main25_20260908/AHE_main25_associations.tsv",
+          "sha256": "a63aee9712f15f3a5f17827cd2cc6ea056b48419fa7259a40bf7e38ec1ef168b"
+        }
+      }
+    },
+    {
+      "id": "AHE_A495_dated__reference_repeat_excluded_mfp",
+      "scenario_index": 2,
+      "role": "sensitivity",
+      "n_links": 25,
+      "host_tree_basis": "2026-09-04 formal AHE A495 dated tree, root and all300 distances retained",
+      "wol_tree_basis": "reference_repeat_excluded_mfp; current repaired CDS inference; original source inference n=25; all300 projected distances retained",
+      "association_basis": "author confirms same original sequencing files for AHE and Wol; exact AHE row continuity independently verified; not independent machine specimen proof",
+      "host_distance_unit": "Ma",
+      "wol_distance_unit": "nucleotide substitutions/site",
+      "inputs": {
+        "host_tree": {
+          "path": "/home/data/t200301/xjt/Hesperiinae_wolbachia/Wolbachia_R2_6_QC_rerun_20260907_112808/03_MATRICES_AND_TREES/cophylogeny_inputs_main25_20260908/AHE_A495_main25.root_preserved.nwk",
+          "sha256": "19e5326acb01064ca7587df770f97f96bc4bac7907f676d41162135862b6cd58"
+        },
+        "wol_tree": {
+          "path": "/home/data/t200301/xjt/Hesperiinae_wolbachia/Wolbachia_R2_6_QC_rerun_20260907_112808/03_MATRICES_AND_TREES/cophylogeny_wol_common25_20260908/reference_repeat_excluded_mfp/wol_main25.newick",
+          "sha256": "e82d397058afd3135c2d4da53d935c330a9cb70d5b4918d6b4288509a856e86f"
+        },
+        "links": {
+          "path": "/home/data/t200301/xjt/Hesperiinae_wolbachia/Wolbachia_R2_6_QC_rerun_20260907_112808/03_MATRICES_AND_TREES/cophylogeny_inputs_main25_20260908/AHE_main25_associations.tsv",
+          "sha256": "a63aee9712f15f3a5f17827cd2cc6ea056b48419fa7259a40bf7e38ec1ef168b"
+        }
+      }
+    },
+    {
+      "id": "AHE_A495_dated__main_gtr_gamma",
+      "scenario_index": 3,
+      "role": "sensitivity",
+      "n_links": 25,
+      "host_tree_basis": "2026-09-04 formal AHE A495 dated tree, root and all300 distances retained",
+      "wol_tree_basis": "main_gtr_gamma; current repaired CDS inference; original source inference n=25; all300 projected distances retained",
+      "association_basis": "author confirms same original sequencing files for AHE and Wol; exact AHE row continuity independently verified; not independent machine specimen proof",
+      "host_distance_unit": "Ma",
+      "wol_distance_unit": "nucleotide substitutions/site",
+      "inputs": {
+        "host_tree": {
+          "path": "/home/data/t200301/xjt/Hesperiinae_wolbachia/Wolbachia_R2_6_QC_rerun_20260907_112808/03_MATRICES_AND_TREES/cophylogeny_inputs_main25_20260908/AHE_A495_main25.root_preserved.nwk",
+          "sha256": "19e5326acb01064ca7587df770f97f96bc4bac7907f676d41162135862b6cd58"
+        },
+        "wol_tree": {
+          "path": "/home/data/t200301/xjt/Hesperiinae_wolbachia/Wolbachia_R2_6_QC_rerun_20260907_112808/03_MATRICES_AND_TREES/cophylogeny_wol_common25_20260908/main_gtr_gamma/wol_main25.newick",
+          "sha256": "5d96b613ce772bab7aaa72afb15d2be67152cc90ab7c470f08fff3ba4f25cf42"
+        },
+        "links": {
+          "path": "/home/data/t200301/xjt/Hesperiinae_wolbachia/Wolbachia_R2_6_QC_rerun_20260907_112808/03_MATRICES_AND_TREES/cophylogeny_inputs_main25_20260908/AHE_main25_associations.tsv",
+          "sha256": "a63aee9712f15f3a5f17827cd2cc6ea056b48419fa7259a40bf7e38ec1ef168b"
+        }
+      }
+    },
+    {
+      "id": "AHE_A495_dated__sample_expanded_gtr_gamma_project25",
+      "scenario_index": 4,
+      "role": "sensitivity",
+      "n_links": 25,
+      "host_tree_basis": "2026-09-04 formal AHE A495 dated tree, root and all300 distances retained",
+      "wol_tree_basis": "sample_expanded_gtr_gamma_project25; current repaired CDS inference; original source inference n=31; all300 projected distances retained",
+      "association_basis": "author confirms same original sequencing files for AHE and Wol; exact AHE row continuity independently verified; not independent machine specimen proof",
+      "host_distance_unit": "Ma",
+      "wol_distance_unit": "nucleotide substitutions/site",
+      "inputs": {
+        "host_tree": {
+          "path": "/home/data/t200301/xjt/Hesperiinae_wolbachia/Wolbachia_R2_6_QC_rerun_20260907_112808/03_MATRICES_AND_TREES/cophylogeny_inputs_main25_20260908/AHE_A495_main25.root_preserved.nwk",
+          "sha256": "19e5326acb01064ca7587df770f97f96bc4bac7907f676d41162135862b6cd58"
+        },
+        "wol_tree": {
+          "path": "/home/data/t200301/xjt/Hesperiinae_wolbachia/Wolbachia_R2_6_QC_rerun_20260907_112808/03_MATRICES_AND_TREES/cophylogeny_wol_common25_20260908/sample_expanded_gtr_gamma_project25/wol_main25.newick",
+          "sha256": "3677f12c802d1818b178a4a73daf4bfbfd0226b5b9beb3b61de2fe90b6fab48b"
+        },
+        "links": {
+          "path": "/home/data/t200301/xjt/Hesperiinae_wolbachia/Wolbachia_R2_6_QC_rerun_20260907_112808/03_MATRICES_AND_TREES/cophylogeny_inputs_main25_20260908/AHE_main25_associations.tsv",
+          "sha256": "a63aee9712f15f3a5f17827cd2cc6ea056b48419fa7259a40bf7e38ec1ef168b"
+        }
+      }
+    },
+    {
+      "id": "AHE_A495_dated__reference_repeat_excluded_gtr_gamma",
+      "scenario_index": 5,
+      "role": "sensitivity",
+      "n_links": 25,
+      "host_tree_basis": "2026-09-04 formal AHE A495 dated tree, root and all300 distances retained",
+      "wol_tree_basis": "reference_repeat_excluded_gtr_gamma; current repaired CDS inference; original source inference n=25; all300 projected distances retained",
+      "association_basis": "author confirms same original sequencing files for AHE and Wol; exact AHE row continuity independently verified; not independent machine specimen proof",
+      "host_distance_unit": "Ma",
+      "wol_distance_unit": "nucleotide substitutions/site",
+      "inputs": {
+        "host_tree": {
+          "path": "/home/data/t200301/xjt/Hesperiinae_wolbachia/Wolbachia_R2_6_QC_rerun_20260907_112808/03_MATRICES_AND_TREES/cophylogeny_inputs_main25_20260908/AHE_A495_main25.root_preserved.nwk",
+          "sha256": "19e5326acb01064ca7587df770f97f96bc4bac7907f676d41162135862b6cd58"
+        },
+        "wol_tree": {
+          "path": "/home/data/t200301/xjt/Hesperiinae_wolbachia/Wolbachia_R2_6_QC_rerun_20260907_112808/03_MATRICES_AND_TREES/cophylogeny_wol_common25_20260908/reference_repeat_excluded_gtr_gamma/wol_main25.newick",
+          "sha256": "50c607848a8412e7576c815ea8e7be2a0bf67c7f2128d3f658af47193a6ed9d8"
+        },
+        "links": {
+          "path": "/home/data/t200301/xjt/Hesperiinae_wolbachia/Wolbachia_R2_6_QC_rerun_20260907_112808/03_MATRICES_AND_TREES/cophylogeny_inputs_main25_20260908/AHE_main25_associations.tsv",
+          "sha256": "a63aee9712f15f3a5f17827cd2cc6ea056b48419fa7259a40bf7e38ec1ef168b"
+        }
+      }
+    },
+    {
+      "id": "AHE_A495_dated__main_aa_gamma",
+      "scenario_index": 6,
+      "role": "sensitivity",
+      "n_links": 25,
+      "host_tree_basis": "2026-09-04 formal AHE A495 dated tree, root and all300 distances retained",
+      "wol_tree_basis": "main_aa_gamma; current repaired CDS inference; original source inference n=25; all300 projected distances retained",
+      "association_basis": "author confirms same original sequencing files for AHE and Wol; exact AHE row continuity independently verified; not independent machine specimen proof",
+      "host_distance_unit": "Ma",
+      "wol_distance_unit": "amino acid substitutions/site",
+      "inputs": {
+        "host_tree": {
+          "path": "/home/data/t200301/xjt/Hesperiinae_wolbachia/Wolbachia_R2_6_QC_rerun_20260907_112808/03_MATRICES_AND_TREES/cophylogeny_inputs_main25_20260908/AHE_A495_main25.root_preserved.nwk",
+          "sha256": "19e5326acb01064ca7587df770f97f96bc4bac7907f676d41162135862b6cd58"
+        },
+        "wol_tree": {
+          "path": "/home/data/t200301/xjt/Hesperiinae_wolbachia/Wolbachia_R2_6_QC_rerun_20260907_112808/03_MATRICES_AND_TREES/cophylogeny_wol_common25_20260908/main_aa_gamma/wol_main25.newick",
+          "sha256": "7dc24c00972e60bd76c82d8648bade1a329ffbad88b7e854fa68e45eff40b93e"
+        },
+        "links": {
+          "path": "/home/data/t200301/xjt/Hesperiinae_wolbachia/Wolbachia_R2_6_QC_rerun_20260907_112808/03_MATRICES_AND_TREES/cophylogeny_inputs_main25_20260908/AHE_main25_associations.tsv",
+          "sha256": "a63aee9712f15f3a5f17827cd2cc6ea056b48419fa7259a40bf7e38ec1ef168b"
+        }
+      }
+    },
+    {
+      "id": "AHE_A495_dated__main_nt12_gamma",
+      "scenario_index": 7,
+      "role": "sensitivity",
+      "n_links": 25,
+      "host_tree_basis": "2026-09-04 formal AHE A495 dated tree, root and all300 distances retained",
+      "wol_tree_basis": "main_nt12_gamma; current repaired CDS inference; original source inference n=25; all300 projected distances retained",
+      "association_basis": "author confirms same original sequencing files for AHE and Wol; exact AHE row continuity independently verified; not independent machine specimen proof",
+      "host_distance_unit": "Ma",
+      "wol_distance_unit": "nucleotide substitutions/site at codon positions 1+2",
+      "inputs": {
+        "host_tree": {
+          "path": "/home/data/t200301/xjt/Hesperiinae_wolbachia/Wolbachia_R2_6_QC_rerun_20260907_112808/03_MATRICES_AND_TREES/cophylogeny_inputs_main25_20260908/AHE_A495_main25.root_preserved.nwk",
+          "sha256": "19e5326acb01064ca7587df770f97f96bc4bac7907f676d41162135862b6cd58"
+        },
+        "wol_tree": {
+          "path": "/home/data/t200301/xjt/Hesperiinae_wolbachia/Wolbachia_R2_6_QC_rerun_20260907_112808/03_MATRICES_AND_TREES/cophylogeny_wol_common25_20260908/main_nt12_gamma/wol_main25.newick",
+          "sha256": "1f1147d02d14860435d0d7167909d5fc1520ad0b3b4e87a6cff19fc9efe2cbbf"
+        },
+        "links": {
+          "path": "/home/data/t200301/xjt/Hesperiinae_wolbachia/Wolbachia_R2_6_QC_rerun_20260907_112808/03_MATRICES_AND_TREES/cophylogeny_inputs_main25_20260908/AHE_main25_associations.tsv",
+          "sha256": "a63aee9712f15f3a5f17827cd2cc6ea056b48419fa7259a40bf7e38ec1ef168b"
+        }
+      }
+    },
+    {
+      "id": "USCO_legacy__main_mfp",
+      "scenario_index": 8,
+      "role": "sensitivity",
+      "n_links": 25,
+      "host_tree_basis": "Historical USCO analysis exact used43 backbone projected onto same25 taxa; raw107 and used43 all300 distances identical; historical association sensitivity",
+      "wol_tree_basis": "main_mfp; current repaired CDS inference; original source inference n=25; all300 projected distances retained",
+      "association_basis": "Legacy exact species-named USCO association sensitivity; does not independently establish USCO specimen identity",
+      "host_distance_unit": "source USCO branch-length units; not dated; original unit not independently verified",
+      "wol_distance_unit": "nucleotide substitutions/site",
+      "inputs": {
+        "host_tree": {
+          "path": "/home/data/t200301/xjt/Hesperiinae_wolbachia/Wolbachia_R2_6_QC_rerun_20260907_112808/03_MATRICES_AND_TREES/cophylogeny_inputs_main25_20260908/USCO_actual_used43_main25_legacy_sensitivity.root_preserved.nwk",
+          "sha256": "983d7e79d8f15ed02485aaff76c76e3956d34b9b28d502e5de6710fe2b34562c"
+        },
+        "wol_tree": {
+          "path": "/home/data/t200301/xjt/Hesperiinae_wolbachia/Wolbachia_R2_6_QC_rerun_20260907_112808/03_MATRICES_AND_TREES/cophylogeny_wol_common25_20260908/main_mfp/wol_main25.newick",
+          "sha256": "006a08458bba48f1cdf63dd8864eaf21af0a12105047ca3c8726425672fc0ded"
+        },
+        "links": {
+          "path": "/home/data/t200301/xjt/Hesperiinae_wolbachia/Wolbachia_R2_6_QC_rerun_20260907_112808/03_MATRICES_AND_TREES/cophylogeny_inputs_main25_20260908/USCO_main25_historical_associations.tsv",
+          "sha256": "dff7425df16c6cbde7dd77c2fc84f4d5edf14feab2bc9eedbd249e2a19b0d94a"
+        }
+      }
+    },
+    {
+      "id": "USCO_legacy__sample_expanded_mfp_project25",
+      "scenario_index": 9,
+      "role": "sensitivity",
+      "n_links": 25,
+      "host_tree_basis": "Historical USCO analysis exact used43 backbone projected onto same25 taxa; raw107 and used43 all300 distances identical; historical association sensitivity",
+      "wol_tree_basis": "sample_expanded_mfp_project25; current repaired CDS inference; original source inference n=31; all300 projected distances retained",
+      "association_basis": "Legacy exact species-named USCO association sensitivity; does not independently establish USCO specimen identity",
+      "host_distance_unit": "source USCO branch-length units; not dated; original unit not independently verified",
+      "wol_distance_unit": "nucleotide substitutions/site",
+      "inputs": {
+        "host_tree": {
+          "path": "/home/data/t200301/xjt/Hesperiinae_wolbachia/Wolbachia_R2_6_QC_rerun_20260907_112808/03_MATRICES_AND_TREES/cophylogeny_inputs_main25_20260908/USCO_actual_used43_main25_legacy_sensitivity.root_preserved.nwk",
+          "sha256": "983d7e79d8f15ed02485aaff76c76e3956d34b9b28d502e5de6710fe2b34562c"
+        },
+        "wol_tree": {
+          "path": "/home/data/t200301/xjt/Hesperiinae_wolbachia/Wolbachia_R2_6_QC_rerun_20260907_112808/03_MATRICES_AND_TREES/cophylogeny_wol_common25_20260908/sample_expanded_mfp_project25/wol_main25.newick",
+          "sha256": "24a5a8f26c36038044341128b9399d84c41f574823899a4a9eaafb4074d30f00"
+        },
+        "links": {
+          "path": "/home/data/t200301/xjt/Hesperiinae_wolbachia/Wolbachia_R2_6_QC_rerun_20260907_112808/03_MATRICES_AND_TREES/cophylogeny_inputs_main25_20260908/USCO_main25_historical_associations.tsv",
+          "sha256": "dff7425df16c6cbde7dd77c2fc84f4d5edf14feab2bc9eedbd249e2a19b0d94a"
+        }
+      }
+    },
+    {
+      "id": "USCO_legacy__reference_repeat_excluded_mfp",
+      "scenario_index": 10,
+      "role": "sensitivity",
+      "n_links": 25,
+      "host_tree_basis": "Historical USCO analysis exact used43 backbone projected onto same25 taxa; raw107 and used43 all300 distances identical; historical association sensitivity",
+      "wol_tree_basis": "reference_repeat_excluded_mfp; current repaired CDS inference; original source inference n=25; all300 projected distances retained",
+      "association_basis": "Legacy exact species-named USCO association sensitivity; does not independently establish USCO specimen identity",
+      "host_distance_unit": "source USCO branch-length units; not dated; original unit not independently verified",
+      "wol_distance_unit": "nucleotide substitutions/site",
+      "inputs": {
+        "host_tree": {
+          "path": "/home/data/t200301/xjt/Hesperiinae_wolbachia/Wolbachia_R2_6_QC_rerun_20260907_112808/03_MATRICES_AND_TREES/cophylogeny_inputs_main25_20260908/USCO_actual_used43_main25_legacy_sensitivity.root_preserved.nwk",
+          "sha256": "983d7e79d8f15ed02485aaff76c76e3956d34b9b28d502e5de6710fe2b34562c"
+        },
+        "wol_tree": {
+          "path": "/home/data/t200301/xjt/Hesperiinae_wolbachia/Wolbachia_R2_6_QC_rerun_20260907_112808/03_MATRICES_AND_TREES/cophylogeny_wol_common25_20260908/reference_repeat_excluded_mfp/wol_main25.newick",
+          "sha256": "e82d397058afd3135c2d4da53d935c330a9cb70d5b4918d6b4288509a856e86f"
+        },
+        "links": {
+          "path": "/home/data/t200301/xjt/Hesperiinae_wolbachia/Wolbachia_R2_6_QC_rerun_20260907_112808/03_MATRICES_AND_TREES/cophylogeny_inputs_main25_20260908/USCO_main25_historical_associations.tsv",
+          "sha256": "dff7425df16c6cbde7dd77c2fc84f4d5edf14feab2bc9eedbd249e2a19b0d94a"
+        }
+      }
+    },
+    {
+      "id": "USCO_legacy__main_gtr_gamma",
+      "scenario_index": 11,
+      "role": "sensitivity",
+      "n_links": 25,
+      "host_tree_basis": "Historical USCO analysis exact used43 backbone projected onto same25 taxa; raw107 and used43 all300 distances identical; historical association sensitivity",
+      "wol_tree_basis": "main_gtr_gamma; current repaired CDS inference; original source inference n=25; all300 projected distances retained",
+      "association_basis": "Legacy exact species-named USCO association sensitivity; does not independently establish USCO specimen identity",
+      "host_distance_unit": "source USCO branch-length units; not dated; original unit not independently verified",
+      "wol_distance_unit": "nucleotide substitutions/site",
+      "inputs": {
+        "host_tree": {
+          "path": "/home/data/t200301/xjt/Hesperiinae_wolbachia/Wolbachia_R2_6_QC_rerun_20260907_112808/03_MATRICES_AND_TREES/cophylogeny_inputs_main25_20260908/USCO_actual_used43_main25_legacy_sensitivity.root_preserved.nwk",
+          "sha256": "983d7e79d8f15ed02485aaff76c76e3956d34b9b28d502e5de6710fe2b34562c"
+        },
+        "wol_tree": {
+          "path": "/home/data/t200301/xjt/Hesperiinae_wolbachia/Wolbachia_R2_6_QC_rerun_20260907_112808/03_MATRICES_AND_TREES/cophylogeny_wol_common25_20260908/main_gtr_gamma/wol_main25.newick",
+          "sha256": "5d96b613ce772bab7aaa72afb15d2be67152cc90ab7c470f08fff3ba4f25cf42"
+        },
+        "links": {
+          "path": "/home/data/t200301/xjt/Hesperiinae_wolbachia/Wolbachia_R2_6_QC_rerun_20260907_112808/03_MATRICES_AND_TREES/cophylogeny_inputs_main25_20260908/USCO_main25_historical_associations.tsv",
+          "sha256": "dff7425df16c6cbde7dd77c2fc84f4d5edf14feab2bc9eedbd249e2a19b0d94a"
+        }
+      }
+    },
+    {
+      "id": "USCO_legacy__sample_expanded_gtr_gamma_project25",
+      "scenario_index": 12,
+      "role": "sensitivity",
+      "n_links": 25,
+      "host_tree_basis": "Historical USCO analysis exact used43 backbone projected onto same25 taxa; raw107 and used43 all300 distances identical; historical association sensitivity",
+      "wol_tree_basis": "sample_expanded_gtr_gamma_project25; current repaired CDS inference; original source inference n=31; all300 projected distances retained",
+      "association_basis": "Legacy exact species-named USCO association sensitivity; does not independently establish USCO specimen identity",
+      "host_distance_unit": "source USCO branch-length units; not dated; original unit not independently verified",
+      "wol_distance_unit": "nucleotide substitutions/site",
+      "inputs": {
+        "host_tree": {
+          "path": "/home/data/t200301/xjt/Hesperiinae_wolbachia/Wolbachia_R2_6_QC_rerun_20260907_112808/03_MATRICES_AND_TREES/cophylogeny_inputs_main25_20260908/USCO_actual_used43_main25_legacy_sensitivity.root_preserved.nwk",
+          "sha256": "983d7e79d8f15ed02485aaff76c76e3956d34b9b28d502e5de6710fe2b34562c"
+        },
+        "wol_tree": {
+          "path": "/home/data/t200301/xjt/Hesperiinae_wolbachia/Wolbachia_R2_6_QC_rerun_20260907_112808/03_MATRICES_AND_TREES/cophylogeny_wol_common25_20260908/sample_expanded_gtr_gamma_project25/wol_main25.newick",
+          "sha256": "3677f12c802d1818b178a4a73daf4bfbfd0226b5b9beb3b61de2fe90b6fab48b"
+        },
+        "links": {
+          "path": "/home/data/t200301/xjt/Hesperiinae_wolbachia/Wolbachia_R2_6_QC_rerun_20260907_112808/03_MATRICES_AND_TREES/cophylogeny_inputs_main25_20260908/USCO_main25_historical_associations.tsv",
+          "sha256": "dff7425df16c6cbde7dd77c2fc84f4d5edf14feab2bc9eedbd249e2a19b0d94a"
+        }
+      }
+    },
+    {
+      "id": "USCO_legacy__reference_repeat_excluded_gtr_gamma",
+      "scenario_index": 13,
+      "role": "sensitivity",
+      "n_links": 25,
+      "host_tree_basis": "Historical USCO analysis exact used43 backbone projected onto same25 taxa; raw107 and used43 all300 distances identical; historical association sensitivity",
+      "wol_tree_basis": "reference_repeat_excluded_gtr_gamma; current repaired CDS inference; original source inference n=25; all300 projected distances retained",
+      "association_basis": "Legacy exact species-named USCO association sensitivity; does not independently establish USCO specimen identity",
+      "host_distance_unit": "source USCO branch-length units; not dated; original unit not independently verified",
+      "wol_distance_unit": "nucleotide substitutions/site",
+      "inputs": {
+        "host_tree": {
+          "path": "/home/data/t200301/xjt/Hesperiinae_wolbachia/Wolbachia_R2_6_QC_rerun_20260907_112808/03_MATRICES_AND_TREES/cophylogeny_inputs_main25_20260908/USCO_actual_used43_main25_legacy_sensitivity.root_preserved.nwk",
+          "sha256": "983d7e79d8f15ed02485aaff76c76e3956d34b9b28d502e5de6710fe2b34562c"
+        },
+        "wol_tree": {
+          "path": "/home/data/t200301/xjt/Hesperiinae_wolbachia/Wolbachia_R2_6_QC_rerun_20260907_112808/03_MATRICES_AND_TREES/cophylogeny_wol_common25_20260908/reference_repeat_excluded_gtr_gamma/wol_main25.newick",
+          "sha256": "50c607848a8412e7576c815ea8e7be2a0bf67c7f2128d3f658af47193a6ed9d8"
+        },
+        "links": {
+          "path": "/home/data/t200301/xjt/Hesperiinae_wolbachia/Wolbachia_R2_6_QC_rerun_20260907_112808/03_MATRICES_AND_TREES/cophylogeny_inputs_main25_20260908/USCO_main25_historical_associations.tsv",
+          "sha256": "dff7425df16c6cbde7dd77c2fc84f4d5edf14feab2bc9eedbd249e2a19b0d94a"
+        }
+      }
+    },
+    {
+      "id": "USCO_legacy__main_aa_gamma",
+      "scenario_index": 14,
+      "role": "sensitivity",
+      "n_links": 25,
+      "host_tree_basis": "Historical USCO analysis exact used43 backbone projected onto same25 taxa; raw107 and used43 all300 distances identical; historical association sensitivity",
+      "wol_tree_basis": "main_aa_gamma; current repaired CDS inference; original source inference n=25; all300 projected distances retained",
+      "association_basis": "Legacy exact species-named USCO association sensitivity; does not independently establish USCO specimen identity",
+      "host_distance_unit": "source USCO branch-length units; not dated; original unit not independently verified",
+      "wol_distance_unit": "amino acid substitutions/site",
+      "inputs": {
+        "host_tree": {
+          "path": "/home/data/t200301/xjt/Hesperiinae_wolbachia/Wolbachia_R2_6_QC_rerun_20260907_112808/03_MATRICES_AND_TREES/cophylogeny_inputs_main25_20260908/USCO_actual_used43_main25_legacy_sensitivity.root_preserved.nwk",
+          "sha256": "983d7e79d8f15ed02485aaff76c76e3956d34b9b28d502e5de6710fe2b34562c"
+        },
+        "wol_tree": {
+          "path": "/home/data/t200301/xjt/Hesperiinae_wolbachia/Wolbachia_R2_6_QC_rerun_20260907_112808/03_MATRICES_AND_TREES/cophylogeny_wol_common25_20260908/main_aa_gamma/wol_main25.newick",
+          "sha256": "7dc24c00972e60bd76c82d8648bade1a329ffbad88b7e854fa68e45eff40b93e"
+        },
+        "links": {
+          "path": "/home/data/t200301/xjt/Hesperiinae_wolbachia/Wolbachia_R2_6_QC_rerun_20260907_112808/03_MATRICES_AND_TREES/cophylogeny_inputs_main25_20260908/USCO_main25_historical_associations.tsv",
+          "sha256": "dff7425df16c6cbde7dd77c2fc84f4d5edf14feab2bc9eedbd249e2a19b0d94a"
+        }
+      }
+    },
+    {
+      "id": "USCO_legacy__main_nt12_gamma",
+      "scenario_index": 15,
+      "role": "sensitivity",
+      "n_links": 25,
+      "host_tree_basis": "Historical USCO analysis exact used43 backbone projected onto same25 taxa; raw107 and used43 all300 distances identical; historical association sensitivity",
+      "wol_tree_basis": "main_nt12_gamma; current repaired CDS inference; original source inference n=25; all300 projected distances retained",
+      "association_basis": "Legacy exact species-named USCO association sensitivity; does not independently establish USCO specimen identity",
+      "host_distance_unit": "source USCO branch-length units; not dated; original unit not independently verified",
+      "wol_distance_unit": "nucleotide substitutions/site at codon positions 1+2",
+      "inputs": {
+        "host_tree": {
+          "path": "/home/data/t200301/xjt/Hesperiinae_wolbachia/Wolbachia_R2_6_QC_rerun_20260907_112808/03_MATRICES_AND_TREES/cophylogeny_inputs_main25_20260908/USCO_actual_used43_main25_legacy_sensitivity.root_preserved.nwk",
+          "sha256": "983d7e79d8f15ed02485aaff76c76e3956d34b9b28d502e5de6710fe2b34562c"
+        },
+        "wol_tree": {
+          "path": "/home/data/t200301/xjt/Hesperiinae_wolbachia/Wolbachia_R2_6_QC_rerun_20260907_112808/03_MATRICES_AND_TREES/cophylogeny_wol_common25_20260908/main_nt12_gamma/wol_main25.newick",
+          "sha256": "1f1147d02d14860435d0d7167909d5fc1520ad0b3b4e87a6cff19fc9efe2cbbf"
+        },
+        "links": {
+          "path": "/home/data/t200301/xjt/Hesperiinae_wolbachia/Wolbachia_R2_6_QC_rerun_20260907_112808/03_MATRICES_AND_TREES/cophylogeny_inputs_main25_20260908/USCO_main25_historical_associations.tsv",
+          "sha256": "dff7425df16c6cbde7dd77c2fc84f4d5edf14feab2bc9eedbd249e2a19b0d94a"
+        }
+      }
+    }
+  ]
+}

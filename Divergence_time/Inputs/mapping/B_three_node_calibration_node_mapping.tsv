@@ -1,0 +1,4 @@
+node_id	biological_definition	anchor_tip_1	anchor_tip_2	mrca_node	is_root	descendant_tip_count	calibrated	lower_bound_ma	upper_bound_ma	descendant_set_exact
+CROWN_PAPILIONOIDEA	crown Papilionoidea (total-tree root)	Parnassius_apollo_ncbi	Aeromachus_catocyanea_mydata	496	TRUE	495	yes	91.5046	100.8925	TRUE
+CROWN_PAPILIONIDAE_NONBARONIA	crown Papilionidae excluding Baronia	Parnassius_apollo_ncbi	Graphium_cloanthus_mydata	497	FALSE	7	yes	44.1968	52.9473	TRUE
+CROWN_HESPERIINAE	crown Hesperiinae	Aeromachus_catocyanea_mydata	Acada_biseriata_kawahara2023	503	FALSE	488	yes	36.210861	40.662537	TRUE

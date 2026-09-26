@@ -1,0 +1,11 @@
+--- /home/data/t200301/wjj/software/treePL/src/utils.cpp	2026-01-04 20:52:45.660023955 +0800
++++ software/treePL_randomcv_fix_src/utils.cpp	2026-09-04 00:33:20.917189287 +0800
+@@ -568,7 +568,7 @@
+ }
+ 
+ bool check_possible_cv_nodes(const int cvnode, const vector<int> & samps, const vector<int> & parent_nds_ints){
+-    int cvpar = parent_nds_ints[cvpar];
++    int cvpar = parent_nds_ints[cvnode];
+     for(int i=0;i<samps.size();i++){
+ 		if(parent_nds_ints[samps[i]] == cvpar){
+ 			return false;

@@ -1,0 +1,45 @@
+Analysis host: stark10-server
+Operating system: Linux 6.8.0-90-generic x86_64 GNU/Linux
+Timezone: Asia/Shanghai (+08:00)
+
+treePL stock binary
+  reported version: treePL 1.0
+  path: /home/data/t200301/wjj/software/treePL/treePL
+  SHA-256: 8048efe624e583624897f5c9fed740a51385d7bf9de262a923ca67b246464c1d
+  bytes: 4547152
+  mtime: 2026-01-04 21:25:16.472427352 +0800
+
+treePL run-local random-CV-fix build
+  reported version: treePL 1.0
+  path: /home/data/t200301/xjt/Hesperiinae_review/treePL_R2_3_T25_deep_only_20260904_000707/software/treePL_randomcv_fix_src/treePL
+  SHA-256: 5d6bfac8d18d835f24ebb79f0373b070a948b58a179f437f0aacb8fed74ccc5d
+  bytes: 4547320
+  source repository HEAD: 1f5c99f088227c7c8dacdf343e5d1ab23405009b
+  source commit date/message: 2025-06-27T11:10:20-04:00 / typos
+  source-to-binary caveat: the stock binary does not embed a commit identifier, so repository HEAD and stock-binary SHA are recorded separately.
+  local change: one line in src/utils.cpp changes parent_nds_ints[cvpar] (uninitialized index) to parent_nds_ints[cvnode] in check_possible_cv_nodes().
+  patch: software/randomcv_parent_index_fix.patch
+  stock utils.cpp SHA-256: 396511a0df1623f2d77503e5bc9f37da85a6be44d10877628d979a14878f37db
+  patched utils.cpp SHA-256: cfe370a5f95a7c991e08fb6da57a3869f405b3aa9cce17989f1ce880abdeb1c7
+  patch SHA-256: d12cf27a8a6a7ce98583990e1f64f51ce11b26375f2121f6f005b90574a2e485
+  build command: make -B -j8
+  build exit code: 0
+  build logs: logs/treepl_patched_build.stdout and logs/treepl_patched_build.stderr
+
+Runtime libraries
+  ADOL-C: /home/data/t200301/wjj/software/treePL/deps/ADOL-C-2.6.3/ADOL-C/.libs/libadolc.so.2
+  treePL private libraries: /home/data/t200301/wjj/software/treePL/my_libs/lib64
+  treePL is absent from the non-interactive PATH; all runs use the absolute binary path and explicit LD_LIBRARY_PATH.
+
+R: 4.5.3 (2026-03-11), codename Reassured Reassurer
+ape: 5.8.1
+g++: Ubuntu 13.3.0-6ubuntu2~24.04.1
+gcc: Ubuntu 13.3.0-6ubuntu2~24.04.1
+
+Hardware snapshot at run start
+  physical CPU cores: 128
+  logical CPU threads: 256
+  total RAM: 2003.84 GB
+  available RAM at detection: approximately 859.84 GB
+  free filesystem space: approximately 29 TB
+  detailed detector output: resources.json

@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "all_checks_pass": true,
+  "n_checks": 25,
+  "scope": "GENERIC_SYNTHETIC_ALGORITHM_SELFTEST_ONLY",
+  "whole_tree_maps": 0,
+  "current_fit_tested": false,
+  "historical_scientific_fixtures_imported": false,
+  "helper_sha256": "bd8af71058f50557d3dcba2863ad7006b8c1b858ff578b842f36391f0cf5d8a6",
+  "selftest_script_sha256": "79546260b66ff07a6bb3c284c662ad5011c55ccae3f2ce2060e306a7074ba6cf",
+  "next_gate": "New R4 native-input preflight followed by freshly prepared one-map pilot",
+  "created": "2026-09-14T00:10:04.444528Z"
+}

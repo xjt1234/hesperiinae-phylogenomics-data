@@ -1,0 +1,16 @@
+anchor_number	anchor_id	display_label	selection_rule
+1	root:hesperiinae417	Hesperiinae root	root of the frozen 417-tip tree
+2	tribe:Aeromachini:crown	Aeromachini	crown MRCA of all selected tribe tips
+3	tribe:Ceratrichiini:crown	Ceratrichiini	crown MRCA of all selected tribe tips
+4	tribe:Astictopterini:crown	Astictopterini	crown MRCA of all selected tribe tips
+5	tribe:Gretnini:stem_parent	Gretnini stem	parent of singleton tip; sister set required
+6	tribe:Taractrocerini:crown	Taractrocerini	crown MRCA of all selected tribe tips
+7	tribe:Erionotini:crown	Erionotini	crown MRCA of all selected tribe tips
+8	tribe:Notocryptini:crown	Notocryptini	crown MRCA of all selected tribe tips
+9	tribe:Eetionini:stem_parent	Eetionini stem	parent of singleton tip; sister set required
+10	tribe:Ismini:crown	Ismini	crown MRCA of all selected tribe tips
+11	tribe:Psolosini:crown	Psolosini	crown MRCA of all selected tribe tips
+12	tribe:Baorini:crown	Baorini	crown MRCA of all selected tribe tips
+13	tribe:Pericharini:crown	Pericharini	crown MRCA of all selected tribe tips
+14	tribe:Megathymini:crown	Megathymini	crown MRCA of all selected tribe tips
+15	tribe:Hesperiini:crown	Hesperiini	crown MRCA of all selected tribe tips

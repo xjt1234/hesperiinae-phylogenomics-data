@@ -1,0 +1,26 @@
+test	pass	detail
+two_state_P11	TRUE	
+two_state_P12	TRUE	
+two_state_tail	TRUE	
+two_state_jump_parity	TRUE	
+two_state_zero_jump_frequency	TRUE	observed=0.91500000 expected=0.91016406
+rejection_mean_jump_agreement	TRUE	
+rejection_dwell_agreement	TRUE	
+tiny_probability_relative_accuracy	TRUE	
+tiny_probability_tail	TRUE	
+tiny_probability_endpoints	TRUE	
+subgenerator_expm	TRUE	
+subgenerator_cemetery_equivalence	TRUE	
+native_converter_rejects_material_killing	TRUE	
+unreachable_rejected	TRUE	
+zero_generator_no_events	TRUE	
+invalid_negative_rate_rejected	TRUE	
+seed_reproducibility	TRUE	
+event_time_bounds	TRUE	
+native_effective_generator_row_sum	TRUE	
+native_effective_generator_rate_preserved	TRUE	
+native_event_schema	TRUE	
+native_event_endpoint	TRUE	
+native_event_age_transform	TRUE	
+native_audit_separate	TRUE	
+native_rounding_budget_rejects_large_discrepancy	TRUE	

@@ -1,0 +1,158 @@
+{
+  "schema_version": "geography_pelopidas_legacy_exception_v1",
+  "status": "INPUT_FROZEN_PENDING_RUNTIME_INPUT_QA",
+  "job_root": "/home/data/t200301/xjt/Hesperiinae_BGB/R2_4_PelopidasLegacy417_DEC_R4_20260910_1504",
+  "policy": "用户2026-09-10明确授权：R6不停；另跑Pelopidas mathias旧编码，其余新版编码的R4，并行检验M0/M1/M2。",
+  "geography_interpretation": "User-prespecified legacy-coding exception scenario, not the complete evidence-corrected geography. AUS/MDG evidence is retained, not refuted.",
+  "correction_summary": {
+    "changed_rows": 53,
+    "changed_bits": 68,
+    "additions": 17,
+    "removals": 51,
+    "held_voucher_deletions": 3,
+    "pending_rows_retained_where_undecided": 187
+  },
+  "recipe": {
+    "n_tips": 417,
+    "n_areas": 11,
+    "max_range_size": 4,
+    "include_null_range": true,
+    "n_states": 562,
+    "area_order": [
+      "AF",
+      "AUS",
+      "CAM",
+      "ENA",
+      "EPA",
+      "IND",
+      "MDG",
+      "ORI",
+      "SAM",
+      "WNA",
+      "WPA"
+    ],
+    "models": [
+      "M0",
+      "M1",
+      "M2"
+    ],
+    "primary_model": "M1",
+    "j_fixed": 0,
+    "w_fixed": 1,
+    "free_parameters": [
+      "d",
+      "e"
+    ],
+    "epochs_Ma": [
+      0,
+      3.3,
+      13.9,
+      23.03,
+      33.9,
+      45
+    ],
+    "state_space_reason": "Full R4 is compatible only because the explicitly named taxon retains its four-area legacy code in this separate scenario."
+  },
+  "archive_sha256": "0053241572b73b49b5b790c19938f9cbf5f8f385ff2a60b2ae65aeb613791c2f",
+  "files": [
+    {
+      "relative_path": "01_inputs/frozen/tree_scenarioA417.tre",
+      "bytes": 18401,
+      "sha256": "06725d5a0c1ef29007aeb0f7657175c2d2329c75cb4d8fb2170e39b5fdaf6962"
+    },
+    {
+      "relative_path": "01_inputs/frozen/geog_scenarioA417_analysis_order.LagrangePHYLIP",
+      "bytes": 12073,
+      "sha256": "3aa227e4600629eb77178ab68a30bb7cf408189bbcb9f8989ae1f184ce834ca4"
+    },
+    {
+      "relative_path": "01_inputs/frozen/tip_tribe_metadata_scenarioA417.tsv",
+      "bytes": 113440,
+      "sha256": "3af0a4d83b0e60aebb7b747634e9623322c0d9010501ff2856de0e7c7dab1344"
+    },
+    {
+      "relative_path": "01_inputs/frozen/geog_taxon_rename_manifest.tsv",
+      "bytes": 570,
+      "sha256": "7e318c704a839b9839b8ccfd9e5117ad5369ffbef239e1e2dd6b80662117e889"
+    },
+    {
+      "relative_path": "02_config/area_order.tsv",
+      "bytes": 497,
+      "sha256": "7daa151006fbe79d00ed92a83938aca4b04dbc89bbaa814710bf244dcb1a0804"
+    },
+    {
+      "relative_path": "02_config/timeperiods_5epochs.txt",
+      "bytes": 23,
+      "sha256": "90dadc7755385b44d9333f22e2acaeac163bd0ce4507289e1720671eccc4e51f"
+    },
+    {
+      "relative_path": "02_config/M1_conservative_dispersal_multipliers.txt",
+      "bytes": 3037,
+      "sha256": "34cc3ee7f0789d978948e35085fb9ed89de09f2600b50384bb074bd11db7029c"
+    },
+    {
+      "relative_path": "02_config/M2_permissive_dispersal_multipliers.txt",
+      "bytes": 2595,
+      "sha256": "aad709ab6571d541292c640efd74e0cf167959f1fa2d7cefa3a200b37953b745"
+    },
+    {
+      "relative_path": "02_config/M1_matrices_long.tsv",
+      "bytes": 19067,
+      "sha256": "8a022563d1ef04ca6151bdd1c2658d3dc26e10059932fafa5b7d425f80af65cc"
+    },
+    {
+      "relative_path": "02_config/M2_matrices_long.tsv",
+      "bytes": 18625,
+      "sha256": "3e8c7f9587b237150325b213d962b64a6fae9cb986cceca3eede16f15a34b73a"
+    },
+    {
+      "relative_path": "02_config/connectivity_grades_by_epoch.tsv",
+      "bytes": 1974,
+      "sha256": "0e6c75f58888f0ec0cf8b91ca748c04da0f021ab22eb3e0f48eb25ab3ed72e62"
+    },
+    {
+      "relative_path": "02_config/matrix_rationale.tsv",
+      "bytes": 57510,
+      "sha256": "620c1e3cece68f19f5a790db6d9292266188ee28a22cb5116a3da6dde130d6b4"
+    },
+    {
+      "relative_path": "02_config/matrix_rationale_evidence_v2.tsv",
+      "bytes": 213018,
+      "sha256": "7cb5af832bb9194f1cf48616c5099b15c1ebee857762a1921f832ee0297ac145"
+    },
+    {
+      "relative_path": "02_config/MATRIX_RATIONALE_EVIDENCE_V2_README.md",
+      "bytes": 4635,
+      "sha256": "4b79d77830ab41e71f39639fed39a48811c125f9abd12cb7f89d5703eb0877d1"
+    },
+    {
+      "relative_path": "02_config/figure_area_palette.tsv",
+      "bytes": 466,
+      "sha256": "d41191f80d6f56379a4f226d151fbcc11a2815bde2ae0d6dead4b5317f205e42"
+    }
+  ],
+  "old_result_policy": "Historical outputs remain untouched; no old fitted likelihoods, estimates, probabilities, BSM histories or geography-dependent caches count as new results.",
+  "resource_ceiling": {
+    "combined_compute_cpu_quota": 48,
+    "combined_memory_bytes": 200000000000,
+    "R4_cpu_quota": 8,
+    "R4_memory_bytes": 20000000000,
+    "R6_services_unchanged": true,
+    "cpu_quota_not_OS_task_count": true
+  },
+  "pending_policy": "Retain all 68 other supported changes, all unresolved original bits, and the explicit focal legacy exception. No tip renaming/pruning or tree changes.",
+  "comparison_limit": "R4 versus R6 changes both focal geography and allowed state space: not a pure range-cap test. Do not pool AIC weights across different geography datasets. R4 versus historical R4 holds state-space/tree constant but changes 68 geography bits.",
+  "created": "2026-09-10T15:11:08.794687+08:00",
+  "pelopidas_exception": {
+    "taxon": "Pelopidas_mathias",
+    "R6_code": "11001111000",
+    "R4_code": "10001101000",
+    "withheld_supported_additions": [
+      "AUS",
+      "MDG"
+    ],
+    "reason": "Explicit user-selected legacy comparability scenario; not a new claim that the species is absent from these regions.",
+    "SB_reference": "User mentioned an unnamed Systematic Biology skipper study; identity, sampling and coding have NOT been independently verified."
+  },
+  "source_R6_manifest_sha256": "49815b21683812d1f1ce37df5fe3cfb45f76a226e5e7af3a2b0fbed7bfb53872"
+}

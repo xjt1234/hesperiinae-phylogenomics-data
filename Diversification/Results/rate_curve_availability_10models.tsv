@@ -1,0 +1,11 @@
+model	model_status	eligible_for_AICc	family	lambda_formula	mu_formula	rate_curve_available	reason_if_unavailable
+BTempVar	finite_stable_reproducible_estimate	TRUE	temperature	lambda(t) = lambda0 * exp(alpha * T(t))	mu(t) = 0	TRUE	NA
+BTempVarDCST	finite_stable_reproducible_estimate	TRUE	temperature	lambda(t) = lambda0 * exp(alpha * T(t))	mu(t) = mu0	TRUE	NA
+BTimeVar	finite_stable_reproducible_estimate	TRUE	time	lambda(t) = lambda0 * exp(alpha * t)	mu(t) = 0	TRUE	NA
+BTempVarDTempVar	finite_stable_reproducible_estimate	TRUE	temperature	lambda(t) = lambda0 * exp(alpha * T(t))	mu(t) = mu0 * exp(beta * T(t))	TRUE	NA
+BTimeVarDCST	finite_stable_reproducible_estimate	TRUE	time	lambda(t) = lambda0 * exp(alpha * t)	mu(t) = mu0	TRUE	NA
+BCST	finite_stable_reproducible_estimate	TRUE	constant	lambda(t) = lambda0	mu(t) = 0	TRUE	NA
+BTimeVarDTimeVar	finite_stable_reproducible_estimate	TRUE	time	lambda(t) = lambda0 * exp(alpha * t)	mu(t) = mu0 * exp(beta * t)	TRUE	NA
+BCSTDCST	finite_stable_reproducible_estimate	TRUE	constant	lambda(t) = lambda0	mu(t) = mu0	TRUE	NA
+BCSTDTimeVar	finite_stable_reproducible_estimate	TRUE	time	lambda(t) = lambda0	mu(t) = mu0 * exp(beta * t)	TRUE	NA
+BCSTDTempVar	boundary_nonidentifiable	FALSE	temperature	lambda(t) = lambda0	mu(t) = mu0 * exp(beta * T(t))	FALSE	boundary non-identifiable; no finite parameter estimate or plug-in rate curve

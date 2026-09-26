@@ -1,0 +1,301 @@
+﻿genus	focal	sample_tips	named_binomials	status	maximal_pure_components	mrca_total_tips	mrca_support_raw	mrca_other_genera	mrca_audit_node	sampled_binomials
+Acada	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0231	Acada_biseriata
+Acerbas	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0355	Acerbas_sarala
+Acleros	False	2	2	MONOPHYLETIC_IN_THIS_TREE	1	2	90.5/86		N0225	Acleros_leucopyga;Acleros_ploetzi
+Adlerodea	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0829	Adlerodea_petrovna
+Adopaeoides	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0555	Adopaeoides_prittwitzi
+Aeromachus	False	5	5	MONOPHYLETIC_IN_THIS_TREE	1	5	100/100		N0031	Aeromachus_catocyanea;Aeromachus_jhora;Aeromachus_nana;Aeromachus_piceus;Aeromachus_stigmata
+Agathymus	False	3	2	MONOPHYLETIC_IN_THIS_TREE	1	3	100/100		N0491	Agathymus_aryxna;Agathymus_mariae
+Aides	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0535	Aides_duma
+Alychna	False	2	1	SINGLE_SPECIES_PLACEMENT_ONLY	1	2	100/100		N0823	Alychna_victa
+Amblyscirtes	True	6	6	NONMONOPHYLETIC_IN_THIS_TREE	2	220	100/100	Adlerodea;Adopaeoides;Alychna;Anatrytone;Ancyloxypha;Anthoptus;Apaustus;Appia;Arotis;Artines;Asbolis;Atalopedes;Atrytone;Atrytonopsis;Buzyges;Callimormus;Calpodes;Cantha;Chalcone;Choranthus;Cobaloides;Cobalopsis;Conga;Copaeodes;Corticea;Cumbre;Cyclosma;Cymaenes;Cynea;Decinea;Dion;Duroca;Enosis;Eprius;Euphyes;Eutocus;Eutychide;Evansiella;Falga;Flaccilla;Gallio;Ginungagapus;Halotus;Hansa;Hesperia;Hylephila;Joanna;Lamponia;Lento;Lerema;Lerodea;Levina;Libra;Librita;Lindra;Lon;Lucida;Lychnuchus;Methion;Methionopsis;Metron;Miltomiges;Misius;Mnaseas;Mnasicles;Mnasilus;Mnasinous;Mnasitheus;Mnestheus;Moeris;Molla;Monca;Morys;Mucia;Naevolus;Nastra;Neoxeniades;Niconiades;Notamblyscirtes;Nyctelius;Oarisma;Ochlodes;Oligoria;Onespa;Onophas;Orthos;Oxynthes;Pamba;Panca;Panoquina;Papias;Paracarystus;Parachoranthus;Paratrytone;Parphorus;Phanes;Phemiades;Pheraeus;Polites;Pompeius;Problema;Propapias;Propertius;Pseudocopaeodes;Psoralis;Punta;Pyrrhocalles;Quasimellana;Quinta;Racta;Remella;Rhinthon;Rigga;Rufocumbre;Saliana;Saniba;Saturnus;Serdis;Sodalia;Stinga;Styriodes;Synapte;Thargella;Thespieus;Thoon;Thymelicus;Tigasis;Tirynthia;Tirynthoides;Tricrista;Troyus;Turesis;Vacerra;Vehilius;Venas;Vernia;Vettius;Vidius;Vinius;Virga;Wahydra;Wallengrenia;Xeniades;Zariaspes;Zenis	N0551	Amblyscirtes_belli;Amblyscirtes_celia;Amblyscirtes_elissa;Amblyscirtes_eos;Amblyscirtes_florus;Amblyscirtes_simius
+Ampittia	False	5	4	MONOPHYLETIC_IN_THIS_TREE	1	5	100/100		N0047	Ampittia_dioscorides;Ampittia_subvittatus;Ampittia_trimacula;Ampittia_virgata
+Anatrytone	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0634	Anatrytone_logan
+Ancistroides	True	3	3	NONMONOPHYLETIC_IN_THIS_TREE	3	9	100/100	Notocrypta;Udaspes	N0366	Ancistroides_gemmifer;Ancistroides_longicornis;Ancistroides_nigrita
+Ancyloxypha	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0558	Ancyloxypha_numitor
+Andronymus	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0229	Andronymus_neander
+Ankola	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0101	Ankola_fan
+Anthoptus	False	4	3	MONOPHYLETIC_IN_THIS_TREE	1	4	100/100		N0795	Anthoptus_epictetus;Anthoptus_insignis;Anthoptus_sp.
+Apaustus	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0557	Apaustus_gracilis
+Appia	True	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0735	Appia_appia
+Argon	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0545	Argon_lota
+Arnetta	False	2	2	MONOPHYLETIC_IN_THIS_TREE	1	2	100/100		N0025	Arnetta_atkinsoni;Arnetta_verones
+Aroma	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0522	Aroma_aroma
+Arotis	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0593	Arotis_derasa
+Arrhenes	False	2	2	MONOPHYLETIC_IN_THIS_TREE	1	2	100/100		N0271	Arrhenes_dschilus;Arrhenes_marnas
+Artines	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0933	Artines_rica
+Artitropa	False	2	2	MONOPHYLETIC_IN_THIS_TREE	1	2	100/100		N0142	Artitropa_comus;Artitropa_erinnys
+Asbolis	False	2	1	SINGLE_SPECIES_PLACEMENT_ONLY	1	2	100/100		N0810	Asbolis_capucinus
+Astictopterus	True	3	2	NONMONOPHYLETIC_IN_THIS_TREE	2	9	100/100	Dotta;Fulda;Isoteinon;Perrotia;Xanthoneura	N0118	Astictopterus_jama;Astictopterus_punctulata
+Atalopedes	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0698	Atalopedes_campestris
+Atrytone	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0631	Atrytone_arogos
+Atrytonopsis	False	3	2	MONOPHYLETIC_IN_THIS_TREE	1	3	100/100		N0658	Atrytonopsis_edwardsi;Atrytonopsis_hianna
+Banta	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0245	Banta_banta
+Baoris	False	3	2	MONOPHYLETIC_IN_THIS_TREE	1	3	100/100		N0453	Baoris_farri;Baoris_oceia
+Baracus	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0046	Baracus_vittatus
+Borbo	False	3	2	MONOPHYLETIC_IN_THIS_TREE	1	3	100/100		N0437	Borbo_borbonica;Borbo_cinnara
+Brusa	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0430	Brusa_saxicola
+Buzyges	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0640	Buzyges_idothea
+Caenides	True	2	2	NONMONOPHYLETIC_IN_THIS_TREE	2	35	99.5/99	Acada;Acleros;Andronymus;Ceratricula;Cupitha;Fresna;Gorgyra;Gyrogra;Hollandus;Hypoleucis;Melphina;Melphinyet;Noctulana;Osmodes;Osphantes;Paracleros;Paronymus;Parosmodes;Platylesches;Rhabdomantis;Semalea;Teniorhinus;Xanthodisca;Zographetus	N0166	Caenides_dacela;Caenides_hidaroides
+Callimormus	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0891	Callimormus_radiola
+Calpodes	False	2	1	SINGLE_SPECIES_PLACEMENT_ONLY	1	2	100/100		N0563	Calpodes_ethlius
+Caltoris	False	4	3	MONOPHYLETIC_IN_THIS_TREE	1	4	98.4/95		N0445	Caltoris_cahira;Caltoris_cormasa;Caltoris_sirius
+Cantha	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0949	Cantha_calva
+Carystina	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0532	Carystina_aurifer
+Carystoides	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0489	Carystoides_escalantei
+Carystus	False	2	1	SINGLE_SPECIES_PLACEMENT_ONLY	1	2	100/100		N0548	Carystus_phorcus
+Cephrenes	False	3	2	MONOPHYLETIC_IN_THIS_TREE	1	3	100/100		N0275	Cephrenes_acalle;Cephrenes_augiades
+Ceratrichia	False	2	2	MONOPHYLETIC_IN_THIS_TREE	1	2	100/100		N0093	Ceratrichia_nothus;Ceratrichia_phocion
+Ceratricula	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0221	Ceratricula_semilutea
+Chalcone	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0620	Chalcone_briquenydan
+Chondrolepis	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0111	Chondrolepis_niveicornis
+Choranthus	False	3	3	MONOPHYLETIC_IN_THIS_TREE	1	3	97.9/98		N0803	Choranthus_haitensis;Choranthus_radians;Choranthus_vitellius
+Cobaloides	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0668	Cobaloides_argus
+Cobalopsis	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0971	Cobalopsis_miaba
+Cobalus	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0539	Cobalus_calvina
+Conga	False	2	2	MONOPHYLETIC_IN_THIS_TREE	1	2	100/100		N0688	Conga_chydaea;Conga_zela
+Copaeodes	False	2	1	SINGLE_SPECIES_PLACEMENT_ONLY	1	2	100/100		N0580	Copaeodes_aurantiaca
+Corticea	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0794	Corticea_corticea
+Creteus	True	2	1	SINGLE_SPECIES_PLACEMENT_ONLY	1	2	100/100		N0017	Creteus_cyrina
+Cumbre	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0924	Cumbre_cumbre
+Cupitha	False	2	1	SINGLE_SPECIES_PLACEMENT_ONLY	1	2	100/100		N0186	Cupitha_purreea
+Cyclosma	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0606	Cyclosma_sp.
+Cymaenes	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0968	Cymaenes_tripunctata
+Cynea	False	2	2	MONOPHYLETIC_IN_THIS_TREE	1	2	97/95		N0845	Cynea_cynea;Cynea_diluta
+Damas	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0520	Damas_clavus
+Decinea	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0645	Decinea_decinea
+Dion	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0919	Dion_gemmatus
+Dotta	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0126	Dotta_callicles
+Dubiella	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0531	Dubiella_dubius
+Duroca	False	2	1	SINGLE_SPECIES_PLACEMENT_ONLY	1	2	100/100		N0945	Duroca_duroca
+Ebusus	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0519	Ebusus_ebusus
+Eetion	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0385	Eetion_elia
+Enosis	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0912	Enosis_sp.
+Eogenes	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0113	Eogenes_alcides
+Eprius	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0916	Eprius_veleda
+Erionota	False	4	3	MONOPHYLETIC_IN_THIS_TREE	1	4	100/100		N0358	Erionota_acroleucus;Erionota_grandis;Erionota_thrax
+Euphyes	False	2	2	NONMONOPHYLETIC_IN_THIS_TREE	2	3	100/100	Notamblyscirtes	N0596	Euphyes_arpa;Euphyes_dion
+Eutocus	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0935	Eutocus_sp.
+Eutychide	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0918	Eutychide_physcella
+Evansiella	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0648	Evansiella_cordela
+Falga	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0768	Falga_jeconia
+Flaccilla	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0780	Flaccilla_aecas
+Flandria	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0147	Flandria_weberi
+Fresna	False	2	2	MONOPHYLETIC_IN_THIS_TREE	1	2	100/100		N0212	Fresna_netopha;Fresna_nyassae
+Fulda	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0129	Fulda_coroller
+Gallio	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0859	Gallio_carasta
+Gamia	False	2	2	MONOPHYLETIC_IN_THIS_TREE	1	2	100/100		N0139	Gamia_buchholzi;Gamia_shelleyi
+Gangara	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0357	Gangara_thyrsis
+Ge	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0328	Ge_geta
+Gegenes	False	2	2	MONOPHYLETIC_IN_THIS_TREE	1	2	100/100		N0434	Gegenes_nostrodamus;Gegenes_pumilio
+Ginungagapus	False	2	2	NONMONOPHYLETIC_IN_THIS_TREE	2	4	77.7/72	Lucida;Panca	N0936	Ginungagapus_fiedleri;Ginungagapus_ranesus
+Gorgyra	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0183	Gorgyra_diversata
+Graphium	False	2	2	MONOPHYLETIC_IN_THIS_TREE	1	2	100/100		N0007	Graphium_cloanthus;Graphium_sarpedon
+Gretna	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0236	Gretna_cylinda
+Gyrogra	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0198	Gyrogra_subnotata
+Halotus	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0863	Halotus_rica
+Halpe	False	4	3	MONOPHYLETIC_IN_THIS_TREE	1	4	100/100		N0061	Halpe_concavimarginata;Halpe_nephele;Halpe_porus
+Halpemorpha	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0041	Halpemorpha_albipectus
+Hansa	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0623	Hansa_devergens
+Herila	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0098	Herila_herilus
+Hesperia	False	12	10	MONOPHYLETIC_IN_THIS_TREE	1	12	100/100		N0699	Hesperia_attalus;Hesperia_balcones;Hesperia_colorado;Hesperia_comma;Hesperia_dacotae;Hesperia_meskei;Hesperia_nevada;Hesperia_pahaska;Hesperia_viridis;Hesperia_woodgatei
+Hidari	False	3	2	MONOPHYLETIC_IN_THIS_TREE	1	3	100/100		N0161	Hidari_bhawani;Hidari_irava
+Hollandus	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0170	Hollandus_xanthopeplus
+Hyarotis	False	2	1	SINGLE_SPECIES_PLACEMENT_ONLY	1	2	100/100		N0292	Hyarotis_adrastus
+Hylephila	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0723	Hylephila_phyleus
+Hypoleucis	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0172	Hypoleucis_tripunctata
+Iambrix	False	2	1	SINGLE_SPECIES_PLACEMENT_ONLY	1	2	100/100		N0387	Iambrix_salsala
+Idmon	False	2	2	MONOPHYLETIC_IN_THIS_TREE	1	2	100/100		N0394	Idmon_distanti;Idmon_fujianana
+Ilma	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0340	Ilma_irvina
+Isma	False	2	2	MONOPHYLETIC_IN_THIS_TREE	1	2	100/100		N0391	Isma_bononia;Isma_protoclea
+Isoteinon	False	2	1	SINGLE_SPECIES_PLACEMENT_ONLY	1	2	100/100		N0132	Isoteinon_lamprospilus
+Iton	False	2	2	MONOPHYLETIC_IN_THIS_TREE	1	2	100/100		N0425	Iton_semamora;Iton_watsonii
+Joanna	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0867	Joanna_joanna
+Kedestes	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0117	Kedestes_barberae
+Kobrona	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0252	Kobrona_kobros
+Koruthaialos	False	3	2	NONMONOPHYLETIC_IN_THIS_TREE	2	4	100/100	Stimula	N0400	Koruthaialos_butleri;Koruthaialos_rubecula
+Lamponia	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0930	Lamponia_lamponia
+Lento	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0902	Lento_lento
+Leona	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0150	Leona_leonora
+Lepella	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0045	Lepella_lepeletier
+Lerema	False	3	3	MONOPHYLETIC_IN_THIS_TREE	1	3	100/100		N0960	Lerema_accius;Lerema_lineosa;Lerema_liris
+Lerodea	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0973	Lerodea_eufala
+Levina	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0898	Levina_levina
+Libra	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0612	Libra_aligula
+Librita	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0642	Librita_librita
+Lindra	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0615	Lindra_brasus
+Lissia	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0137	Lissia_luehderi
+Lon	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0674	Lon_zabulon
+Lotongus	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0338	Lotongus_calathus
+Lucida	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0938	Lucida_lucia
+Lycas	False	2	1	SINGLE_SPECIES_PLACEMENT_ONLY	1	2	100/100		N0484	Lycas_argentea
+Lychnuchoides	False	2	1	SINGLE_SPECIES_PLACEMENT_ONLY	1	2	100/100		N0471	Lychnuchoides_ozias
+Lychnuchus	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0911	Lychnuchus_celsus
+Matapa	False	4	3	MONOPHYLETIC_IN_THIS_TREE	1	4	100/100		N0345	Matapa_aria;Matapa_druna;Matapa_sasivarna
+Megathymus	False	6	4	MONOPHYLETIC_IN_THIS_TREE	1	6	100/100		N0498	Megathymus_streckeri;Megathymus_ursus;Megathymus_violae;Megathymus_yuccae
+Melphina	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0180	Melphina_melphis
+Melphinyet	False	2	2	MONOPHYLETIC_IN_THIS_TREE	1	2	100/100		N0199	Melphinyet_flavina;Melphinyet_tarace
+Methion	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0782	Methion_melas
+Methionopsis	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0787	Methionopsis_ina
+Metron	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0609	Metron_oropa
+Meza	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0099	Meza_meza
+Miltomiges	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0786	Miltomiges_cinnamomea
+Mimene	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0270	Mimene_celia
+Misius	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0894	Misius_misius
+Mnaseas	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0592	Mnaseas_bicolor
+Mnasicles	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0877	Mnasicles_geta
+Mnasilus	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0957	Mnasilus_allubita
+Mnasinous	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0784	Mnasinous_patage
+Mnasitheus	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0890	Mnasitheus_chrysophrys
+Mnestheus	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0899	Mnestheus_ittona
+Moeris	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0856	Moeris_striga
+Moeros	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0541	Moeros_moeros
+Molla	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0928	Molla_molla
+Molo	False	2	1	SINGLE_SPECIES_PLACEMENT_ONLY	1	2	100/100		N0525	Molo_mango
+Monca	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0980	Monca_branca
+Monza	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0157	Monza_punctata
+Mopala	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0149	Mopala_orma
+Morys	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0959	Morys_compta
+Mucia	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0828	Mucia_zygia
+Naevolus	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0908	Naevolus_orius
+Nastra	False	2	1	SINGLE_SPECIES_PLACEMENT_ONLY	1	2	100/100		N0976	Nastra_julia
+Neoxeniades	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0842	Neoxeniades_braesia
+Niconiades	False	3	2	MONOPHYLETIC_IN_THIS_TREE	1	3	100/100		N0868	Niconiades_incomptus;Niconiades_xanthaphes
+Noctulana	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0193	Noctulana_noctula
+Notamblyscirtes	True	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0600	Notamblyscirtes_simius
+Notocrypta	False	4	3	MONOPHYLETIC_IN_THIS_TREE	1	4	100/100		N0376	Notocrypta_curvifascia;Notocrypta_feisthamelii;Notocrypta_paralysos
+Nyctelius	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0687	Nyctelius_nyctelius
+Oarisma	False	3	2	MONOPHYLETIC_IN_THIS_TREE	1	3	100/100		N0583	Oarisma_garita;Oarisma_powesheik
+Ochlodes	False	4	4	MONOPHYLETIC_IN_THIS_TREE	1	4	100/100		N0675	Ochlodes_bouddha;Ochlodes_sylvanoides;Ochlodes_sylvanus;Ochlodes_thibetana
+Ocybadistes	False	2	2	MONOPHYLETIC_IN_THIS_TREE	1	2	100/100		N0254	Ocybadistes_flavovittata;Ocybadistes_walkeri
+Oerane	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0316	Oerane_microthyrus
+Oligoria	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0669	Oligoria_maculata
+Onespa	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0639	Onespa_gala
+Onophas	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0849	Onophas_columbaria
+Onryza	True	2	2	NONMONOPHYLETIC_IN_THIS_TREE	2	7	100/100	Pedesta;Thoressa	N0078	Onryza_maga;Onryza_siamica
+Oriens	False	2	1	SINGLE_SPECIES_PLACEMENT_ONLY	1	2	100/100		N0241	Oriens_gola
+Orphe	False	2	2	MONOPHYLETIC_IN_THIS_TREE	1	2	100/100		N0467	Orphe_gerasa;Orphe_vatinius
+Orses	False	2	1	SINGLE_SPECIES_PLACEMENT_ONLY	1	2	100/100		N0481	Orses_cynisca
+Orthos	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0618	Orthos_trinka
+Osmodes	False	2	2	MONOPHYLETIC_IN_THIS_TREE	1	2	100/100		N0207	Osmodes_laronia;Osmodes_thora
+Osphantes	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0190	Osphantes_ogowena
+Oxynthes	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0617	Oxynthes_corusca
+Pamba	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0820	Pamba_boyaca
+Panca	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0941	Panca_subpunctuli
+Panoquina	False	3	2	MONOPHYLETIC_IN_THIS_TREE	1	3	100/100		N0568	Panoquina_ocola;Panoquina_panoquin
+Papias	False	2	2	NONMONOPHYLETIC_IN_THIS_TREE	2	220	100/100	Adlerodea;Adopaeoides;Alychna;Amblyscirtes;Anatrytone;Ancyloxypha;Anthoptus;Apaustus;Appia;Arotis;Artines;Asbolis;Atalopedes;Atrytone;Atrytonopsis;Buzyges;Callimormus;Calpodes;Cantha;Chalcone;Choranthus;Cobaloides;Cobalopsis;Conga;Copaeodes;Corticea;Cumbre;Cyclosma;Cymaenes;Cynea;Decinea;Dion;Duroca;Enosis;Eprius;Euphyes;Eutocus;Eutychide;Evansiella;Falga;Flaccilla;Gallio;Ginungagapus;Halotus;Hansa;Hesperia;Hylephila;Joanna;Lamponia;Lento;Lerema;Lerodea;Levina;Libra;Librita;Lindra;Lon;Lucida;Lychnuchus;Methion;Methionopsis;Metron;Miltomiges;Misius;Mnaseas;Mnasicles;Mnasilus;Mnasinous;Mnasitheus;Mnestheus;Moeris;Molla;Monca;Morys;Mucia;Naevolus;Nastra;Neoxeniades;Niconiades;Notamblyscirtes;Nyctelius;Oarisma;Ochlodes;Oligoria;Onespa;Onophas;Orthos;Oxynthes;Pamba;Panca;Panoquina;Paracarystus;Parachoranthus;Paratrytone;Parphorus;Phanes;Phemiades;Pheraeus;Polites;Pompeius;Problema;Propapias;Propertius;Pseudocopaeodes;Psoralis;Punta;Pyrrhocalles;Quasimellana;Quinta;Racta;Remella;Rhinthon;Rigga;Rufocumbre;Saliana;Saniba;Saturnus;Serdis;Sodalia;Stinga;Styriodes;Synapte;Thargella;Thespieus;Thoon;Thymelicus;Tigasis;Tirynthia;Tirynthoides;Tricrista;Troyus;Turesis;Vacerra;Vehilius;Venas;Vernia;Vettius;Vidius;Vinius;Virga;Wahydra;Wallengrenia;Xeniades;Zariaspes;Zenis	N0551	Papias_subcostulata;Papias_trimacula
+Papilio	False	3	3	MONOPHYLETIC_IN_THIS_TREE	1	3	100/100		N0010	Papilio_helenus;Papilio_machaon;Papilio_xuthus
+Paracarystus	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0854	Paracarystus_hypargyra
+Parachoranthus	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0684	Parachoranthus_magdalia
+Paracleros	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0224	Paracleros_biguttulus
+Paratrytone	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0650	Paratrytone_snowi
+Pardaleodes	False	3	2	MONOPHYLETIC_IN_THIS_TREE	1	3	100/100		N0102	Pardaleodes_edipus;Pardaleodes_incerta
+Parnara	False	4	2	MONOPHYLETIC_IN_THIS_TREE	1	4	100/100		N0409	Parnara_apostata;Parnara_guttata
+Parnassius	False	2	2	MONOPHYLETIC_IN_THIS_TREE	1	2	100/100		N0003	Parnassius_apollo;Parnassius_glacialis
+Paronymus	True	2	2	NONMONOPHYLETIC_IN_THIS_TREE	2	3	75.2/77	Ceratricula	N0217	Paronymus_ligora;Paronymus_xanthias
+Parosmodes	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0185	Parosmodes_morantii
+Parphorus	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0952	Parphorus_storax
+Peba	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0544	Peba_verames
+Pedesta	True	4	4	NONMONOPHYLETIC_IN_THIS_TREE	3	12	100/100	Onryza;Pithauria;Praethoressa;Thoressa	N0068	Pedesta_blanchardii;Pedesta_masuriensis;Pedesta_rubella;Pedesta_submacula
+Pelopidas	False	4	3	MONOPHYLETIC_IN_THIS_TREE	1	4	100/100		N0458	Pelopidas_agna;Pelopidas_mathias;Pelopidas_sinensis
+Perichares	False	3	2	MONOPHYLETIC_IN_THIS_TREE	1	3	100/100		N0475	Perichares_adela;Perichares_lotus
+Perrotia	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0128	Perrotia_varians
+Phanes	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0922	Phanes_abaris
+Phemiades	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0611	Phemiades_pohli
+Pheraeus	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0931	Pheraeus_odilia
+Pirdana	False	3	2	MONOPHYLETIC_IN_THIS_TREE	1	3	100/100		N0310	Pirdana_distanti;Pirdana_hyela
+Pithauria	False	3	2	MONOPHYLETIC_IN_THIS_TREE	1	3	100/100		N0073	Pithauria_linus;Pithauria_stramineipennis
+Plastingia	False	2	1	SINGLE_SPECIES_PLACEMENT_ONLY	1	2	100/100		N0323	Plastingia_naga
+Platylesches	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0179	Platylesches_picanini
+Ploetzia	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0309	Ploetzia_amygdalis
+Polites	True	13	12	NONMONOPHYLETIC_IN_THIS_TREE	3	21	100/100	Appia;Pompeius;Wallengrenia	N0724	Polites_baracoa;Polites_carus;Polites_draco;Polites_mardon;Polites_mystic;Polites_origenes;Polites_peckius;Polites_rhesus;Polites_sabuleti;Polites_sonora;Polites_themistocles;Polites_vibex
+Polytremis	True	4	4	NONMONOPHYLETIC_IN_THIS_TREE	3	25	100/100	Baoris;Borbo;Brusa;Caltoris;Gegenes;Iton;Pelopidas;Prusiana;Zenonia	N0416	Polytremis_eltola;Polytremis_lubricans;Polytremis_nascens;Polytremis_theca
+Pompeius	True	3	2	NONMONOPHYLETIC_IN_THIS_TREE	2	4	100/100	Appia	N0729	Pompeius_amblyspila;Pompeius_pompeius
+Potanthus	True	4	4	MONOPHYLETIC_IN_THIS_TREE	1	4	100/100		N0259	Potanthus_flavus;Potanthus_ganda;Potanthus_omaha;Potanthus_trachala
+Praethoressa	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0072	Praethoressa_varia
+Problema	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0630	Problema_byssus
+Propapias	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0773	Propapias_sipariana
+Propertius	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0622	Propertius_dejongi
+Prosopalpus	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0030	Prosopalpus_debilis
+Prusiana	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0444	Prusiana_prusias
+Pseudocopaeodes	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0696	Pseudocopaeodes_eunus
+Pseudokerana	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0334	Pseudokerana_fulgur
+Pseudopirdana	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0330	Pseudopirdana_albicornis
+Psolos	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0399	Psolos_fuligo
+Psoralis	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0819	Psoralis_stacara
+Pteroteinon	False	2	2	MONOPHYLETIC_IN_THIS_TREE	1	2	100/100		N0158	Pteroteinon_caenira;Pteroteinon_laufella
+Punta	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0853	Punta_punta
+Pyroneura	False	2	2	NONMONOPHYLETIC_IN_THIS_TREE	2	3	100/100	Pseudokerana	N0331	Pyroneura_derna;Pyroneura_margherita
+Pyrrhocalles	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0809	Pyrrhocalles_antiqua
+Pyrrhopygopsis	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0517	Pyrrhopygopsis_socrates
+Quasimellana	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0636	Quasimellana_antipazina
+Quedara	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0291	Quedara_monteithi
+Quinta	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0844	Quinta_cannae
+Racta	False	2	2	MONOPHYLETIC_IN_THIS_TREE	1	2	100/100		N0789	Racta_chiria;Racta_sp.
+Remella	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0876	Remella_rita
+Rhabdomantis	False	2	2	MONOPHYLETIC_IN_THIS_TREE	1	2	100/100		N0204	Rhabdomantis_galatia;Rhabdomantis_sosia
+Rhinthon	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0841	Rhinthon_cubana
+Rigga	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0895	Rigga_hesia
+Rufocumbre	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0927	Rufocumbre_eberti
+Sabera	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0269	Sabera_caesina
+Salanoemia	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0322	Salanoemia_sala
+Saliana	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0562	Saliana_esperi
+Saniba	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0817	Saniba_sabina
+Saturnus	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0951	Saturnus_metonidia
+Scobura	False	5	5	MONOPHYLETIC_IN_THIS_TREE	1	5	100/100		N0297	Scobura_cephala;Scobura_cephaloides;Scobura_coniata;Scobura_eximia;Scobura_isota
+Sebastonyma	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0059	Sebastonyma_dolopia
+Semalea	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0175	Semalea_pulvina
+Serdis	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0603	Serdis_viridicans
+Sodalia	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0907	Sodalia_sodalis
+Sovia	False	2	2	MONOPHYLETIC_IN_THIS_TREE	1	2	100/100		N0022	Sovia_lucasii;Sovia_subflava
+Stallingsia	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0497	Stallingsia_maculosus
+Stimula	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0405	Stimula_swinhoei
+Stinga	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0673	Stinga_morrisoni
+Styriodes	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0815	Styriodes_quadrinotata
+Suada	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0296	Suada_swerga
+Suastus	False	2	1	SINGLE_SPECIES_PLACEMENT_ONLY	1	2	100/100		N0318	Suastus_gremius
+Suniana	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0258	Suniana_sunias
+Synale	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0547	Synale_cynaxa
+Synapte	False	2	2	MONOPHYLETIC_IN_THIS_TREE	1	2	100/100		N0774	Synapte_salenus;Synapte_silius
+Talides	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0512	Talides_sinois
+Taractrocera	True	2	2	MONOPHYLETIC_IN_THIS_TREE	1	2	100/100		N0248	Taractrocera_luzonensis;Taractrocera_maevius
+Telicota	False	4	3	MONOPHYLETIC_IN_THIS_TREE	1	4	100/100		N0280	Telicota_augias;Telicota_bambusae;Telicota_sp.
+Tellona	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0524	Tellona_variegata
+Teniorhinus	False	2	2	MONOPHYLETIC_IN_THIS_TREE	1	2	100/100		N0232	Teniorhinus_harona;Teniorhinus_watsoni
+Thargella	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0771	Thargella_evansi
+Thespieus	False	3	3	MONOPHYLETIC_IN_THIS_TREE	1	3	100/100		N0652	Thespieus_dalman;Thespieus_ethemides;Thespieus_macareus
+Thoon	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0862	Thoon_modius
+Thoressa	True	3	3	NONMONOPHYLETIC_IN_THIS_TREE	3	18	99.4/98	Halpe;Onryza;Pedesta;Pithauria;Praethoressa;Sebastonyma	N0056	Thoressa_bivitta;Thoressa_kuata;Thoressa_masoni
+Thracides	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0534	Thracides_phidon
+Thymelicus	False	3	2	MONOPHYLETIC_IN_THIS_TREE	1	3	100/100		N0574	Thymelicus_lineola;Thymelicus_sylvestris
+Tiacellia	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0239	Tiacellia_tiacellia
+Tigasis	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0865	Tigasis_arita
+Tirynthia	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0644	Tirynthia_conflua
+Tirynthoides	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0605	Tirynthoides_lotana
+Tricrista	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0858	Tricrista_advena
+Tromba	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0516	Tromba_tromba
+Troyus	False	4	4	NONMONOPHYLETIC_IN_THIS_TREE	4	5	100/100	Vettius	N0981	Troyus_aurelius;Troyus_diversus;Troyus_fantasos;Troyus_marcus
+Tsitana	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0116	Tsitana_tsita
+Turesis	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0779	Turesis_theste
+Udaspes	False	2	1	SINGLE_SPECIES_PLACEMENT_ONLY	1	2	100/100		N0371	Udaspes_folus
+Unkana	False	2	1	SINGLE_SPECIES_PLACEMENT_ONLY	1	2	100/100		N0341	Unkana_ambasa
+Vacerra	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0666	Vacerra_bonfilius
+Vehilius	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0975	Vehilius_celeus
+Venas	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0915	Venas_evans
+Vernia	False	2	1	SINGLE_SPECIES_PLACEMENT_ONLY	1	2	100/100		N0692	Vernia_verna
+Vertica	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0537	Vertica_verticalis
+Vettius	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0989	Vettius_lafrenaye
+Vidius	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0967	Vidius_catarinae
+Vinius	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0837	Vinius_letis
+Virga	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0901	Virga_austrinus
+Wahydra	False	3	2	MONOPHYLETIC_IN_THIS_TREE	1	3	100/100		N0830	Wahydra_kenava;Wahydra_sp.
+Wallengrenia	True	4	3	MONOPHYLETIC_IN_THIS_TREE	1	4	100/100		N0743	Wallengrenia_egeremet;Wallengrenia_otho;Wallengrenia_premnas
+Xanthodisca	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0174	Xanthodisca_vibius
+Xanthoneura	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0123	Xanthoneura_obscurior
+Xeniades	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0664	Xeniades_orchamus
+Zariaspes	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0633	Zariaspes_mys
+Zela	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0354	Zela_zeus
+Zenis	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0567	Zenis_jebus
+Zenonia	False	1	1	SINGLE_TIP_PLACEMENT_ONLY	1	1			N0422	Zenonia_zeno
+Zographetus	False	2	2	MONOPHYLETIC_IN_THIS_TREE	1	2	100/100		N0194	Zographetus_ogygia;Zographetus_satwa
+Zophopetes	False	2	2	MONOPHYLETIC_IN_THIS_TREE	1	2	100/100		N0152	Zophopetes_cerymica;Zophopetes_dysmephila

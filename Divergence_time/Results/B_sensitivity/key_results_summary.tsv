@@ -1,0 +1,48 @@
+category	metric	value	unit	interpretation	source_file
+analysis	overall_status	PASS	status	No critical QA failures	qa/qa_report_core.md
+input	tip_count	495	tips	Unique tree tips; exact FASTA taxon-set match	qa/input_tree_stats.tsv;qa/alignment_validation.tsv
+input	alignment_length	182682	bp	Length supplied to treePL as numsites	qa/alignment_validation.tsv;configs/final.cfg
+input	input_tree_sha256	4d35d553ed5bbf08022daef2361ffa0c342f8694a53aaf08d5350692094439e5	sha256	Fixed input ML tree	qa/final_provenance_sha256.tsv
+input	alignment_sha256	ed2ab38a770ac647ebf711f086110fd6e04b1d391a3bcc9089155e208307c0b2	sha256	Matching 495-tip nucleotide matrix	input/Hesperiinae_NT_supermatrix.495tip.requested_mydata_labels.fasta
+calibration	crown_papilionoidea_bounds	91.5046-100.8925	Ma	Posterior-derived secondary hard constraint	Toussaint_2025_calibration_provenance.md
+calibration	crown_non_baronia_papilionidae_bounds	44.1968-52.9473	Ma	Posterior-derived secondary hard constraint	Toussaint_2025_calibration_provenance.md
+calibration	crown_hesperiinae_bounds	36.210861-40.662537	Ma	Posterior-derived secondary hard constraint	Toussaint_2025_calibration_provenance.md
+calibration	constraint_independence	correlated	category	All three constraints derive from the same BEAST analysis	Toussaint_2025_calibration_provenance.md
+prime	opt	4	setting	Same in prime and same-seed repeat	qa/prime_recommendations.tsv
+prime	optad	4	setting	Same in prime and same-seed repeat	qa/prime_recommendations.tsv
+prime	optcvad	1	setting	Same in prime and same-seed repeat	qa/prime_recommendations.tsv
+cv	formal_grid	1e5_to_1e-17_23_points	grid	Three complete continuous random-CV runs	qa/cv_23point_decision.tsv
+cv	formal_runs	3	runs	Seeds 2026090441,2026090442,2026090443	qa/cv_23point_decision.tsv
+cv	formal_rows	69	scores	23 smoothing values x 3 runs	qa/cv_23point_decision.tsv
+cv	cviter	3	setting	Per formal CV config	configs/cv_extendedgrid_run_01.cfg
+cv	nthreads	10	threads	Per formal CV config	configs/cv_extendedgrid_run_01.cfg
+cv	decision_status	ACCEPTED_WITH_SENSITIVITIES	status	Finite-precision low-smoothing plateau	qa/cv_23point_decision.tsv
+cv	stability	weak	category	Replicate support was not strong	qa/cv_23point_decision.tsv
+cv	selected_smoothing	1e-9	smooth	Largest smoothing in aggregate tied-minimum plateau	qa/cv_23point_decision.tsv
+cv	selected_median_raw_chisq	8319.11	score	Lowest aggregate median reported by treePL	qa/cv_23point_decision.tsv
+cv	tied_minimum_count	9	values	Values 1e-9 through 1e-17	qa/cv_23point_decision.tsv
+cv	sensitivity_smoothing_values	1e-10,1e-11,1e-12,1e-13,1e-14,1e-15,1e-16,1e-17	smooth	All non-primary aggregate tied winners	qa/final_variant_manifest.tsv
+final	primary_seed	2026090488	seed	Primary and final-variant seed	configs/final.cfg
+final	primary_thorough	TRUE	boolean	Primary treePL run uses thorough	configs/final.cfg
+final	primary_tree_sha256	0e1e17d539019d7c5c869941992838d65f371d77e219d90fb9033f9507d839a9	sha256	Canonical three-calibration dated tree	qa/final_provenance_sha256.tsv
+age	crown_papilionoidea_primary	91.6495313575758	Ma	Within hard interval; not at 1e-6 boundary	qa/node_ages.tsv
+age	crown_non_baronia_papilionidae_primary	52.9472995714286	Ma	Constraint-limited at upper boundary	qa/node_ages.tsv
+age	crown_hesperiinae_primary	40.6625373688525	Ma	Constraint-limited at upper boundary; 1e-5 serialization gate passes	qa/node_ages.tsv
+comparison	crown_hesperiinae_two_calibration	42.0830894959016	Ma	Uncalibrated in the two-calibration scenario	qa/two_vs_three_calibration_node_ages.tsv
+comparison	crown_hesperiinae_three_minus_two	-1.42055212704918	Ma	Addition of Hesperiinae hard constraint shifted age younger	qa/two_vs_three_calibration_node_ages.tsv
+comparison	input_final_topology_rf	0	PH85_RF	Input topology preserved	qa/final_tree_checks.tsv
+comparison	two_vs_three_topology_rf	0	PH85_RF	Two- and three-calibration topologies identical	qa/two_vs_three_calibration_checks.tsv
+comparison	two_vs_three_max_internal_age_difference	4.41840566667	Ma	Maximum across 494 exact rooted-clade matches	qa/two_vs_three_calibration_checks.tsv
+comparison	two_vs_three_mean_absolute_internal_age_difference	0.710997861327	Ma	Mean across 494 exact rooted-clade matches	qa/two_vs_three_calibration_checks.tsv
+sensitivity	crown_hesperiinae_min	40.0881673913934	Ma	Minimum among eight alternative tied smooth values	qa/final_variant_threecal_calibration_ages.tsv
+sensitivity	crown_hesperiinae_max	40.6625373729508	Ma	Maximum among eight alternative tied smooth values	qa/final_variant_threecal_calibration_ages.tsv
+sensitivity	crown_hesperiinae_max_abs_difference_from_primary	0.574369977459014	Ma	Largest alternative-smooth difference from primary	qa/final_variant_threecal_calibration_ages.tsv
+sensitivity	max_internal_age_difference_from_primary	6.80748177373738	Ma	Largest difference across all smooth sensitivities; at smooth 1e-14 root	qa/final_variant_threecal_age_difference_summary.tsv
+reproducibility	same_seed_repeat_byte_identical	TRUE	boolean	Same seed and thorough reproduce primary bytes	qa/final_variant_threecal_age_difference_summary.tsv
+optimization	no_thorough_max_internal_age_difference	0.561181999999988	Ma	Optimization diagnostic; largest difference on a two-tip clade	qa/final_variant_threecal_age_difference_summary.tsv
+qa	final_checks_total	119	checks	116 PASS plus 3 noncritical WARN	qa/final_tree_checks.tsv
+qa	final_checks_pass	116	checks	Critical failures zero	qa/final_tree_checks.tsv
+qa	final_checks_noncritical_warn	3	checks	All attributable to six-decimal Newick serialization	qa/final_tree_checks.tsv
+qa	root_to_tip_range	5.99999999906e-06	Ma	Passes prespecified 1e-5 Ma serialization hard gate	qa/qa_report_core.md
+provenance	verified_stages	22	stages	2 prime, 9 CV, 11 final	qa/stage_summary.tsv
+provenance	config_and_stage_lint	21	configs_and_stages	All consolidated configuration/stage checks pass	qa/config_lint_consolidated.txt

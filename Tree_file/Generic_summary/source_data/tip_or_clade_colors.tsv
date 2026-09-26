@@ -1,0 +1,496 @@
+tip_label	biological_name	display_label	display_label_unique	source_tag	group	color_hex	group_tip_count	singleton_group
+Parnassius_apollo_ncbi	Parnassius_apollo	Parnassius apollo	Parnassius apollo	ncbi	Outgroup	#4D4D4D	7	FALSE
+Parnassius_glacialis_ncbi	Parnassius_glacialis	Parnassius glacialis	Parnassius glacialis	ncbi	Outgroup	#4D4D4D	7	FALSE
+Graphium_sarpedon_mydata	Graphium_sarpedon	Graphium sarpedon	Graphium sarpedon	mydata	Outgroup	#4D4D4D	7	FALSE
+Graphium_cloanthus_mydata	Graphium_cloanthus	Graphium cloanthus	Graphium cloanthus	mydata	Outgroup	#4D4D4D	7	FALSE
+Papilio_helenus_ncbi	Papilio_helenus	Papilio helenus	Papilio helenus	ncbi	Outgroup	#4D4D4D	7	FALSE
+Papilio_machaon_ncbi	Papilio_machaon	Papilio machaon	Papilio machaon	ncbi	Outgroup	#4D4D4D	7	FALSE
+Papilio_xuthus_ncbi	Papilio_xuthus	Papilio xuthus	Papilio xuthus	ncbi	Outgroup	#4D4D4D	7	FALSE
+Creteus_cyrina_mydata	Creteus_cyrina	Creteus cyrina	Creteus cyrina [mydata]	mydata	Aeromachini	#1B9E77	38	FALSE
+Creteus_cyrina_kawahara2023	Creteus_cyrina	Creteus cyrina	Creteus cyrina [kawahara2023]	kawahara2023	Aeromachini	#1B9E77	38	FALSE
+Sovia_subflava_mydata	Sovia_subflava	Sovia subflava	Sovia subflava	mydata	Aeromachini	#1B9E77	38	FALSE
+Sovia_lucasii_lucasii_mydata	Sovia_lucasii_lucasii	Sovia lucasii lucasii	Sovia lucasii lucasii	mydata	Aeromachini	#1B9E77	38	FALSE
+Arnetta_atkinsoni_mydata	Arnetta_atkinsoni	Arnetta atkinsoni	Arnetta atkinsoni	mydata	Aeromachini	#1B9E77	38	FALSE
+Arnetta_verones_kawahara2023	Arnetta_verones	Arnetta verones	Arnetta verones	kawahara2023	Aeromachini	#1B9E77	38	FALSE
+Prosopalpus_debilis_kawahara2023	Prosopalpus_debilis	Prosopalpus debilis	Prosopalpus debilis	kawahara2023	Aeromachini	#1B9E77	38	FALSE
+Aeromachus_nana_mydata	Aeromachus_nana	Aeromachus nana	Aeromachus nana	mydata	Aeromachini	#1B9E77	38	FALSE
+Aeromachus_jhora_mydata	Aeromachus_jhora	Aeromachus jhora	Aeromachus jhora	mydata	Aeromachini	#1B9E77	38	FALSE
+Aeromachus_stigmata_kawahara2023	Aeromachus_stigmata	Aeromachus stigmata	Aeromachus stigmata	kawahara2023	Aeromachini	#1B9E77	38	FALSE
+Aeromachus_piceus_mydata	Aeromachus_piceus	Aeromachus piceus	Aeromachus piceus	mydata	Aeromachini	#1B9E77	38	FALSE
+Aeromachus_catocyanea_mydata	Aeromachus_catocyanea	Aeromachus catocyanea	Aeromachus catocyanea	mydata	Aeromachini	#1B9E77	38	FALSE
+Halpemorpha_albipectus_kawahara2023	Halpemorpha_albipectus	Halpemorpha albipectus	Halpemorpha albipectus	kawahara2023	Aeromachini	#1B9E77	38	FALSE
+Lepella_lepeletier_kawahara2023	Lepella_lepeletier	Lepella lepeletier	Lepella lepeletier	kawahara2023	Aeromachini	#1B9E77	38	FALSE
+Baracus_vittatus_kawahara2023	Baracus_vittatus	Baracus vittatus	Baracus vittatus	kawahara2023	Aeromachini	#1B9E77	38	FALSE
+Ampittia_virgata_miyakei_kawahara2023	Ampittia_virgata_miyakei	Ampittia virgata miyakei	Ampittia virgata miyakei	kawahara2023	Aeromachini	#1B9E77	38	FALSE
+Ampittia_trimacula_ncbi	Ampittia_trimacula	Ampittia trimacula	Ampittia trimacula	ncbi	Aeromachini	#1B9E77	38	FALSE
+Ampittia_subvittatus_kawahara2023	Ampittia_subvittatus	Ampittia subvittatus	Ampittia subvittatus	kawahara2023	Aeromachini	#1B9E77	38	FALSE
+Ampittia_dioscorides_fabricius_mydata	Ampittia_dioscorides_fabricius	Ampittia dioscorides fabricius	Ampittia dioscorides fabricius	mydata	Aeromachini	#1B9E77	38	FALSE
+Ampittia_dioscorides_kawahara2023	Ampittia_dioscorides	Ampittia dioscorides	Ampittia dioscorides	kawahara2023	Aeromachini	#1B9E77	38	FALSE
+Thoressa_masoni_kawahara2023	Thoressa_masoni	Thoressa masoni	Thoressa masoni	kawahara2023	Aeromachini	#1B9E77	38	FALSE
+Sebastonyma_dolopia_kawahara2023	Sebastonyma_dolopia	Sebastonyma dolopia	Sebastonyma dolopia	kawahara2023	Aeromachini	#1B9E77	38	FALSE
+Halpe_porus_mydata	Halpe_porus	Halpe porus	Halpe porus [mydata]	mydata	Aeromachini	#1B9E77	38	FALSE
+Halpe_porus_kawahara2023	Halpe_porus	Halpe porus	Halpe porus [kawahara2023]	kawahara2023	Aeromachini	#1B9E77	38	FALSE
+Halpe_nephele_mydata	Halpe_nephele	Halpe nephele	Halpe nephele	mydata	Aeromachini	#1B9E77	38	FALSE
+Halpe_concavimarginata_mydata	Halpe_concavimarginata	Halpe concavimarginata	Halpe concavimarginata	mydata	Aeromachini	#1B9E77	38	FALSE
+Pedesta_rubella_mydata	Pedesta_rubella	Pedesta rubella	Pedesta rubella	mydata	Aeromachini	#1B9E77	38	FALSE
+Praethoressa_varia_kawahara2023	Praethoressa_varia	Praethoressa varia	Praethoressa varia	kawahara2023	Aeromachini	#1B9E77	38	FALSE
+Pithauria_linus_mydata	Pithauria_linus	Pithauria linus	Pithauria linus	mydata	Aeromachini	#1B9E77	38	FALSE
+Pithauria_stramineipennis_mydata	Pithauria_stramineipennis	Pithauria stramineipennis	Pithauria stramineipennis [mydata]	mydata	Aeromachini	#1B9E77	38	FALSE
+Pithauria_stramineipennis_kawahara2023	Pithauria_stramineipennis	Pithauria stramineipennis	Pithauria stramineipennis [kawahara2023]	kawahara2023	Aeromachini	#1B9E77	38	FALSE
+Onryza_siamica_kawahara2023	Onryza_siamica	Onryza siamica	Onryza siamica	kawahara2023	Aeromachini	#1B9E77	38	FALSE
+Thoressa_kuata_ncbi	Thoressa_kuata	Thoressa kuata	Thoressa kuata	ncbi	Aeromachini	#1B9E77	38	FALSE
+Onryza_maga_mydata	Onryza_maga	Onryza maga	Onryza maga	mydata	Aeromachini	#1B9E77	38	FALSE
+Pedesta_submacula_mydata	Pedesta_submacula	Pedesta submacula	Pedesta submacula	mydata	Aeromachini	#1B9E77	38	FALSE
+Thoressa_bivitta_mydata	Thoressa_bivitta	Thoressa bivitta	Thoressa bivitta	mydata	Aeromachini	#1B9E77	38	FALSE
+Pedesta_masuriensis_mydata	Pedesta_masuriensis	Pedesta masuriensis	Pedesta masuriensis	mydata	Aeromachini	#1B9E77	38	FALSE
+Pedesta_blanchardii_mydata	Pedesta_blanchardii	Pedesta blanchardii	Pedesta blanchardii	mydata	Aeromachini	#1B9E77	38	FALSE
+Ceratrichia_phocion_kawahara2023	Ceratrichia_phocion	Ceratrichia phocion	Ceratrichia phocion	kawahara2023	Ceratrichiini	#D95F02	8	FALSE
+Ceratrichia_nothus_makomensis_kawahara2023	Ceratrichia_nothus_makomensis	Ceratrichia nothus makomensis	Ceratrichia nothus makomensis	kawahara2023	Ceratrichiini	#D95F02	8	FALSE
+Herila_herilus_kawahara2023	Herila_herilus	Herila herilus	Herila herilus	kawahara2023	Ceratrichiini	#D95F02	8	FALSE
+Meza_meza_kawahara2023	Meza_meza	Meza meza	Meza meza	kawahara2023	Ceratrichiini	#D95F02	8	FALSE
+Ankola_fan_kawahara2023	Ankola_fan	Ankola fan	Ankola fan	kawahara2023	Ceratrichiini	#D95F02	8	FALSE
+Pardaleodes_incerta_kawahara2023	Pardaleodes_incerta	Pardaleodes incerta	Pardaleodes incerta	kawahara2023	Ceratrichiini	#D95F02	8	FALSE
+Pardaleodes_edipus_mydata	Pardaleodes_edipus	Pardaleodes edipus	Pardaleodes edipus [mydata]	mydata	Ceratrichiini	#D95F02	8	FALSE
+Pardaleodes_edipus_kawahara2023	Pardaleodes_edipus	Pardaleodes edipus	Pardaleodes edipus [kawahara2023]	kawahara2023	Ceratrichiini	#D95F02	8	FALSE
+Chondrolepis_niveicornis_kawahara2023	Chondrolepis_niveicornis	Chondrolepis niveicornis	Chondrolepis niveicornis	kawahara2023	Astictopterini	#7570B3	64	FALSE
+Eogenes_alcides_kawahara2023	Eogenes_alcides	Eogenes alcides	Eogenes alcides	kawahara2023	Astictopterini	#7570B3	64	FALSE
+Tsitana_tsita_kawahara2023	Tsitana_tsita	Tsitana tsita	Tsitana tsita	kawahara2023	Astictopterini	#7570B3	64	FALSE
+Kedestes_barberae_kawahara2023	Kedestes_barberae	Kedestes barberae	Kedestes barberae	kawahara2023	Astictopterini	#7570B3	64	FALSE
+Astictopterus_jama_mydata	Astictopterus_jama	Astictopterus jama	Astictopterus jama [mydata]	mydata	Astictopterini	#7570B3	64	FALSE
+Astictopterus_jama_kawahara2023	Astictopterus_jama	Astictopterus jama	Astictopterus jama [kawahara2023]	kawahara2023	Astictopterini	#7570B3	64	FALSE
+Xanthoneura_obscurior_kawahara2023	Xanthoneura_obscurior	Xanthoneura obscurior	Xanthoneura obscurior	kawahara2023	Astictopterini	#7570B3	64	FALSE
+Dotta_callicles_kawahara2023	Dotta_callicles	Dotta callicles	Dotta callicles	kawahara2023	Astictopterini	#7570B3	64	FALSE
+Perrotia_varians_kawahara2023	Perrotia_varians	Perrotia varians	Perrotia varians	kawahara2023	Astictopterini	#7570B3	64	FALSE
+Fulda_coroller_kawahara2023	Fulda_coroller	Fulda coroller	Fulda coroller	kawahara2023	Astictopterini	#7570B3	64	FALSE
+Astictopterus_punctulata_kawahara2023	Astictopterus_punctulata	Astictopterus punctulata	Astictopterus punctulata	kawahara2023	Astictopterini	#7570B3	64	FALSE
+Isoteinon_lamprospilus_mydata	Isoteinon_lamprospilus	Isoteinon lamprospilus	Isoteinon lamprospilus [mydata]	mydata	Astictopterini	#7570B3	64	FALSE
+Isoteinon_lamprospilus_kawahara2023	Isoteinon_lamprospilus	Isoteinon lamprospilus	Isoteinon lamprospilus [kawahara2023]	kawahara2023	Astictopterini	#7570B3	64	FALSE
+Lissia_luehderi_kawahara2023	Lissia_luehderi	Lissia luehderi	Lissia luehderi	kawahara2023	Astictopterini	#7570B3	64	FALSE
+Gamia_shelleyi_kawahara2023	Gamia_shelleyi	Gamia shelleyi	Gamia shelleyi	kawahara2023	Astictopterini	#7570B3	64	FALSE
+Gamia_buchholzi_kawahara2023	Gamia_buchholzi	Gamia buchholzi	Gamia buchholzi	kawahara2023	Astictopterini	#7570B3	64	FALSE
+Artitropa_erinnys_kawahara2023	Artitropa_erinnys	Artitropa erinnys	Artitropa erinnys	kawahara2023	Astictopterini	#7570B3	64	FALSE
+Artitropa_comus_kawahara2023	Artitropa_comus	Artitropa comus	Artitropa comus	kawahara2023	Astictopterini	#7570B3	64	FALSE
+Flandria_weberi_kawahara2023	Flandria_weberi	Flandria weberi	Flandria weberi	kawahara2023	Astictopterini	#7570B3	64	FALSE
+Mopala_orma_kawahara2023	Mopala_orma	Mopala orma	Mopala orma	kawahara2023	Astictopterini	#7570B3	64	FALSE
+Leona_leonora_kawahara2023	Leona_leonora	Leona leonora	Leona leonora	kawahara2023	Astictopterini	#7570B3	64	FALSE
+Zophopetes_dysmephila_kawahara2023	Zophopetes_dysmephila	Zophopetes dysmephila	Zophopetes dysmephila	kawahara2023	Astictopterini	#7570B3	64	FALSE
+Zophopetes_cerymica_kawahara2023	Zophopetes_cerymica	Zophopetes cerymica	Zophopetes cerymica	kawahara2023	Astictopterini	#7570B3	64	FALSE
+Monza_punctata_kawahara2023	Monza_punctata	Monza punctata	Monza punctata	kawahara2023	Astictopterini	#7570B3	64	FALSE
+Pteroteinon_caenira_mydata	Pteroteinon_caenira	Pteroteinon caenira	Pteroteinon caenira	mydata	Astictopterini	#7570B3	64	FALSE
+Pteroteinon_laufella_kawahara2023	Pteroteinon_laufella	Pteroteinon laufella	Pteroteinon laufella	kawahara2023	Astictopterini	#7570B3	64	FALSE
+Hidari_bhawani_kawahara2023	Hidari_bhawani	Hidari bhawani	Hidari bhawani	kawahara2023	Astictopterini	#7570B3	64	FALSE
+Hidari_irava_mydata	Hidari_irava	Hidari irava	Hidari irava [mydata]	mydata	Astictopterini	#7570B3	64	FALSE
+Hidari_irava_kawahara2023	Hidari_irava	Hidari irava	Hidari irava [kawahara2023]	kawahara2023	Astictopterini	#7570B3	64	FALSE
+Caenides_dacela_kawahara2023	Caenides_dacela	Caenides dacela	Caenides dacela	kawahara2023	Astictopterini	#7570B3	64	FALSE
+Hollandus_xanthopeplus_kawahara2023	Hollandus_xanthopeplus	Hollandus xanthopeplus	Hollandus xanthopeplus	kawahara2023	Astictopterini	#7570B3	64	FALSE
+Hypoleucis_tripunctata_kawahara2023	Hypoleucis_tripunctata	Hypoleucis tripunctata	Hypoleucis tripunctata	kawahara2023	Astictopterini	#7570B3	64	FALSE
+Xanthodisca_vibius_kawahara2023	Xanthodisca_vibius	Xanthodisca vibius	Xanthodisca vibius	kawahara2023	Astictopterini	#7570B3	64	FALSE
+Semalea_pulvina_kawahara2023	Semalea_pulvina	Semalea pulvina	Semalea pulvina	kawahara2023	Astictopterini	#7570B3	64	FALSE
+Platylesches_picanini_kawahara2023	Platylesches_picanini	Platylesches picanini	Platylesches picanini	kawahara2023	Astictopterini	#7570B3	64	FALSE
+Melphina_melphis_kawahara2023	Melphina_melphis	Melphina melphis	Melphina melphis	kawahara2023	Astictopterini	#7570B3	64	FALSE
+Gorgyra_diversata_kawahara2023	Gorgyra_diversata	Gorgyra diversata	Gorgyra diversata	kawahara2023	Astictopterini	#7570B3	64	FALSE
+Parosmodes_morantii_kawahara2023	Parosmodes_morantii	Parosmodes morantii	Parosmodes morantii	kawahara2023	Astictopterini	#7570B3	64	FALSE
+Cupitha_purreea_kawahara2023	Cupitha_purreea	Cupitha purreea	Cupitha purreea [kawahara2023]	kawahara2023	Astictopterini	#7570B3	64	FALSE
+Cupitha_purreea_mydata	Cupitha_purreea	Cupitha purreea	Cupitha purreea [mydata]	mydata	Astictopterini	#7570B3	64	FALSE
+Osphantes_ogowena_kawahara2023	Osphantes_ogowena	Osphantes ogowena	Osphantes ogowena	kawahara2023	Astictopterini	#7570B3	64	FALSE
+Noctulana_noctula_kawahara2023	Noctulana_noctula	Noctulana noctula	Noctulana noctula	kawahara2023	Astictopterini	#7570B3	64	FALSE
+Zographetus_satwa_mydata	Zographetus_satwa	Zographetus satwa	Zographetus satwa	mydata	Astictopterini	#7570B3	64	FALSE
+Zographetus_ogygia_ogygia_kawahara2023	Zographetus_ogygia_ogygia	Zographetus ogygia ogygia	Zographetus ogygia ogygia	kawahara2023	Astictopterini	#7570B3	64	FALSE
+Gyrogra_subnotata_kawahara2023	Gyrogra_subnotata	Gyrogra subnotata	Gyrogra subnotata	kawahara2023	Astictopterini	#7570B3	64	FALSE
+Melphinyet_tarace_kawahara2023	Melphinyet_tarace	Melphinyet tarace	Melphinyet tarace	kawahara2023	Astictopterini	#7570B3	64	FALSE
+Melphinyet_flavina_kawahara2023	Melphinyet_flavina	Melphinyet flavina	Melphinyet flavina	kawahara2023	Astictopterini	#7570B3	64	FALSE
+Rhabdomantis_sosia_kawahara2023	Rhabdomantis_sosia	Rhabdomantis sosia	Rhabdomantis sosia	kawahara2023	Astictopterini	#7570B3	64	FALSE
+Rhabdomantis_galatia_kawahara2023	Rhabdomantis_galatia	Rhabdomantis galatia	Rhabdomantis galatia	kawahara2023	Astictopterini	#7570B3	64	FALSE
+Osmodes_thora_kawahara2023	Osmodes_thora	Osmodes thora	Osmodes thora	kawahara2023	Astictopterini	#7570B3	64	FALSE
+Osmodes_laronia_kawahara2023	Osmodes_laronia	Osmodes laronia	Osmodes laronia	kawahara2023	Astictopterini	#7570B3	64	FALSE
+Fresna_nyassae_kawahara2023	Fresna_nyassae	Fresna nyassae	Fresna nyassae	kawahara2023	Astictopterini	#7570B3	64	FALSE
+Fresna_netopha_kawahara2023	Fresna_netopha	Fresna netopha	Fresna netopha	kawahara2023	Astictopterini	#7570B3	64	FALSE
+Caenides_hidaroides_kawahara2023	Caenides_hidaroides	Caenides hidaroides	Caenides hidaroides	kawahara2023	Astictopterini	#7570B3	64	FALSE
+Paronymus_ligora_kawahara2023	Paronymus_ligora	Paronymus ligora	Paronymus ligora	kawahara2023	Astictopterini	#7570B3	64	FALSE
+Paronymus_xanthias_kawahara2023	Paronymus_xanthias	Paronymus xanthias	Paronymus xanthias	kawahara2023	Astictopterini	#7570B3	64	FALSE
+Ceratricula_semilutea_kawahara2023	Ceratricula_semilutea	Ceratricula semilutea	Ceratricula semilutea	kawahara2023	Astictopterini	#7570B3	64	FALSE
+Paracleros_biguttulus_kawahara2023	Paracleros_biguttulus	Paracleros biguttulus	Paracleros biguttulus	kawahara2023	Astictopterini	#7570B3	64	FALSE
+Acleros_ploetzi_kawahara2023	Acleros_ploetzi	Acleros ploetzi	Acleros ploetzi	kawahara2023	Astictopterini	#7570B3	64	FALSE
+Acleros_leucopyga_kawahara2023	Acleros_leucopyga	Acleros leucopyga	Acleros leucopyga	kawahara2023	Astictopterini	#7570B3	64	FALSE
+Andronymus_neander_kawahara2023	Andronymus_neander	Andronymus neander	Andronymus neander	kawahara2023	Astictopterini	#7570B3	64	FALSE
+Acada_biseriata_kawahara2023	Acada_biseriata	Acada biseriata	Acada biseriata	kawahara2023	Astictopterini	#7570B3	64	FALSE
+Teniorhinus_watsoni_kawahara2023	Teniorhinus_watsoni	Teniorhinus watsoni	Teniorhinus watsoni	kawahara2023	Astictopterini	#7570B3	64	FALSE
+Teniorhinus_harona_kawahara2023	Teniorhinus_harona	Teniorhinus harona	Teniorhinus harona	kawahara2023	Astictopterini	#7570B3	64	FALSE
+Gretna_cylinda_kawahara2023	Gretna_cylinda	Gretna cylinda	Gretna cylinda	kawahara2023	Gretnini	#E7298A	1	TRUE
+Tiacellia_tiacellia_kawahara2023	Tiacellia_tiacellia	Tiacellia tiacellia	Tiacellia tiacellia	kawahara2023	Taractrocerini	#66A61E	25	FALSE
+Oriens_gola_mydata	Oriens_gola	Oriens gola	Oriens gola	mydata	Taractrocerini	#66A61E	25	FALSE
+Oriens_gola_pseudolus_kawahara2023	Oriens_gola_pseudolus	Oriens gola pseudolus	Oriens gola pseudolus	kawahara2023	Taractrocerini	#66A61E	25	FALSE
+Banta_banta_kawahara2023	Banta_banta	Banta banta	Banta banta	kawahara2023	Taractrocerini	#66A61E	25	FALSE
+Taractrocera_maevius_kawahara2023	Taractrocera_maevius	Taractrocera maevius	Taractrocera maevius	kawahara2023	Taractrocerini	#66A61E	25	FALSE
+Taractrocera_luzonensis_luzonensis_kawahara2023	Taractrocera_luzonensis_luzonensis	Taractrocera luzonensis luzonensis	Taractrocera luzonensis luzonensis	kawahara2023	Taractrocerini	#66A61E	25	FALSE
+Kobrona_kobros_kawahara2023	Kobrona_kobros	Kobrona kobros	Kobrona kobros	kawahara2023	Taractrocerini	#66A61E	25	FALSE
+Ocybadistes_walkeri_kawahara2023	Ocybadistes_walkeri	Ocybadistes walkeri	Ocybadistes walkeri	kawahara2023	Taractrocerini	#66A61E	25	FALSE
+Ocybadistes_flavovittata_kawahara2023	Ocybadistes_flavovittata	Ocybadistes flavovittata	Ocybadistes flavovittata	kawahara2023	Taractrocerini	#66A61E	25	FALSE
+Suniana_sunias_kawahara2023	Suniana_sunias	Suniana sunias	Suniana sunias	kawahara2023	Taractrocerini	#66A61E	25	FALSE
+Potanthus_omaha_omaha_kawahara2023	Potanthus_omaha_omaha	Potanthus omaha omaha	Potanthus omaha omaha	kawahara2023	Taractrocerini	#66A61E	25	FALSE
+Potanthus_ganda_mydata	Potanthus_ganda	Potanthus ganda	Potanthus ganda	mydata	Taractrocerini	#66A61E	25	FALSE
+Potanthus_flavus_mydata	Potanthus_flavus	Potanthus flavus	Potanthus flavus	mydata	Taractrocerini	#66A61E	25	FALSE
+Potanthus_trachala_mydata	Potanthus_trachala	Potanthus trachala	Potanthus trachala	mydata	Taractrocerini	#66A61E	25	FALSE
+Sabera_caesina_kawahara2023	Sabera_caesina	Sabera caesina	Sabera caesina	kawahara2023	Taractrocerini	#66A61E	25	FALSE
+Mimene_celia_kawahara2023	Mimene_celia	Mimene celia	Mimene celia	kawahara2023	Taractrocerini	#66A61E	25	FALSE
+Arrhenes_marnas_kawahara2023	Arrhenes_marnas	Arrhenes marnas	Arrhenes marnas	kawahara2023	Taractrocerini	#66A61E	25	FALSE
+Arrhenes_dschilus_kawahara2023	Arrhenes_dschilus	Arrhenes dschilus	Arrhenes dschilus	kawahara2023	Taractrocerini	#66A61E	25	FALSE
+Cephrenes_acalle_oceanica_mydata	Cephrenes_acalle_oceanica	Cephrenes acalle oceanica	Cephrenes acalle oceanica	mydata	Taractrocerini	#66A61E	25	FALSE
+Cephrenes_augiades_kawahara2023	Cephrenes_augiades	Cephrenes augiades	Cephrenes augiades [kawahara2023]	kawahara2023	Taractrocerini	#66A61E	25	FALSE
+Cephrenes_augiades_mydata	Cephrenes_augiades	Cephrenes augiades	Cephrenes augiades [mydata]	mydata	Taractrocerini	#66A61E	25	FALSE
+Telicota_sp._kawahara2023	Telicota_sp.	Telicota sp.	Telicota sp. [kawahara2023]	kawahara2023	Taractrocerini	#66A61E	25	FALSE
+Telicota_sp._ncbi	Telicota_sp.	Telicota sp.	Telicota sp. [ncbi]	ncbi	Taractrocerini	#66A61E	25	FALSE
+Telicota_bambusae_mydata	Telicota_bambusae	Telicota bambusae	Telicota bambusae	mydata	Taractrocerini	#66A61E	25	FALSE
+Telicota_augias_augias_kawahara2023	Telicota_augias_augias	Telicota augias augias	Telicota augias augias	kawahara2023	Taractrocerini	#66A61E	25	FALSE
+Quedara_monteithi_monteithi_kawahara2023	Quedara_monteithi_monteithi	Quedara monteithi monteithi	Quedara monteithi monteithi	kawahara2023	Erionotini	#E6AB02	39	FALSE
+Hyarotis_adrastus_praba_kawahara2023	Hyarotis_adrastus_praba	Hyarotis adrastus praba	Hyarotis adrastus praba	kawahara2023	Erionotini	#E6AB02	39	FALSE
+Hyarotis_adrastus_mydata	Hyarotis_adrastus	Hyarotis adrastus	Hyarotis adrastus	mydata	Erionotini	#E6AB02	39	FALSE
+Suada_swerga_suava_kawahara2023	Suada_swerga_suava	Suada swerga suava	Suada swerga suava	kawahara2023	Erionotini	#E6AB02	39	FALSE
+Scobura_coniata_mydata	Scobura_coniata	Scobura coniata	Scobura coniata	mydata	Erionotini	#E6AB02	39	FALSE
+Scobura_cephaloides_mydata	Scobura_cephaloides	Scobura cephaloides	Scobura cephaloides	mydata	Erionotini	#E6AB02	39	FALSE
+Scobura_isota_kawahara2023	Scobura_isota	Scobura isota	Scobura isota	kawahara2023	Erionotini	#E6AB02	39	FALSE
+Scobura_eximia_mydata	Scobura_eximia	Scobura eximia	Scobura eximia	mydata	Erionotini	#E6AB02	39	FALSE
+Scobura_cephala_kawahara2023	Scobura_cephala	Scobura cephala	Scobura cephala	kawahara2023	Erionotini	#E6AB02	39	FALSE
+Ploetzia_amygdalis_kawahara2023	Ploetzia_amygdalis	Ploetzia amygdalis	Ploetzia amygdalis	kawahara2023	Erionotini	#E6AB02	39	FALSE
+Pirdana_distanti_mydata	Pirdana_distanti	Pirdana distanti	Pirdana distanti	mydata	Erionotini	#E6AB02	39	FALSE
+Pirdana_hyela_rudolphii_kawahara2023	Pirdana_hyela_rudolphii	Pirdana hyela rudolphii	Pirdana hyela rudolphii	kawahara2023	Erionotini	#E6AB02	39	FALSE
+Pirdana_hyela_mydata	Pirdana_hyela	Pirdana hyela	Pirdana hyela	mydata	Erionotini	#E6AB02	39	FALSE
+Oerane_microthyrus_kawahara2023	Oerane_microthyrus	Oerane microthyrus	Oerane microthyrus	kawahara2023	Erionotini	#E6AB02	39	FALSE
+Suastus_gremius_mydata	Suastus_gremius	Suastus gremius	Suastus gremius	mydata	Erionotini	#E6AB02	39	FALSE
+Suastus_gremius_gremius_kawahara2023	Suastus_gremius_gremius	Suastus gremius gremius	Suastus gremius gremius	kawahara2023	Erionotini	#E6AB02	39	FALSE
+Salanoemia_sala_kawahara2023	Salanoemia_sala	Salanoemia sala	Salanoemia sala	kawahara2023	Erionotini	#E6AB02	39	FALSE
+Plastingia_naga_kawahara2023	Plastingia_naga	Plastingia naga	Plastingia naga [kawahara2023]	kawahara2023	Erionotini	#E6AB02	39	FALSE
+Plastingia_naga_mydata	Plastingia_naga	Plastingia naga	Plastingia naga [mydata]	mydata	Erionotini	#E6AB02	39	FALSE
+Ge_geta_kawahara2023	Ge_geta	Ge geta	Ge geta	kawahara2023	Erionotini	#E6AB02	39	FALSE
+Pseudopirdana_albicornis_kawahara2023	Pseudopirdana_albicornis	Pseudopirdana albicornis	Pseudopirdana albicornis	kawahara2023	Erionotini	#E6AB02	39	FALSE
+Pyroneura_margherita_mydata	Pyroneura_margherita	Pyroneura margherita	Pyroneura margherita	mydata	Erionotini	#E6AB02	39	FALSE
+Pseudokerana_fulgur_kawahara2023	Pseudokerana_fulgur	Pseudokerana fulgur	Pseudokerana fulgur	kawahara2023	Erionotini	#E6AB02	39	FALSE
+Pyroneura_derna_kawahara2023	Pyroneura_derna	Pyroneura derna	Pyroneura derna	kawahara2023	Erionotini	#E6AB02	39	FALSE
+Lotongus_calathus_calathus_kawahara2023	Lotongus_calathus_calathus	Lotongus calathus calathus	Lotongus calathus calathus	kawahara2023	Erionotini	#E6AB02	39	FALSE
+Ilma_irvina_kawahara2023	Ilma_irvina	Ilma irvina	Ilma irvina	kawahara2023	Erionotini	#E6AB02	39	FALSE
+Unkana_ambasa_mydata	Unkana_ambasa	Unkana ambasa	Unkana ambasa	mydata	Erionotini	#E6AB02	39	FALSE
+Unkana_ambasa_batara_kawahara2023	Unkana_ambasa_batara	Unkana ambasa batara	Unkana ambasa batara	kawahara2023	Erionotini	#E6AB02	39	FALSE
+Matapa_sasivarna_mydata	Matapa_sasivarna	Matapa sasivarna	Matapa sasivarna	mydata	Erionotini	#E6AB02	39	FALSE
+Matapa_druna_mydata	Matapa_druna	Matapa druna	Matapa druna	mydata	Erionotini	#E6AB02	39	FALSE
+Matapa_aria_kawahara2023	Matapa_aria	Matapa aria	Matapa aria [kawahara2023]	kawahara2023	Erionotini	#E6AB02	39	FALSE
+Matapa_aria_mydata	Matapa_aria	Matapa aria	Matapa aria [mydata]	mydata	Erionotini	#E6AB02	39	FALSE
+Zela_zeus_optimus_kawahara2023	Zela_zeus_optimus	Zela zeus optimus	Zela zeus optimus	kawahara2023	Erionotini	#E6AB02	39	FALSE
+Acerbas_sarala_chinensis_mydata	Acerbas_sarala_chinensis	Acerbas sarala chinensis	Acerbas sarala chinensis	mydata	Erionotini	#E6AB02	39	FALSE
+Gangara_thyrsis_thyrsis_kawahara2023	Gangara_thyrsis_thyrsis	Gangara thyrsis thyrsis	Gangara thyrsis thyrsis	kawahara2023	Erionotini	#E6AB02	39	FALSE
+Erionota_grandis_mydata	Erionota_grandis	Erionota grandis	Erionota grandis	mydata	Erionotini	#E6AB02	39	FALSE
+Erionota_acroleucus_apicalis_kawahara2023	Erionota_acroleucus_apicalis	Erionota acroleucus apicalis	Erionota acroleucus apicalis	kawahara2023	Erionotini	#E6AB02	39	FALSE
+Erionota_thrax_ncbi	Erionota_thrax	Erionota thrax	Erionota thrax	ncbi	Erionotini	#E6AB02	39	FALSE
+Erionota_thrax_thrax_kawahara2023	Erionota_thrax_thrax	Erionota thrax thrax	Erionota thrax thrax	kawahara2023	Erionotini	#E6AB02	39	FALSE
+Ancistroides_gemmifer_kawahara2023	Ancistroides_gemmifer	Ancistroides gemmifer	Ancistroides gemmifer	kawahara2023	Notocryptini	#A6761D	9	FALSE
+Ancistroides_nigrita_mydata	Ancistroides_nigrita	Ancistroides nigrita	Ancistroides nigrita	mydata	Notocryptini	#A6761D	9	FALSE
+Udaspes_folus_mydata	Udaspes_folus	Udaspes folus	Udaspes folus [mydata]	mydata	Notocryptini	#A6761D	9	FALSE
+Udaspes_folus_kawahara2023	Udaspes_folus	Udaspes folus	Udaspes folus [kawahara2023]	kawahara2023	Notocryptini	#A6761D	9	FALSE
+Ancistroides_longicornis_kawahara2023	Ancistroides_longicornis	Ancistroides longicornis	Ancistroides longicornis	kawahara2023	Notocryptini	#A6761D	9	FALSE
+Notocrypta_paralysos_mydata	Notocrypta_paralysos	Notocrypta paralysos	Notocrypta paralysos	mydata	Notocryptini	#A6761D	9	FALSE
+Notocrypta_curvifascia_corinda_kawahara2023	Notocrypta_curvifascia_corinda	Notocrypta curvifascia corinda	Notocrypta curvifascia corinda	kawahara2023	Notocryptini	#A6761D	9	FALSE
+Notocrypta_feisthamelii_kawahara2023	Notocrypta_feisthamelii	Notocrypta feisthamelii	Notocrypta feisthamelii [kawahara2023]	kawahara2023	Notocryptini	#A6761D	9	FALSE
+Notocrypta_feisthamelii_ncbi	Notocrypta_feisthamelii	Notocrypta feisthamelii	Notocrypta feisthamelii [ncbi]	ncbi	Notocryptini	#A6761D	9	FALSE
+Eetion_elia_kawahara2023	Eetion_elia	Eetion elia	Eetion elia	kawahara2023	Eetionini	#666666	1	TRUE
+Iambrix_salsala_kawahara2023	Iambrix_salsala	Iambrix salsala	Iambrix salsala [kawahara2023]	kawahara2023	Ismini	#1F78B4	6	FALSE
+Iambrix_salsala_mydata	Iambrix_salsala	Iambrix salsala	Iambrix salsala [mydata]	mydata	Ismini	#1F78B4	6	FALSE
+Isma_protoclea_iapis_kawahara2023	Isma_protoclea_iapis	Isma protoclea iapis	Isma protoclea iapis	kawahara2023	Ismini	#1F78B4	6	FALSE
+Isma_bononia_idyalis_kawahara2023	Isma_bononia_idyalis	Isma bononia idyalis	Isma bononia idyalis	kawahara2023	Ismini	#1F78B4	6	FALSE
+Idmon_fujianana_mydata	Idmon_fujianana	Idmon fujianana	Idmon fujianana	mydata	Ismini	#1F78B4	6	FALSE
+Idmon_distanti_kawahara2023	Idmon_distanti	Idmon distanti	Idmon distanti	kawahara2023	Ismini	#1F78B4	6	FALSE
+Psolos_fuligo_fuligo_kawahara2023	Psolos_fuligo_fuligo	Psolos fuligo fuligo	Psolos fuligo fuligo	kawahara2023	Psolosini	#33A02C	5	FALSE
+Koruthaialos_rubecula_mydata	Koruthaialos_rubecula	Koruthaialos rubecula	Koruthaialos rubecula	mydata	Psolosini	#33A02C	5	FALSE
+Koruthaialos_rubecula_rubecula_kawahara2023	Koruthaialos_rubecula_rubecula	Koruthaialos rubecula rubecula	Koruthaialos rubecula rubecula	kawahara2023	Psolosini	#33A02C	5	FALSE
+Stimula_swinhoei_kawahara2023	Stimula_swinhoei	Stimula swinhoei	Stimula swinhoei	kawahara2023	Psolosini	#33A02C	5	FALSE
+Koruthaialos_butleri_kawahara2023	Koruthaialos_butleri	Koruthaialos butleri	Koruthaialos butleri	kawahara2023	Psolosini	#33A02C	5	FALSE
+Parnara_guttata_mydata	Parnara_guttata	Parnara guttata	Parnara guttata [mydata]	mydata	Baorini	#E31A1C	29	FALSE
+Parnara_guttata_kawahara2023	Parnara_guttata	Parnara guttata	Parnara guttata [kawahara2023]	kawahara2023	Baorini	#E31A1C	29	FALSE
+Parnara_apostata_apostata_kawahara2023	Parnara_apostata_apostata	Parnara apostata apostata	Parnara apostata apostata [kawahara2023]	kawahara2023	Baorini	#E31A1C	29	FALSE
+Parnara_apostata_apostata_mydata	Parnara_apostata_apostata	Parnara apostata apostata	Parnara apostata apostata [mydata]	mydata	Baorini	#E31A1C	29	FALSE
+Polytremis_nascens_mydata	Polytremis_nascens	Polytremis nascens	Polytremis nascens	mydata	Baorini	#E31A1C	29	FALSE
+Polytremis_theca_mydata	Polytremis_theca	Polytremis theca	Polytremis theca	mydata	Baorini	#E31A1C	29	FALSE
+Zenonia_zeno_kawahara2023	Zenonia_zeno	Zenonia zeno	Zenonia zeno	kawahara2023	Baorini	#E31A1C	29	FALSE
+Polytremis_eltola_mydata	Polytremis_eltola	Polytremis eltola	Polytremis eltola	mydata	Baorini	#E31A1C	29	FALSE
+Iton_watsonii_mydata	Iton_watsonii	Iton watsonii	Iton watsonii	mydata	Baorini	#E31A1C	29	FALSE
+Iton_semamora_semamora_kawahara2023	Iton_semamora_semamora	Iton semamora semamora	Iton semamora semamora	kawahara2023	Baorini	#E31A1C	29	FALSE
+Brusa_saxicola_kawahara2023	Brusa_saxicola	Brusa saxicola	Brusa saxicola	kawahara2023	Baorini	#E31A1C	29	FALSE
+Polytremis_lubricans_lubricans_kawahara2023	Polytremis_lubricans_lubricans	Polytremis lubricans lubricans	Polytremis lubricans lubricans	kawahara2023	Baorini	#E31A1C	29	FALSE
+Gegenes_nostrodamus_ncbi	Gegenes_nostrodamus	Gegenes nostrodamus	Gegenes nostrodamus	ncbi	Baorini	#E31A1C	29	FALSE
+Gegenes_pumilio_kawahara2023	Gegenes_pumilio	Gegenes pumilio	Gegenes pumilio	kawahara2023	Baorini	#E31A1C	29	FALSE
+Borbo_borbonica_kawahara2023	Borbo_borbonica	Borbo borbonica	Borbo borbonica	kawahara2023	Baorini	#E31A1C	29	FALSE
+Borbo_cinnara_kawahara2023	Borbo_cinnara	Borbo cinnara	Borbo cinnara [kawahara2023]	kawahara2023	Baorini	#E31A1C	29	FALSE
+Borbo_cinnara_mydata	Borbo_cinnara	Borbo cinnara	Borbo cinnara [mydata]	mydata	Baorini	#E31A1C	29	FALSE
+Prusiana_prusias_kawahara2023	Prusiana_prusias	Prusiana prusias	Prusiana prusias	kawahara2023	Baorini	#E31A1C	29	FALSE
+Caltoris_sirius_kawahara2023	Caltoris_sirius	Caltoris sirius	Caltoris sirius	kawahara2023	Baorini	#E31A1C	29	FALSE
+Caltoris_sirius_fusca_ncbi	Caltoris_sirius_fusca	Caltoris sirius fusca	Caltoris sirius fusca	ncbi	Baorini	#E31A1C	29	FALSE
+Caltoris_cormasa_kawahara2023	Caltoris_cormasa	Caltoris cormasa	Caltoris cormasa	kawahara2023	Baorini	#E31A1C	29	FALSE
+Caltoris_cahira_mydata	Caltoris_cahira	Caltoris cahira	Caltoris cahira	mydata	Baorini	#E31A1C	29	FALSE
+Baoris_oceia_kawahara2023	Baoris_oceia	Baoris oceia	Baoris oceia	kawahara2023	Baorini	#E31A1C	29	FALSE
+Baoris_farri_farri_kawahara2023	Baoris_farri_farri	Baoris farri farri	Baoris farri farri	kawahara2023	Baorini	#E31A1C	29	FALSE
+Baoris_farri_mydata	Baoris_farri	Baoris farri	Baoris farri	mydata	Baorini	#E31A1C	29	FALSE
+Pelopidas_sinensis_mydata	Pelopidas_sinensis	Pelopidas sinensis	Pelopidas sinensis	mydata	Baorini	#E31A1C	29	FALSE
+Pelopidas_mathias_kawahara2023	Pelopidas_mathias	Pelopidas mathias	Pelopidas mathias [kawahara2023]	kawahara2023	Baorini	#E31A1C	29	FALSE
+Pelopidas_mathias_mydata	Pelopidas_mathias	Pelopidas mathias	Pelopidas mathias [mydata]	mydata	Baorini	#E31A1C	29	FALSE
+Pelopidas_agna_ncbi	Pelopidas_agna	Pelopidas agna	Pelopidas agna	ncbi	Baorini	#E31A1C	29	FALSE
+Orphe_vatinius_kawahara2023	Orphe_vatinius	Orphe vatinius	Orphe vatinius	kawahara2023	Pericharini	#6A3D9A	11	FALSE
+Orphe_gerasa_kawahara2023	Orphe_gerasa	Orphe gerasa	Orphe gerasa	kawahara2023	Pericharini	#6A3D9A	11	FALSE
+Lychnuchoides_ozias_ozias_kawahara2023	Lychnuchoides_ozias_ozias	Lychnuchoides ozias ozias	Lychnuchoides ozias ozias	kawahara2023	Pericharini	#6A3D9A	11	FALSE
+Lychnuchoides_ozias_ncbi	Lychnuchoides_ozias	Lychnuchoides ozias	Lychnuchoides ozias	ncbi	Pericharini	#6A3D9A	11	FALSE
+Perichares_lotus_kawahara2023	Perichares_lotus	Perichares lotus	Perichares lotus	kawahara2023	Pericharini	#6A3D9A	11	FALSE
+Perichares_adela_kawahara2023	Perichares_adela	Perichares adela	Perichares adela [kawahara2023]	kawahara2023	Pericharini	#6A3D9A	11	FALSE
+Perichares_adela_mydata	Perichares_adela	Perichares adela	Perichares adela [mydata]	mydata	Pericharini	#6A3D9A	11	FALSE
+Orses_cynisca_ncbi	Orses_cynisca	Orses cynisca	Orses cynisca [ncbi]	ncbi	Pericharini	#6A3D9A	11	FALSE
+Orses_cynisca_kawahara2023	Orses_cynisca	Orses cynisca	Orses cynisca [kawahara2023]	kawahara2023	Pericharini	#6A3D9A	11	FALSE
+Lycas_argentea_kawahara2023	Lycas_argentea	Lycas argentea	Lycas argentea [kawahara2023]	kawahara2023	Pericharini	#6A3D9A	11	FALSE
+Lycas_argentea_ncbi	Lycas_argentea	Lycas argentea	Lycas argentea [ncbi]	ncbi	Pericharini	#6A3D9A	11	FALSE
+Carystoides_escalantei_kawahara2023	Carystoides_escalantei	Carystoides escalantei	Carystoides escalantei	kawahara2023	Megathymini	#B15928	11	FALSE
+Agathymus_aryxna_kawahara2023	Agathymus_aryxna	Agathymus aryxna	Agathymus aryxna	kawahara2023	Megathymini	#B15928	11	FALSE
+Agathymus_mariae_kawahara2023	Agathymus_mariae	Agathymus mariae	Agathymus mariae	kawahara2023	Megathymini	#B15928	11	FALSE
+Agathymus_mariae_mariae_ncbi	Agathymus_mariae_mariae	Agathymus mariae mariae	Agathymus mariae mariae	ncbi	Megathymini	#B15928	11	FALSE
+Stallingsia_maculosus_kawahara2023	Stallingsia_maculosus	Stallingsia maculosus	Stallingsia maculosus	kawahara2023	Megathymini	#B15928	11	FALSE
+Megathymus_streckeri_leussleri_kawahara2023	Megathymus_streckeri_leussleri	Megathymus streckeri leussleri	Megathymus streckeri leussleri	kawahara2023	Megathymini	#B15928	11	FALSE
+Megathymus_yuccae_yuccae_ncbi	Megathymus_yuccae_yuccae	Megathymus yuccae yuccae	Megathymus yuccae yuccae	ncbi	Megathymini	#B15928	11	FALSE
+Megathymus_violae_ncbi	Megathymus_violae	Megathymus violae	Megathymus violae	ncbi	Megathymini	#B15928	11	FALSE
+Megathymus_ursus_kawahara2023	Megathymus_ursus	Megathymus ursus	Megathymus ursus	kawahara2023	Megathymini	#B15928	11	FALSE
+Megathymus_ursus_ursus_ncbi	Megathymus_ursus_ursus	Megathymus ursus ursus	Megathymus ursus ursus	ncbi	Megathymini	#B15928	11	FALSE
+Megathymus_ursus_deserti_ncbi	Megathymus_ursus_deserti	Megathymus ursus deserti	Megathymus ursus deserti	ncbi	Megathymini	#B15928	11	FALSE
+Talides_sinois_kawahara2023	Talides_sinois	Talides sinois	Talides sinois	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Tromba_tromba_kawahara2023	Tromba_tromba	Tromba tromba	Tromba tromba	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Pyrrhopygopsis_socrates_crates_kawahara2023	Pyrrhopygopsis_socrates_crates	Pyrrhopygopsis socrates crates	Pyrrhopygopsis socrates crates	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Ebusus_ebusus_kawahara2023	Ebusus_ebusus	Ebusus ebusus	Ebusus ebusus	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Damas_clavus_kawahara2023	Damas_clavus	Damas clavus	Damas clavus	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Aroma_aroma_kawahara2023	Aroma_aroma	Aroma aroma	Aroma aroma	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Tellona_variegata_kawahara2023	Tellona_variegata	Tellona variegata	Tellona variegata	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Molo_mango_kawahara2023	Molo_mango	Molo mango	Molo mango [kawahara2023]	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Molo_mango_ncbi	Molo_mango	Molo mango	Molo mango [ncbi]	ncbi	Hesperiini	#17BECF	241	FALSE
+Dubiella_dubius_kawahara2023	Dubiella_dubius	Dubiella dubius	Dubiella dubius	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Carystina_aurifer_kawahara2023	Carystina_aurifer	Carystina aurifer	Carystina aurifer	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Thracides_phidon_kawahara2023	Thracides_phidon	Thracides phidon	Thracides phidon	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Aides_duma_argyrina_kawahara2023	Aides_duma_argyrina	Aides duma argyrina	Aides duma argyrina	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Vertica_verticalis_coatepeca_kawahara2023	Vertica_verticalis_coatepeca	Vertica verticalis coatepeca	Vertica verticalis coatepeca	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Cobalus_calvina_kawahara2023	Cobalus_calvina	Cobalus calvina	Cobalus calvina	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Moeros_moeros_kawahara2023	Moeros_moeros	Moeros moeros	Moeros moeros	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Peba_verames_kawahara2023	Peba_verames	Peba verames	Peba verames	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Argon_lota_kawahara2023	Argon_lota	Argon lota	Argon lota	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Synale_cynaxa_kawahara2023	Synale_cynaxa	Synale cynaxa	Synale cynaxa	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Carystus_phorcus_kawahara2023	Carystus_phorcus	Carystus phorcus	Carystus phorcus [kawahara2023]	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Carystus_phorcus_ncbi	Carystus_phorcus	Carystus phorcus	Carystus phorcus [ncbi]	ncbi	Hesperiini	#17BECF	241	FALSE
+Adopaeoides_prittwitzi_kawahara2023	Adopaeoides_prittwitzi	Adopaeoides prittwitzi	Adopaeoides prittwitzi	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Apaustus_gracilis_kawahara2023	Apaustus_gracilis	Apaustus gracilis	Apaustus gracilis	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Ancyloxypha_numitor_kawahara2023	Ancyloxypha_numitor	Ancyloxypha numitor	Ancyloxypha numitor	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Saliana_esperi_kawahara2023	Saliana_esperi	Saliana esperi	Saliana esperi	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Calpodes_ethlius_ncbi	Calpodes_ethlius	Calpodes ethlius	Calpodes ethlius [ncbi]	ncbi	Hesperiini	#17BECF	241	FALSE
+Calpodes_ethlius_kawahara2023	Calpodes_ethlius	Calpodes ethlius	Calpodes ethlius [kawahara2023]	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Zenis_jebus_kawahara2023	Zenis_jebus	Zenis jebus	Zenis jebus	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Panoquina_panoquin_kawahara2023	Panoquina_panoquin	Panoquina panoquin	Panoquina panoquin	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Panoquina_ocola_ocola_ncbi	Panoquina_ocola_ocola	Panoquina ocola ocola	Panoquina ocola ocola [ncbi]	ncbi	Hesperiini	#17BECF	241	FALSE
+Panoquina_ocola_ocola_kawahara2023	Panoquina_ocola_ocola	Panoquina ocola ocola	Panoquina ocola ocola [kawahara2023]	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Thymelicus_sylvestris_ncbi	Thymelicus_sylvestris	Thymelicus sylvestris	Thymelicus sylvestris	ncbi	Hesperiini	#17BECF	241	FALSE
+Thymelicus_lineola_kawahara2023	Thymelicus_lineola	Thymelicus lineola	Thymelicus lineola [kawahara2023]	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Thymelicus_lineola_ncbi	Thymelicus_lineola	Thymelicus lineola	Thymelicus lineola [ncbi]	ncbi	Hesperiini	#17BECF	241	FALSE
+Copaeodes_aurantiaca_ncbi	Copaeodes_aurantiaca	Copaeodes aurantiaca	Copaeodes aurantiaca [ncbi]	ncbi	Hesperiini	#17BECF	241	FALSE
+Copaeodes_aurantiaca_kawahara2023	Copaeodes_aurantiaca	Copaeodes aurantiaca	Copaeodes aurantiaca [kawahara2023]	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Oarisma_powesheik_ncbi	Oarisma_powesheik	Oarisma powesheik	Oarisma powesheik	ncbi	Hesperiini	#17BECF	241	FALSE
+Oarisma_garita_ncbi	Oarisma_garita	Oarisma garita	Oarisma garita [ncbi]	ncbi	Hesperiini	#17BECF	241	FALSE
+Oarisma_garita_kawahara2023	Oarisma_garita	Oarisma garita	Oarisma garita [kawahara2023]	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Mnaseas_bicolor_kawahara2023	Mnaseas_bicolor	Mnaseas bicolor	Mnaseas bicolor	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Arotis_derasa_brunnea_kawahara2023	Arotis_derasa_brunnea	Arotis derasa brunnea	Arotis derasa brunnea	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Papias_trimacula_kawahara2023	Papias_trimacula	Papias trimacula	Papias trimacula	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Euphyes_arpa_kawahara2023	Euphyes_arpa	Euphyes arpa	Euphyes arpa	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Euphyes_dion_kawahara2023	Euphyes_dion	Euphyes dion	Euphyes dion	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Notamblyscirtes_simius_ncbi	Notamblyscirtes_simius	Notamblyscirtes simius	Notamblyscirtes simius	ncbi	Hesperiini	#17BECF	241	FALSE
+Serdis_viridicans_kawahara2023	Serdis_viridicans	Serdis viridicans	Serdis viridicans	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Tirynthoides_lotana_kawahara2023	Tirynthoides_lotana	Tirynthoides lotana	Tirynthoides lotana	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Cyclosma_sp._kawahara2023	Cyclosma_sp.	Cyclosma sp.	Cyclosma sp.	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Metron_oropa_kawahara2023	Metron_oropa	Metron oropa	Metron oropa	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Phemiades_pohli_cidra_kawahara2023	Phemiades_pohli_cidra	Phemiades pohli cidra	Phemiades pohli cidra	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Libra_aligula_aligula_kawahara2023	Libra_aligula_aligula	Libra aligula aligula	Libra aligula aligula	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Lindra_brasus_kawahara2023	Lindra_brasus	Lindra brasus	Lindra brasus	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Oxynthes_corusca_kawahara2023	Oxynthes_corusca	Oxynthes corusca	Oxynthes corusca	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Orthos_trinka_kawahara2023	Orthos_trinka	Orthos trinka	Orthos trinka	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Chalcone_briquenydan_chalcone_kawahara2023	Chalcone_briquenydan_chalcone	Chalcone briquenydan chalcone	Chalcone briquenydan chalcone	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Propertius_dejongi_kawahara2023	Propertius_dejongi	Propertius dejongi	Propertius dejongi	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Hansa_devergens_hydra_kawahara2023	Hansa_devergens_hydra	Hansa devergens hydra	Hansa devergens hydra	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Amblyscirtes_simius_kawahara2023	Amblyscirtes_simius	Amblyscirtes simius	Amblyscirtes simius	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Problema_byssus_kawahara2023	Problema_byssus	Problema byssus	Problema byssus	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Atrytone_arogos_iowa_kawahara2023	Atrytone_arogos_iowa	Atrytone arogos iowa	Atrytone arogos iowa	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Zariaspes_mys_kawahara2023	Zariaspes_mys	Zariaspes mys	Zariaspes mys	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Anatrytone_logan_kawahara2023	Anatrytone_logan	Anatrytone logan	Anatrytone logan	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Quasimellana_antipazina_kawahara2023	Quasimellana_antipazina	Quasimellana antipazina	Quasimellana antipazina	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Onespa_gala_kawahara2023	Onespa_gala	Onespa gala	Onespa gala	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Buzyges_idothea_kawahara2023	Buzyges_idothea	Buzyges idothea	Buzyges idothea	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Librita_librita_kawahara2023	Librita_librita	Librita librita	Librita librita	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Tirynthia_conflua_kawahara2023	Tirynthia_conflua	Tirynthia conflua	Tirynthia conflua	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Decinea_decinea_kawahara2023	Decinea_decinea	Decinea decinea	Decinea decinea	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Evansiella_cordela_kawahara2023	Evansiella_cordela	Evansiella cordela	Evansiella cordela	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Paratrytone_snowi_kawahara2023	Paratrytone_snowi	Paratrytone snowi	Paratrytone snowi	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Thespieus_dalman_kawahara2023	Thespieus_dalman	Thespieus dalman	Thespieus dalman	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Thespieus_ethemides_mydata	Thespieus_ethemides	Thespieus ethemides	Thespieus ethemides	mydata	Hesperiini	#17BECF	241	FALSE
+Thespieus_macareus_kawahara2023	Thespieus_macareus	Thespieus macareus	Thespieus macareus	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Atrytonopsis_edwardsi_kawahara2023	Atrytonopsis_edwardsi	Atrytonopsis edwardsi	Atrytonopsis edwardsi	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Atrytonopsis_hianna_kawahara2023	Atrytonopsis_hianna	Atrytonopsis hianna	Atrytonopsis hianna	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Atrytonopsis_hianna_hianna_ncbi	Atrytonopsis_hianna_hianna	Atrytonopsis hianna hianna	Atrytonopsis hianna hianna	ncbi	Hesperiini	#17BECF	241	FALSE
+Xeniades_orchamus_kawahara2023	Xeniades_orchamus	Xeniades orchamus	Xeniades orchamus	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Vacerra_bonfilius_kawahara2023	Vacerra_bonfilius	Vacerra bonfilius	Vacerra bonfilius	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Cobaloides_argus_kawahara2023	Cobaloides_argus	Cobaloides argus	Cobaloides argus	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Oligoria_maculata_kawahara2023	Oligoria_maculata	Oligoria maculata	Oligoria maculata	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Stinga_morrisoni_kawahara2023	Stinga_morrisoni	Stinga morrisoni	Stinga morrisoni	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Lon_zabulon_kawahara2023	Lon_zabulon	Lon zabulon	Lon zabulon	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Ochlodes_sylvanoides_omnigena_kawahara2023	Ochlodes_sylvanoides_omnigena	Ochlodes sylvanoides omnigena	Ochlodes sylvanoides omnigena	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Ochlodes_sylvanus_ncbi	Ochlodes_sylvanus	Ochlodes sylvanus	Ochlodes sylvanus	ncbi	Hesperiini	#17BECF	241	FALSE
+Ochlodes_bouddha_mydata	Ochlodes_bouddha	Ochlodes bouddha	Ochlodes bouddha	mydata	Hesperiini	#17BECF	241	FALSE
+Ochlodes_thibetana_mydata	Ochlodes_thibetana	Ochlodes thibetana	Ochlodes thibetana	mydata	Hesperiini	#17BECF	241	FALSE
+Parachoranthus_magdalia_kawahara2023	Parachoranthus_magdalia	Parachoranthus magdalia	Parachoranthus magdalia	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Nyctelius_nyctelius_kawahara2023	Nyctelius_nyctelius	Nyctelius nyctelius	Nyctelius nyctelius	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Conga_zela_kawahara2023	Conga_zela	Conga zela	Conga zela	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Conga_chydaea_kawahara2023	Conga_chydaea	Conga chydaea	Conga chydaea	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Vernia_verna_ncbi	Vernia_verna	Vernia verna	Vernia verna [ncbi]	ncbi	Hesperiini	#17BECF	241	FALSE
+Vernia_verna_kawahara2023	Vernia_verna	Vernia verna	Vernia verna [kawahara2023]	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Pseudocopaeodes_eunus_kawahara2023	Pseudocopaeodes_eunus	Pseudocopaeodes eunus	Pseudocopaeodes eunus	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Atalopedes_campestris_kawahara2023	Atalopedes_campestris	Atalopedes campestris	Atalopedes campestris	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Hesperia_comma_kawahara2023	Hesperia_comma	Hesperia comma	Hesperia comma [kawahara2023]	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Hesperia_meskei_straton_ncbi	Hesperia_meskei_straton	Hesperia meskei straton	Hesperia meskei straton	ncbi	Hesperiini	#17BECF	241	FALSE
+Hesperia_meskei_kawahara2023	Hesperia_meskei	Hesperia meskei	Hesperia meskei	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Hesperia_dacotae_ncbi	Hesperia_dacotae	Hesperia dacotae	Hesperia dacotae	ncbi	Hesperiini	#17BECF	241	FALSE
+Hesperia_nevada_nevada_ncbi	Hesperia_nevada_nevada	Hesperia nevada nevada	Hesperia nevada nevada	ncbi	Hesperiini	#17BECF	241	FALSE
+Hesperia_colorado_sublima_ncbi	Hesperia_colorado_sublima	Hesperia colorado sublima	Hesperia colorado sublima	ncbi	Hesperiini	#17BECF	241	FALSE
+Hesperia_comma_ncbi	Hesperia_comma	Hesperia comma	Hesperia comma [ncbi]	ncbi	Hesperiini	#17BECF	241	FALSE
+Hesperia_pahaska_williamsi_ncbi	Hesperia_pahaska_williamsi	Hesperia pahaska williamsi	Hesperia pahaska williamsi	ncbi	Hesperiini	#17BECF	241	FALSE
+Hesperia_woodgatei_ncbi	Hesperia_woodgatei	Hesperia woodgatei	Hesperia woodgatei	ncbi	Hesperiini	#17BECF	241	FALSE
+Hesperia_balcones_ncbi	Hesperia_balcones	Hesperia balcones	Hesperia balcones	ncbi	Hesperiini	#17BECF	241	FALSE
+Hesperia_viridis_ncbi	Hesperia_viridis	Hesperia viridis	Hesperia viridis	ncbi	Hesperiini	#17BECF	241	FALSE
+Hesperia_attalus_slossonae_ncbi	Hesperia_attalus_slossonae	Hesperia attalus slossonae	Hesperia attalus slossonae	ncbi	Hesperiini	#17BECF	241	FALSE
+Hylephila_phyleus_ncbi	Hylephila_phyleus	Hylephila phyleus	Hylephila phyleus	ncbi	Hesperiini	#17BECF	241	FALSE
+Polites_vibex_praeceps_ncbi	Polites_vibex_praeceps	Polites vibex praeceps	Polites vibex praeceps	ncbi	Hesperiini	#17BECF	241	FALSE
+Polites_vibex_kawahara2023	Polites_vibex	Polites vibex	Polites vibex	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Pompeius_pompeius_kawahara2023	Pompeius_pompeius	Pompeius pompeius	Pompeius pompeius [kawahara2023]	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Pompeius_pompeius_ncbi	Pompeius_pompeius	Pompeius pompeius	Pompeius pompeius [ncbi]	ncbi	Hesperiini	#17BECF	241	FALSE
+Pompeius_amblyspila_ncbi	Pompeius_amblyspila	Pompeius amblyspila	Pompeius amblyspila	ncbi	Hesperiini	#17BECF	241	FALSE
+Appia_appia_kawahara2023	Appia_appia	Appia appia	Appia appia	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Polites_origenes_origenes_mydata	Polites_origenes_origenes	Polites origenes origenes	Polites origenes origenes	mydata	Hesperiini	#17BECF	241	FALSE
+Polites_sonora_mydata	Polites_sonora	Polites sonora	Polites sonora	mydata	Hesperiini	#17BECF	241	FALSE
+Polites_mystic_mydata	Polites_mystic	Polites mystic	Polites mystic	mydata	Hesperiini	#17BECF	241	FALSE
+Wallengrenia_egeremet_ncbi	Wallengrenia_egeremet	Wallengrenia egeremet	Wallengrenia egeremet	ncbi	Hesperiini	#17BECF	241	FALSE
+Wallengrenia_premnas_kawahara2023	Wallengrenia_premnas	Wallengrenia premnas	Wallengrenia premnas	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Wallengrenia_otho_otho_kawahara2023	Wallengrenia_otho_otho	Wallengrenia otho otho	Wallengrenia otho otho	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Wallengrenia_otho_ncbi	Wallengrenia_otho	Wallengrenia otho	Wallengrenia otho	ncbi	Hesperiini	#17BECF	241	FALSE
+Polites_baracoa_baracoa_ncbi	Polites_baracoa_baracoa	Polites baracoa baracoa	Polites baracoa baracoa	ncbi	Hesperiini	#17BECF	241	FALSE
+Polites_rhesus_ncbi	Polites_rhesus	Polites rhesus	Polites rhesus	ncbi	Hesperiini	#17BECF	241	FALSE
+Polites_carus_ncbi	Polites_carus	Polites carus	Polites carus	ncbi	Hesperiini	#17BECF	241	FALSE
+Polites_themistocles_turneri_ncbi	Polites_themistocles_turneri	Polites themistocles turneri	Polites themistocles turneri	ncbi	Hesperiini	#17BECF	241	FALSE
+Polites_mardon_ncbi	Polites_mardon	Polites mardon	Polites mardon	ncbi	Hesperiini	#17BECF	241	FALSE
+Polites_peckius_peckius_ncbi	Polites_peckius_peckius	Polites peckius peckius	Polites peckius peckius	ncbi	Hesperiini	#17BECF	241	FALSE
+Polites_sabuleti_sabuleti_ncbi	Polites_sabuleti_sabuleti	Polites sabuleti sabuleti	Polites sabuleti sabuleti	ncbi	Hesperiini	#17BECF	241	FALSE
+Polites_draco_ncbi	Polites_draco	Polites draco	Polites draco	ncbi	Hesperiini	#17BECF	241	FALSE
+Falga_jeconia_kawahara2023	Falga_jeconia	Falga jeconia	Falga jeconia	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Thargella_evansi_kawahara2023	Thargella_evansi	Thargella evansi	Thargella evansi	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Propapias_sipariana_kawahara2023	Propapias_sipariana	Propapias sipariana	Propapias sipariana	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Synapte_silius_kawahara2023	Synapte_silius	Synapte silius	Synapte silius	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Synapte_salenus_salenus_kawahara2023	Synapte_salenus_salenus	Synapte salenus salenus	Synapte salenus salenus	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Turesis_theste_kawahara2023	Turesis_theste	Turesis theste	Turesis theste	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Flaccilla_aecas_kawahara2023	Flaccilla_aecas	Flaccilla aecas	Flaccilla aecas	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Methion_melas_kawahara2023	Methion_melas	Methion melas	Methion melas	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Mnasinous_patage_kawahara2023	Mnasinous_patage	Mnasinous patage	Mnasinous patage	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Miltomiges_cinnamomea_kawahara2023	Miltomiges_cinnamomea	Miltomiges cinnamomea	Miltomiges cinnamomea	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Methionopsis_ina_kawahara2023	Methionopsis_ina	Methionopsis ina	Methionopsis ina	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Racta_chiria_kawahara2023	Racta_chiria	Racta chiria	Racta chiria	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Racta_sp._kawahara2023	Racta_sp.	Racta sp.	Racta sp.	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Corticea_corticea_kawahara2023	Corticea_corticea	Corticea corticea	Corticea corticea	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Anthoptus_insignis_kawahara2023	Anthoptus_insignis	Anthoptus insignis	Anthoptus insignis [kawahara2023]	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Anthoptus_insignis_ncbi	Anthoptus_insignis	Anthoptus insignis	Anthoptus insignis [ncbi]	ncbi	Hesperiini	#17BECF	241	FALSE
+Anthoptus_sp._kawahara2023	Anthoptus_sp.	Anthoptus sp.	Anthoptus sp.	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Anthoptus_epictetus_kawahara2023	Anthoptus_epictetus	Anthoptus epictetus	Anthoptus epictetus	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Choranthus_radians_kawahara2023	Choranthus_radians	Choranthus radians	Choranthus radians	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Choranthus_vitellius_ncbi	Choranthus_vitellius	Choranthus vitellius	Choranthus vitellius	ncbi	Hesperiini	#17BECF	241	FALSE
+Choranthus_haitensis_kawahara2023	Choranthus_haitensis	Choranthus haitensis	Choranthus haitensis	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Pyrrhocalles_antiqua_antiqua_kawahara2023	Pyrrhocalles_antiqua_antiqua	Pyrrhocalles antiqua antiqua	Pyrrhocalles antiqua antiqua	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Asbolis_capucinus_ncbi	Asbolis_capucinus	Asbolis capucinus	Asbolis capucinus [ncbi]	ncbi	Hesperiini	#17BECF	241	FALSE
+Asbolis_capucinus_kawahara2023	Asbolis_capucinus	Asbolis capucinus	Asbolis capucinus [kawahara2023]	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Styriodes_quadrinotata_kawahara2023	Styriodes_quadrinotata	Styriodes quadrinotata	Styriodes quadrinotata	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Saniba_sabina_kawahara2023	Saniba_sabina	Saniba sabina	Saniba sabina	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Psoralis_stacara_kawahara2023	Psoralis_stacara	Psoralis stacara	Psoralis stacara	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Pamba_boyaca_kawahara2023	Pamba_boyaca	Pamba boyaca	Pamba boyaca	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Alychna_victa_ncbi	Alychna_victa	Alychna victa	Alychna victa [ncbi]	ncbi	Hesperiini	#17BECF	241	FALSE
+Alychna_victa_kawahara2023	Alychna_victa	Alychna victa	Alychna victa [kawahara2023]	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Mucia_zygia_kawahara2023	Mucia_zygia	Mucia zygia	Mucia zygia	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Adlerodea_petrovna_kawahara2023	Adlerodea_petrovna	Adlerodea petrovna	Adlerodea petrovna	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Wahydra_sp._kawahara2023	Wahydra_sp.	Wahydra sp.	Wahydra sp.	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Wahydra_kenava_kawahara2023	Wahydra_kenava	Wahydra kenava	Wahydra kenava [kawahara2023]	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Wahydra_kenava_ncbi	Wahydra_kenava	Wahydra kenava	Wahydra kenava [ncbi]	ncbi	Hesperiini	#17BECF	241	FALSE
+Vinius_letis_kawahara2023	Vinius_letis	Vinius letis	Vinius letis	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Rhinthon_cubana_kawahara2023	Rhinthon_cubana	Rhinthon cubana	Rhinthon cubana	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Neoxeniades_braesia_kawahara2023	Neoxeniades_braesia	Neoxeniades braesia	Neoxeniades braesia	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Quinta_cannae_kawahara2023	Quinta_cannae	Quinta cannae	Quinta cannae	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Cynea_cynea_kawahara2023	Cynea_cynea	Cynea cynea	Cynea cynea	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Cynea_diluta_kawahara2023	Cynea_diluta	Cynea diluta	Cynea diluta	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Onophas_columbaria_kawahara2023	Onophas_columbaria	Onophas columbaria	Onophas columbaria	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Punta_punta_kawahara2023	Punta_punta	Punta punta	Punta punta	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Paracarystus_hypargyra_kawahara2023	Paracarystus_hypargyra	Paracarystus hypargyra	Paracarystus hypargyra	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Moeris_striga_striga_kawahara2023	Moeris_striga_striga	Moeris striga striga	Moeris striga striga	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Tricrista_advena_kawahara2023	Tricrista_advena	Tricrista advena	Tricrista advena	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Gallio_carasta_kawahara2023	Gallio_carasta	Gallio carasta	Gallio carasta	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Thoon_modius_kawahara2023	Thoon_modius	Thoon modius	Thoon modius	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Halotus_rica_kawahara2023	Halotus_rica	Halotus rica	Halotus rica	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Tigasis_arita_kawahara2023	Tigasis_arita	Tigasis arita	Tigasis arita	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Joanna_joanna_kawahara2023	Joanna_joanna	Joanna joanna	Joanna joanna	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Niconiades_xanthaphes_kawahara2023	Niconiades_xanthaphes	Niconiades xanthaphes	Niconiades xanthaphes	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Niconiades_incomptus_ncbi	Niconiades_incomptus	Niconiades incomptus	Niconiades incomptus [ncbi]	ncbi	Hesperiini	#17BECF	241	FALSE
+Niconiades_incomptus_kawahara2023	Niconiades_incomptus	Niconiades incomptus	Niconiades incomptus [kawahara2023]	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Remella_rita_kawahara2023	Remella_rita	Remella rita	Remella rita	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Mnasicles_geta_kawahara2023	Mnasicles_geta	Mnasicles geta	Mnasicles geta	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Amblyscirtes_florus_kawahara2023	Amblyscirtes_florus	Amblyscirtes florus	Amblyscirtes florus	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Amblyscirtes_elissa_ncbi	Amblyscirtes_elissa	Amblyscirtes elissa	Amblyscirtes elissa	ncbi	Hesperiini	#17BECF	241	FALSE
+Amblyscirtes_eos_kawahara2023	Amblyscirtes_eos	Amblyscirtes eos	Amblyscirtes eos	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Amblyscirtes_celia_ncbi	Amblyscirtes_celia	Amblyscirtes celia	Amblyscirtes celia	ncbi	Hesperiini	#17BECF	241	FALSE
+Amblyscirtes_belli_ncbi	Amblyscirtes_belli	Amblyscirtes belli	Amblyscirtes belli	ncbi	Hesperiini	#17BECF	241	FALSE
+Mnasitheus_chrysophrys_kawahara2023	Mnasitheus_chrysophrys	Mnasitheus chrysophrys	Mnasitheus chrysophrys	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Callimormus_radiola_kawahara2023	Callimormus_radiola	Callimormus radiola	Callimormus radiola	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Misius_misius_kawahara2023	Misius_misius	Misius misius	Misius misius	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Rigga_hesia_kawahara2023	Rigga_hesia	Rigga hesia	Rigga hesia	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Levina_levina_kawahara2023	Levina_levina	Levina levina	Levina levina	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Mnestheus_ittona_kawahara2023	Mnestheus_ittona	Mnestheus ittona	Mnestheus ittona	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Virga_austrinus_kawahara2023	Virga_austrinus	Virga austrinus	Virga austrinus	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Lento_lento_kawahara2023	Lento_lento	Lento lento	Lento lento	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Sodalia_sodalis_kawahara2023	Sodalia_sodalis	Sodalia sodalis	Sodalia sodalis	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Naevolus_orius_kawahara2023	Naevolus_orius	Naevolus orius	Naevolus orius	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Lychnuchus_celsus_kawahara2023	Lychnuchus_celsus	Lychnuchus celsus	Lychnuchus celsus	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Enosis_sp._kawahara2023	Enosis_sp.	Enosis sp.	Enosis sp.	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Venas_evans_kawahara2023	Venas_evans	Venas evans	Venas evans	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Eprius_veleda_kawahara2023	Eprius_veleda	Eprius veleda	Eprius veleda	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Eutychide_physcella_kawahara2023	Eutychide_physcella	Eutychide physcella	Eutychide physcella	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Dion_gemmatus_kawahara2023	Dion_gemmatus	Dion gemmatus	Dion gemmatus	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Phanes_abaris_kawahara2023	Phanes_abaris	Phanes abaris	Phanes abaris	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Cumbre_cumbre_kawahara2023	Cumbre_cumbre	Cumbre cumbre	Cumbre cumbre	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Rufocumbre_eberti_kawahara2023	Rufocumbre_eberti	Rufocumbre eberti	Rufocumbre eberti	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Molla_molla_kawahara2023	Molla_molla	Molla molla	Molla molla	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Lamponia_lamponia_kawahara2023	Lamponia_lamponia	Lamponia lamponia	Lamponia lamponia	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Pheraeus_odilia_argus_kawahara2023	Pheraeus_odilia_argus	Pheraeus odilia argus	Pheraeus odilia argus	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Artines_rica_kawahara2023	Artines_rica	Artines rica	Artines rica	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Eutocus_sp._kawahara2023	Eutocus_sp.	Eutocus sp.	Eutocus sp.	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Lucida_lucia_kawahara2023	Lucida_lucia	Lucida lucia	Lucida lucia	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Ginungagapus_ranesus_kawahara2023	Ginungagapus_ranesus	Ginungagapus ranesus	Ginungagapus ranesus	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Panca_subpunctuli_kawahara2023	Panca_subpunctuli	Panca subpunctuli	Panca subpunctuli	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Ginungagapus_fiedleri_kawahara2023	Ginungagapus_fiedleri	Ginungagapus fiedleri	Ginungagapus fiedleri	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Duroca_duroca_duroca_ncbi	Duroca_duroca_duroca	Duroca duroca duroca	Duroca duroca duroca	ncbi	Hesperiini	#17BECF	241	FALSE
+Duroca_duroca_kawahara2023	Duroca_duroca	Duroca duroca	Duroca duroca	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Cantha_calva_kawahara2023	Cantha_calva	Cantha calva	Cantha calva	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Saturnus_metonidia_kawahara2023	Saturnus_metonidia	Saturnus metonidia	Saturnus metonidia	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Parphorus_storax_s._kawahara2023	Parphorus_storax_s.	Parphorus storax s.	Parphorus storax s.	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Papias_subcostulata_kawahara2023	Papias_subcostulata	Papias subcostulata	Papias subcostulata	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Mnasilus_allubita_kawahara2023	Mnasilus_allubita	Mnasilus allubita	Mnasilus allubita	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Morys_compta_kawahara2023	Morys_compta	Morys compta	Morys compta	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Lerema_accius_kawahara2023	Lerema_accius	Lerema accius	Lerema accius	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Lerema_liris_ncbi	Lerema_liris	Lerema liris	Lerema liris	ncbi	Hesperiini	#17BECF	241	FALSE
+Lerema_lineosa_ncbi	Lerema_lineosa	Lerema lineosa	Lerema lineosa	ncbi	Hesperiini	#17BECF	241	FALSE
+Vidius_catarinae_kawahara2023	Vidius_catarinae	Vidius catarinae	Vidius catarinae	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Cymaenes_tripunctata_kawahara2023	Cymaenes_tripunctata	Cymaenes tripunctata	Cymaenes tripunctata	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Cobalopsis_miaba_kawahara2023	Cobalopsis_miaba	Cobalopsis miaba	Cobalopsis miaba	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Lerodea_eufala_kawahara2023	Lerodea_eufala	Lerodea eufala	Lerodea eufala	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Vehilius_celeus_kawahara2023	Vehilius_celeus	Vehilius celeus	Vehilius celeus	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Nastra_julia_kawahara2023	Nastra_julia	Nastra julia	Nastra julia [kawahara2023]	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Nastra_julia_ncbi	Nastra_julia	Nastra julia	Nastra julia [ncbi]	ncbi	Hesperiini	#17BECF	241	FALSE
+Monca_branca_kawahara2023	Monca_branca	Monca branca	Monca branca	kawahara2023	Hesperiini	#17BECF	241	FALSE
+Troyus_fantasos_ncbi	Troyus_fantasos	Troyus fantasos	Troyus fantasos	ncbi	Hesperiini	#17BECF	241	FALSE
+Troyus_diversus_maeon_ncbi	Troyus_diversus_maeon	Troyus diversus maeon	Troyus diversus maeon	ncbi	Hesperiini	#17BECF	241	FALSE
+Troyus_aurelius_ncbi	Troyus_aurelius	Troyus aurelius	Troyus aurelius	ncbi	Hesperiini	#17BECF	241	FALSE
+Troyus_marcus_ncbi	Troyus_marcus	Troyus marcus	Troyus marcus	ncbi	Hesperiini	#17BECF	241	FALSE
+Vettius_lafrenaye_kawahara2023	Vettius_lafrenaye	Vettius lafrenaye	Vettius lafrenaye	kawahara2023	Hesperiini	#17BECF	241	FALSE

@@ -1,0 +1,5 @@
+scenario	role	smoothing	root_age_ma	papilionidae_nonbaronia_age_ma	hesperiinae_age_ma	hesperiinae_shift_from_A_ma	root_status	papilionidae_status	hesperiinae_status	qa_status
+A_two_node_main	primary manuscript chronogram	1e-10	91.5046004848485	52.9472997142857	42.0830894959016	0	lower_boundary_hit	upper_boundary_hit	not_calibrated	PASS
+B_three_node_sensitivity	direct Hesperiinae-constraint sensitivity only	1e-9	91.6495313575758	52.9472995714286	40.6625373688525	-1.42055212704918	within_bounds_no_boundary_hit	upper_boundary_hit	upper_boundary_hit	PASS
+C_root_only	leave-one-out diagnostic only	1e-9	95.5078636545454	55.9005092857143	44.5410006598361	2.4579111639345	within_bounds_not_boundary	not_calibrated	not_calibrated	PASS
+D_papilionidae_only	leave-one-out diagnostic only	1e-9	88.0819531050505	51.0259307142857	43.0477950963115	0.9647056004099	not_calibrated	within_bounds_not_boundary	not_calibrated	PASS

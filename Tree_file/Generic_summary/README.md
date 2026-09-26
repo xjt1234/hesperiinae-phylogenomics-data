@@ -1,0 +1,7 @@
+# Genus-level summaries
+
+`tables/Table_S10a.tsv` through `Table_S10d.tsv` are unrounded cell-value exports from the current supplementary workbook: genus-status summaries, audited context nodes, sample crosswalks and displayed units. `source_data` supplies the archived sample-tree representation and metadata used for the genus-level analyses. Identical source files are retained only once; their locations are listed in `file_locations.tsv`.
+
+`work/r210_revision_20260909/audit_tree_assets.py` implements tree parsing, descendant-tip sets and the sampled-genus exclusivity summaries. The adjacent status-audit script and source tables document the case assignments. `work/r210_supplement_20260909/figure_s9_data.py` prepares the data for the nine S9 cases; rendering code and images are not included. Some original filenames refer to Figure 7, the earlier working number for this analysis. The manuscript reference is Figure S9.
+
+Original scripts retain Windows execution paths and may refer to source workbooks outside this directory. They are provided as computational documentation, with the current outputs and exact source data. Set paths in a separate copy before executing them; do not treat the archived path strings as paths on your own computer. The current Table S10 exports are the reader-facing summaries. No new tree estimation, nomenclatural act or formal monophyly test was performed when preparing these files.

@@ -1,0 +1,161 @@
+{
+  "schema_version": "1.0",
+  "status": "APPROVED_CONDITIONAL_CONTINUATION",
+  "created_date": "2026-09-14",
+  "created": "2026-09-14T00:12:12.329830+00:00",
+  "user_authorization": "R4按照计划继续分析",
+  "purpose": "Complete the finite preplanned M1 BSM under the NEW R4 geography exception scenario; no refitting, no old caches or histories.",
+  "backend": "native",
+  "scientific_acceptance": "NONE",
+  "model": "M1",
+  "KKT1": false,
+  "fit_rds": "04_runs/M1_R4_final_v1/fit_result.rds",
+  "fit_sha256": "bb855fe8bfc2919d5eed94224b177463d517dc78fbe958cc34faf44fcca1bff4",
+  "postfit_rds": "04_runs/M1_R4_postfit_v1/postfit_recalculated_ancestral_states.rds",
+  "postfit_sha256": "566b86c007d123be0fccf1064abf076ad26e6c082ceac8133cbed447ef52e08d",
+  "d": 0.0615707117583825,
+  "e": 0.00265249422147563,
+  "j": 0.0,
+  "w": 1.0,
+  "n_tips": 417,
+  "n_states": 562,
+  "max_range_size": 4,
+  "n_time_strata": 5,
+  "input_manifest_sha256": "f7e121a3ce4aff304767eef6df39eba6f9ef473242aad48411a3b2c204d4a306",
+  "area_order": [
+    "AF",
+    "AUS",
+    "CAM",
+    "ENA",
+    "EPA",
+    "IND",
+    "MDG",
+    "ORI",
+    "SAM",
+    "WNA",
+    "WPA"
+  ],
+  "old_world_areas": [
+    "AF",
+    "AUS",
+    "EPA",
+    "IND",
+    "MDG",
+    "ORI",
+    "WPA"
+  ],
+  "new_world_areas": [
+    "CAM",
+    "ENA",
+    "SAM",
+    "WNA"
+  ],
+  "null_range_aggregation": "Separate NULL category; never assign it silently to either world.",
+  "geography_scenario": "All corrected geographic rows except explicitly authorized Pelopidas_mathias legacy coding; joint coding/range comparison to R6, not pure range-cap sensitivity.",
+  "resource_limits": {
+    "unit": "bgb-pelopidas-r4-bsm-20260914.service",
+    "cpu_quota_cores": 4,
+    "tasks_max": 32,
+    "memory_max_bytes": 16000000000,
+    "memory_swap_max_bytes": 0,
+    "bsm_bgb_cores": 1,
+    "native_math_threads": 1,
+    "overall_walltime_seconds": 172800
+  },
+  "r5_execution_mode": "NOT_PERFORMED_BY_USER_DECISION",
+  "minimum_successful_maps": 100,
+  "first_stability_checkpoint": 200,
+  "max_successful_maps": 500,
+  "map_batch_size": 100,
+  "max_attempts": 1000,
+  "maxtries": 40000,
+  "seed_base": 202609140,
+  "pilot_successful_maps": 1,
+  "no_success_failure_stop": 10,
+  "bsm_stability_policy": "Unchanged vendored05 rules: 5% relative MCSE (absolute0.05 below mean1), cumulative d/e change and identical top-three route/extinction sets vs previous and initial100; first passing checkpoint>=200, cap500.",
+  "bsm_required_qa": [
+    "actual_new_fit_and_postfit_hashes",
+    "fresh_native_preparation_only",
+    "562_states_five_epochs",
+    "1473_audited_branch_calls",
+    "416_unique_cladogenetic_nodes",
+    "one_area_gains_and_losses",
+    "j_zero",
+    "independent_vs_native_counts",
+    "total_area_epoch_conservation",
+    "zero_warnings",
+    "no_forced_histories",
+    "separate_map_and_source_seeds",
+    "all_attempts_and_orphans_retained",
+    "cache_identity_before_resume"
+  ],
+  "preparation_policy": "FRESH_NATIVE_PREPARATION_FROM_NEW_R4_POSTFIT_ONLY",
+  "bsm_path_sampler": "UNIFORMIZATION_NATIVE_EFFECTIVE_Q",
+  "bridge_relative_tail_tolerance": 1e-12,
+  "bridge_expected_branch_calls": 1473,
+  "bridge_vector_cache_max_bytes": 2147483648,
+  "bridge_native_q_absolute_rounding_tolerance": 1e-07,
+  "bridge_native_q_relative_rounding_tolerance": 4.76837158203125e-07,
+  "bridge_generator_interpretation": "Qeff matches native waiting rates and normalized outgoing probabilities; freshly recomputed native endpoint selection uses unchanged Qraw. Single-rounded residuals are bounded and disclosed, not claimed algebraically identical.",
+  "bridge_reference": "https://doi.org/10.1214/09-AOAS247",
+  "bridge_required_evidence": {
+    "generic_selftest": {
+      "path": "08_qa/bsm_bridge_preflight_20260914/generic_v1/selftest_summary.json",
+      "sha256": "8cb9ae9e8c3eb1d7df0f0273f86501118ef68d3d46ea7b5d76decf32d5dccb10"
+    },
+    "generic_selftest_checks": {
+      "path": "08_qa/bsm_bridge_preflight_20260914/generic_v1/checks.tsv",
+      "sha256": "6ec043010493cbba7b798da8cfcdff946924cb79a3a008b711cf419172e2cdef"
+    },
+    "actual_new_R4_postfit_QA": {
+      "path": "04_runs/M1_R4_postfit_v1/postfit_QA.tsv",
+      "sha256": "c7c1340934ed95e42645baa145f33b4a7f00aa1503649446ba34d48f27ce2d91"
+    },
+    "numerical_scope_note": {
+      "path": "08_qa/bsm_bridge_preflight_20260914/NUMERICAL_AND_SCOPE_NOTE.md",
+      "sha256": "6426f613908c4557ba2f17414e006feeeff9cc5eb6e8cc6a01e3d79aad7b23b3"
+    }
+  },
+  "maxtries_interpretation": "40000 is a legacy provenance field only; bridge has max10000series terms,lambda<=1000,relative Poisson-tail control and no rejection/manual fallback.",
+  "forced_history_policy": "No manual fallback in replacement kernel. Reject any warning, force-fit marker, invalid event, or failed conservation; retain all attempts and rejected candidates.",
+  "completion_policy": "COMPUTE_COMPLETE_CONDITIONAL_REVIEW_REQUIRED, INCOMPLETE, or FAILED only; never silently promote KKT1 or claim unconditional scientific acceptance.",
+  "no_automatic_tasks": [
+    "more_R4_optimization",
+    "KKT_fixed_point_probes",
+    "R5",
+    "M0_or_M2_BSM",
+    "R6_stop_restart_or_edit",
+    "Scenario_B",
+    "posterior_tree_refits",
+    "six_model_revival"
+  ],
+  "frozen_inputs": {
+    "01_inputs/frozen/tree_scenarioA417.tre": "06725d5a0c1ef29007aeb0f7657175c2d2329c75cb4d8fb2170e39b5fdaf6962",
+    "01_inputs/frozen/geog_scenarioA417_analysis_order.LagrangePHYLIP": "3aa227e4600629eb77178ab68a30bb7cf408189bbcb9f8989ae1f184ce834ca4",
+    "01_inputs/frozen/input_manifest.json": "f7e121a3ce4aff304767eef6df39eba6f9ef473242aad48411a3b2c204d4a306",
+    "02_config/timeperiods_5epochs.txt": "90dadc7755385b44d9333f22e2acaeac163bd0ce4507289e1720671eccc4e51f",
+    "02_config/M1_conservative_dispersal_multipliers.txt": "34cc3ee7f0789d978948e35085fb9ed89de09f2600b50384bb074bd11db7029c",
+    "02_config/area_order.tsv": "7daa151006fbe79d00ed92a83938aca4b04dbc89bbaa814710bf244dcb1a0804"
+  },
+  "frozen_helpers": {
+    "03_scripts/09_bsm_vendor_20260914/05_run_bsm_m1_stratified.R": "cf03d8019906827ca3c6fcb49874d210acd4f6983682956c684d7c52a100abc5",
+    "03_scripts/09_bsm_vendor_20260914/69_run_conditional_native_bsm_20260908.R": "30f69a8f322bebdfca1cc18d45750641de434eb51f502100b98c62ea96f7512e",
+    "03_scripts/09_bsm_vendor_20260914/70_supervise_conditional_bsm_20260908.py": "39a8bc0d3a96740453fac8956e088b3589aa613a170091f00606806514b94d76",
+    "03_scripts/09_bsm_vendor_20260914/74_ctmc_uniformization_bridge_20260908.R": "bd8af71058f50557d3dcba2863ad7006b8c1b858ff578b842f36391f0cf5d8a6",
+    "03_scripts/09_bsm_vendor_20260914/75_selftest_ctmc_bridge_20260908.R": "bc3fc5b2cd0b5f86622f272c41d33ea59e0471eaab4d51358b68c9980ec9f686",
+    "03_scripts/09_bsm_vendor_20260914/76_run_conditional_bridge_bsm_20260908.R": "ac08d7d13ab75c0848ade1c9248d3e523b4d8741b6d36954af242488b613ab67",
+    "03_scripts/09_bsm_vendor_20260914/77_prepare_bridge_contract_20260908.py": "818b24c815454504faab048d6b8f75cf615d0e54ce05f13d3cb758c0d443f066",
+    "03_scripts/09_bsm_vendor_20260914/selftest_generic_bridge_R4_20260914.R": "79546260b66ff07a6bb3c284c662ad5011c55ccae3f2ce2060e306a7074ba6cf",
+    "03_scripts/10_run_R4_bridge_bsm_20260914.R": "79ec75b6a75fc02d8b69ff21bfb989f9420edb4ca4f27abe5ec98df4684aa53b",
+    "03_scripts/11_prepare_R4_bridge_contract_20260914.py": "60536e13831046f6c8c120561ff5f3ca030d85f07d9d11b4de78e85e9a13e6aa",
+    "03_scripts/12_supervise_R4_BSM_20260914.py": "2461a5492a8cd8b4d9a87ff6ada912d4993e745328f6b6fa11b64497f809c20c",
+    "03_scripts/r44_env.sh": "945706db49d8d91ce920c6c77a6e8bd03a29d4fa0b3dc5fb920715235df86110"
+  },
+  "numerical_audit": {
+    "path": "08_qa/bsm_bridge_preflight_20260914/NUMERICAL_AND_SCOPE_NOTE.md",
+    "sha256": "6426f613908c4557ba2f17414e006feeeff9cc5eb6e8cc6a01e3d79aad7b23b3",
+    "interpretation": "New-fit conditional scope only; old geography-specific numerical claims are not inherited."
+  },
+  "code_reuse_policy": "Vendored source only; old scientific cache, raw histories, fitted-Q fixtures and old-figure data are not runtime inputs.",
+  "table_S2_policy": "Three DEC variants within this R4 scenario only; do not pool R4/R6 AIC weights."
+}
