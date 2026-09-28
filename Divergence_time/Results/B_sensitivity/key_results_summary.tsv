@@ -2,8 +2,6 @@ category	metric	value	unit	interpretation	source_file
 analysis	overall_status	PASS	status	No critical QA failures	qa/qa_report_core.md
 input	tip_count	495	tips	Unique tree tips; exact FASTA taxon-set match	qa/input_tree_stats.tsv;qa/alignment_validation.tsv
 input	alignment_length	182682	bp	Length supplied to treePL as numsites	qa/alignment_validation.tsv;configs/final.cfg
-input	input_tree_sha256	4d35d553ed5bbf08022daef2361ffa0c342f8694a53aaf08d5350692094439e5	sha256	Fixed input ML tree	qa/final_provenance_sha256.tsv
-input	alignment_sha256	ed2ab38a770ac647ebf711f086110fd6e04b1d391a3bcc9089155e208307c0b2	sha256	Matching 495-tip nucleotide matrix	input/Hesperiinae_NT_supermatrix.495tip.requested_mydata_labels.fasta
 calibration	crown_papilionoidea_bounds	91.5046-100.8925	Ma	Posterior-derived secondary hard constraint	Toussaint_2025_calibration_provenance.md
 calibration	crown_non_baronia_papilionidae_bounds	44.1968-52.9473	Ma	Posterior-derived secondary hard constraint	Toussaint_2025_calibration_provenance.md
 calibration	crown_hesperiinae_bounds	36.210861-40.662537	Ma	Posterior-derived secondary hard constraint	Toussaint_2025_calibration_provenance.md
@@ -24,7 +22,6 @@ cv	tied_minimum_count	9	values	Values 1e-9 through 1e-17	qa/cv_23point_decision.
 cv	sensitivity_smoothing_values	1e-10,1e-11,1e-12,1e-13,1e-14,1e-15,1e-16,1e-17	smooth	All non-primary aggregate tied winners	qa/final_variant_manifest.tsv
 final	primary_seed	2026090488	seed	Primary and final-variant seed	configs/final.cfg
 final	primary_thorough	TRUE	boolean	Primary treePL run uses thorough	configs/final.cfg
-final	primary_tree_sha256	0e1e17d539019d7c5c869941992838d65f371d77e219d90fb9033f9507d839a9	sha256	Canonical three-calibration dated tree	qa/final_provenance_sha256.tsv
 age	crown_papilionoidea_primary	91.6495313575758	Ma	Within hard interval; not at 1e-6 boundary	qa/node_ages.tsv
 age	crown_non_baronia_papilionidae_primary	52.9472995714286	Ma	Constraint-limited at upper boundary	qa/node_ages.tsv
 age	crown_hesperiinae_primary	40.6625373688525	Ma	Constraint-limited at upper boundary; 1e-5 serialization gate passes	qa/node_ages.tsv

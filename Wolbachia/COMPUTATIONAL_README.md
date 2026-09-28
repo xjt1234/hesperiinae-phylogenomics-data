@@ -39,8 +39,8 @@ host-branch correspondences to calibration scenarios A and B.
 ## Software and source layout
 
 The computational scripts are unchanged copies of the scripts used for these
-analyses. `SOURCE_FILES.tsv` records the archive member and SHA-256 of each copied
-file. Their original directory names, absolute Linux paths, checkpoint checks,
+analyses. `SOURCE_FILES.tsv` records the source archive member, archived byte size
+and repository location of each included file. Their original directory names, absolute Linux paths, checkpoint checks,
 frozen hashes and historical scenario identifiers remain in the source. The
 `recovery` filename identifies the completed execution with the existing R
 library; `USCO_legacy` identifies the historical host sensitivity rather than the
